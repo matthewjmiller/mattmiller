@@ -4,8 +4,8 @@ title: Matt-Miller.org
 email: mm@matt-miller.org
 description: >- # this means to ignore newlines until "baseurl:"
   I'm Matt Miller, a rhetorician, marketer, and writer from the Midwest.
-baseurl: "mattmiller" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "matt-miller.org" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown

@@ -3,16 +3,14 @@ layout: page
 title: About
 permalink: /about/
 ---
+I was once described as "flat, but in a good way." As a Nebraskan, I take that as a compliment.
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I am a researcher, writer, and teacher with abiding interests in liturgy, media, and place. Trained in rhetoric—the ancient discipline that studies persuasion and communication—I work in marketing, teach on the side, and write about history, sustainability, and place. 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+### Scholarship, Reading, and Writing
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+My CV and other academic work [are hosted at Academia.edu](https://slu.academia.edu/MatthewMiller). You can find out what I'm reading at any given moment by following my RSS reading at [NewsBlur](http://matthewjmiller.newsblur.com) or my public annotations at [Diigo](https://www.diigo.com/user/matthewjmiller).
 
+### Marketing
 
-[jekyll-organization]: https://github.com/jekyll
+By day, I'm a market research and content writer at [MarketPlace](market-pl.com). My marketing resume is on [LinkedIn](https://www.linkedin.com/in/matthewjosiahmiller/).

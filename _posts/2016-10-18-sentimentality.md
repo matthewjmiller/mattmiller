@@ -2,7 +2,7 @@
 layout: post
 title:  "Sentimentality"
 date:   2016-10-18
-categories: evangelicalism, literature
+categories: evangelicalism
 permalink: /sentimentality/
 ---
 

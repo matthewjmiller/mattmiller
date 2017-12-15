@@ -1,5 +1,6 @@
 ---
 layout: post
+title: "Whoever does not know the face of God in contemplation will not recognize it in action"
 date: 2016-09-22
 categories: church
 permalink: /contemplation/

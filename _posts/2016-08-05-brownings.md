@@ -10,4 +10,4 @@ permalink: /brownings/
 
 >Their letters may be published a hundred times over, they still remain private. They write to each other in a language of their own, an almost exasperatingly impressionist language, a language chiefly consisting of dots and dashes and asterisks and italics, and brackets and notes of interrogation. Wordsworth when he heard afterwards of their eventual elopement said with that slight touch of bitterness he always used in speaking of Browning, ‘So Robert Browning and Miss Barrett have gone off together. I hope they understand each other—nobody else would.’ It would be difficult to pay a higher compliment to a marriage.
 
-G. K. Chesterton, *Robert Browning.* Via [Ayjay](blog.ayjay.org).
+G. K. Chesterton, *Robert Browning.* Via [Ayjay](http://blog.ayjay.org).

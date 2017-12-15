@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Sentimentality"
+title:  "Sentimentality and Christian literature"
 date:   2016-10-18
 categories: evangelicalism
 permalink: /sentimentality/

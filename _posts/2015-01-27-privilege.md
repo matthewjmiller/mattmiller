@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The handicaps of privilege"
-date: 2015-01027
+date: 2015-01-27
 categories: ideas
 permalink: /privilege/
 ---

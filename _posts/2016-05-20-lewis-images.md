@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Never take the images literally"
+date: 2016-05-20
+categories: literature
+permalink: /lewis-exegetics/
+---
+
+> Lewis suggests two rules for exegetics. First, ‘never take the images literally.’ Second, ’when the *purport* of the images—what they say to our fear and hope and will and affections—seems to conflict with the theological abstractions, trust the purport of the images every time.’ Abstractions model spiritual reality by means of legal or chemical or mechanical metaphors, and these tend to be less adequate than ‘the sensuous, organic, and personal images of scripture—light and darkness, river and well, seed and harvest, master and servant, hen and chickens, father and child.’ We know, Lewis says, ‘that God forgives much better than we know what “impassable” means.’ Likewise, he would argue that we know that God is a Father much better than we know what ‘sexless’ means. To prefer abstractions is not to be more rational; it is simply to be less fully human. De-mythologisers, like Bultmann, are really only re-mythologizers; and the new mythology is poorer than the old one. A ‘sexless God’ is the theological equivalent of rewriting *The Romance of the Rose* as *The Romance of the Onion*: the rich and redolent image has been unwisely substituted by a less profound and suggestive one. Of the old image (Father) it may be difficult to say in cold prose exactly what it meant, and theologians may be able to say about the new image all sorts of things which could not have been said about the old one. Like Arnom’s new image of Ungit (the barbarian Aphrodite) in *Till We Have Faces*, a ‘sexless God’ is much cleaner and simpler than the traditional image, but it contains ‘no comfort’ because it is a merely rational construction; its relationship with the organ of meaning has grown tenuous. Imagination’s role in theological understanding must not be belittled in this way, for the result is that reason ends up trying to make bricks out of strawy abstractions. Lewis’s dependence here on imagination arises from his belief that ‘it is rational not to reason, or not to limit oneself to reason, in the wrong place.’
+
+Michael Ward, *Planet Narnia*.

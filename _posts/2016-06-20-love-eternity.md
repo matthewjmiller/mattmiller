@@ -1,6 +1,6 @@
 ---
 layout: post 
-tile: "Love, eternity, modernity"
+title: "Love, eternity, modernity"
 date: 2016-06-20
 categories: ideas 
 permalink: /love-eternity/

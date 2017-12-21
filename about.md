@@ -13,4 +13,4 @@ My CV and other academic work [are hosted at Academia.edu](https://slu.academia.
 
 ### Marketing
 
-By day, I'm a market research and content writer at [MarketPlace](market-pl.com). My marketing resume is on [LinkedIn](https://www.linkedin.com/in/matthewjosiahmiller/).
+By day, I'm a market researcher and content writer at [MarketPlace](market-pl.com). My marketing resume is on [LinkedIn](https://www.linkedin.com/in/matthewjosiahmiller/).

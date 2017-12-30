@@ -1,0 +1,11 @@
+---
+layout: post 
+title: "The prairie still shines like transfiguration"
+date: 2012-05-12
+categories: midwest
+permalink: /prairie-transfiguration/
+---
+
+> What I discovered in my researches about this part of the country was a vigorous civic idealism and a deep commitment to education. In its early history there was a significant presence of young clergy from places like Yale and Amherst who came to the frontier intent on starting the civilisation over again on the basis of real equality, and proofing it against the encroachments of slavery. Their approach to every problem was to educate – women, African Americans and, crucially, the general population. It was an exhausting and extremely generous campaign, carried on for decades. Its effects are still palpable. The fine little colleges they founded in surprising numbers flourish still. It is true at the same time that the history behind this heritage is largely forgotten, that it persists as custom rather than as memory. In practical terms it has meant that the clock was turned back and the best reforms were compromised or lost until the civil rights movement took hold a century later. John Ames lives in this middle period, old enough to remember his abolitionist grandfather, and to see the beginnings of the new era. I am sad to say that in this respect he is a conventional good man of the period. The novel is, among other things, an inquiry into the question of how individual lives interact with culture and history, for weal and for woe. A modest query and a vast question. Still, as an American, I can only grieve at the thought of the possibilities that were raised on this gorgeous, storm-ridden prairie, then foreclosed and forgotten – history somehow erasing itself. There is a deep and abiding loveliness nevertheless, the ember still to be breathed upon. And this is in Ames’s mind, too. The prairie still shines like transfiguration.
+
+[Marilynne Robinson on writing *Gilead*](http://www.guardian.co.uk/books/2012/may/11/guardian-bookclub-gilead-marilynne-robinson).

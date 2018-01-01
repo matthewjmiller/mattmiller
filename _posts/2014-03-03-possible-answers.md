@@ -1,12 +1,10 @@
 ---
 layout: post
-title: "Possible answers to prayer"
+title: "Possible Answers to Prayer"
 date: 2014-03-03
 categories: poetry
 permalink: /possible-answers-to-prayer/
 ---
-
-## Possible Answers to Prayer
 
 Your petitions—though they continue to bear   
 just the one signature—have been duly recorded.   
@@ -32,4 +30,4 @@ these must burn away before you’ll apprehend
 how near I am, with what fervor I adore    
 precisely these, the several who rouse your passions.    
 
-[Scott Cairns](http://www.poetryfoundation.org/poem/177143).
+[Scott Cairns](http://www.poetryfoundation.org/poem/177143)

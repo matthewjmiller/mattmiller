@@ -1,0 +1,15 @@
+---
+layout: post 
+title: "The original order of publication is best for entering Narnia"
+date: 2014-04-09
+categories: literature
+permalink: /narnia-publication-order/
+---
+
+> Any reasonable ordering of the books must have *The Last Battle* as the final story, and must place *Prince Caspian* before *The Voyage of the ‘Dawn Treader,’* since the latter is very straightforwardly a sequel to the former. Also, *The Silver Chair* cannot come before either of those books, since one of its main characters, Eustace, appears in *Dawn Treader* as a younger and very different sort of person from the one he is in *The Silver Chair.* Moreover, readers of the series will probably agree that *The Horse and His Boy*, being a largely self-contained story with minimal connections to the others - it is mentioned briefly in *The Silver Chair,* and the Pevensies appear in it briefly as rulers of Narnia - could be stuck into the sequence anywhere except the beginning and end. So the dispute really concerns only one question: should the sequence begin with *The Lion, the Witch and the Wardrobe* or *The Magician’s Nephew*?
+>
+> The argument for *The Magician’s Nephew* is simple: since it describes Aslan’s making of Narnia, placing it at the beginning yields a biblical, Creation-to-Apocalypse arc for the series. The case for *The Lion* is more complex and much stronger. First of all, though Lewis spoke of altering the order of the books, he also spoke of needing to revise the books in order to remove inconsistencies - and if *Nephew* is read first, there will be many such inconsistencies. For one thing, we are told quite explicitly at the end of *The Lion* that its narrative is ’the *beginning* of the adventures of Narnia’. For another, Lewis tells his readers that the children in *The Lion* do not know who Aslan is ‘any more than you do’; but of course the readers *would* know Aslan if they had already read *Nephew.* Moreover, much of the suspense in the early chapters of *The Lion* derives from our inability to understand what is happening in the magical wardrobe - but if we have read *Nephew* we will know all about the wardrobe, and that part of the story will become, effectively, pointless. Similarly, one of the delights of *The Lion* is the inexplicable presence of a lamp-post in the midst of a forest - a very familiar object from our world standing curiously in the midst of an utterly different world - and one of the delights of *Nephew* is the unexpected discovery of how that lamp-post got there. Anyone who begins with *Nephew* will lose that small but intense pleasure, the *frisson* of one of Lewis’s richest images.
+>
+> If Lewis really and truly thought that the series was best begun with *The Magician’s Nephew,* he was simply mistaken. The original order of publication is the best for any reader wishing to enter Narnia.
+
+Alan Jacobs, “*The Chronicles of Narnia*,” in *The Cambridge Companion to C. S. Lewis.*

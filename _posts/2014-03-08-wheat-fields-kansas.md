@@ -2,7 +2,9 @@
 layout: post
 title: "It's going to be interesting to see those wheat fields in Kansas"
 date: 2014-03-08
+categories: place
 permalink: /wheat-fields-kansas/
+---
 
 > Little Mack is so excited about going to Kansas. He’s been reading the Atlas, and he drops little hints about our exciting excursion every chance he gets.
 >

@@ -4,6 +4,7 @@ title: "In a Dream William Stafford Visits Me"
 date: 2014-03-13
 categories: poetry
 permalink: /william-stafford/
+---
 
 He is walking across a field of wheat    
 in Kansas, grain as tall as his shoulder    

@@ -6,4 +6,4 @@ categories: images
 permalink: /annunciation-collier/
 ---
 
-![Annuciation by John Collier](https://github.com/matthewjmiller/mattmiller/blob/gh-pages/_assets/annunciation.jpg)
+![Annuciation by John Collier](https://github.com/matthewjmiller/mattmiller/blob/gh-pages/_assets/annunciation.jpg?raw=true)

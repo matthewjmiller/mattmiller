@@ -6,4 +6,4 @@ categories: images
 permalink: /annunciation-collier/
 ---
 
-![Annuciation by John Collier](/_assets/annunciation.jpg/)
+![Annuciation by John Collier](/assets/annunciation.jpg)

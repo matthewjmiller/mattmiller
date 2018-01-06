@@ -1,14 +1,14 @@
 ---
 layout: post
 title: "Home Coffee Roasting with a Heat Gun: Resources and Notes"
-date: 
+date: 2018-01-06
 categories: coffee
 permalink: /heat-gun-roasting/
 ---
 
-*This post is newly revised an updated after previous publication on my Tumblr.*
+*This post is newly revised and updated after previous publication on my Tumblr in 2013.*
 
-As some readers may be aware, [I roast coffee at home](http://matt-miller.org/casual-home-coffee-roasting), and have done so for a number of years. For the first two and half years, I roasted with a hot air popcorn popper (as I discuss in the above link). But when my popcorn popper died, and the replacement died immediately too, I decided, after consultation with [my friend Brian Gumm](https://twitter.com/RoastedOnRoss), to start roasting with a heat gun instead.
+As some readers may be aware, [I roast coffee at home](http://matt-miller.org/casual-home-coffee-roasting), and have done so for a number of years. For the first two and half years, I roasted with a hot air popcorn popper (as I discuss in the above link). But when my popcorn popper died, and the replacement died immediately too, I decided, after consultation with [my friend Brian Gumm](https://twitter.com/RoastedOnRoss), to start roasting with a heat gun instead. (Brian has since graduated to a professional roaster and roasting business, and I'm thrilled for him. Try his coffee!)
 
 Heat gun roasting, however, is not [Sweet Maria’s](http://www.sweetmarias.com)-supported, so whereas you can learn all you need to know about roasting with a popper on a single website in a short amount of time, it’s much harder to educate yourself about heat gun roasting. So I’m putting up this post to aggregate a few of the best resources I found and add a few of my notes on how to roast successfully. I’ve done about a dozen roasts now with the heat gun now, so I feel like I have the basics down, but these should still be taken as initial notes–and I’ll likely update this post later.
 

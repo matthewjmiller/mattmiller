@@ -18,17 +18,15 @@ A popcorn popper is still the most sensible option if you’re just getting star
 
 ### Resources
 
-[The most comprehensive guide](http://coffeecrone.com/roasting/breadmachine.htm), via Brian Gumm.
+[The most comprehensive guide](https://web.archive.org/web/20130823103925/http://coffeecrone.com/roasting/breadmachine.htm), via Brian Gumm and mercifully preserved by the Internet Archive.
 
 [The most useful video](https://www.youtube.com/watch?v=boUmoMN4QXI&feature=youtu.be), involving roasting in a metal bowl rather than a bread machine.
-
-[Another useful video](https://vusay.com/yt/TLMubk5DH7A).
 
 [And another](https://www.youtube.com/watch?v=8VlOOuJZQQ4).
 
 [And here’s a fun setup](https://www.youtube.com/watch?v=LivLKX9L6Rk&list=UUyWbbmuQVZo6ALU_HMsesvg).
 
-UPDATE: [this sample from Scott Rao’s book](http://scottrao.com/Coffee-Roasters-Companion.pdf "Coffee Roaster's Companion") (justifiably expensive in total) has a couple of helpful, digestible tips.
+[Scott Rao’s book on coffee roasting](http://scottrao.com/) is a great resource if you feel like dropping the money on it.
 
 You can also find tips on listserv archives and forums, but that’s a lot of work and I don’t have readily-available links to anything crucial.
 
@@ -57,9 +55,9 @@ I’d love to hear other tips, see other resources, or answer questions, so [get
 
 I’ve been roasting long enough now to offer a few more tips. 
 
-If you are shopping for a heat gun, I would recommend getting one with no less wattage than 1200.[This is the one I have](http://www.homedepot.com/p/Wagner-HT1000-1200-Watt-Heat-Gun-0503008/100048744), and I find myself wishing I could get more heat out of it, so if it’s in your budget, I would spring for something bigger. I’ve found that roasting a whole pound does not work well with my current setup, and I’m concerned that lower ambient temperatures going into winter may really affect my roast–both of which concerns would be addressed by a heftier gun.
+If you are shopping for a heat gun, I would recommend getting one with no less wattage than 1200. I have the standard Wagner they sell at Home Depot, and I have sometimes found myself wishing I could get more heat out of it, so if it’s in your budget, I would spring for something bigger. I’ve found that roasting a whole pound does not work well with my current setup, and ambient temperatures below about 40 degrees make roasting nearly impossible.
 
-After I mastered the basic technique, I’ve begun to explore using the manual control afforded by the heat gun method to achieve certain roast profiles. I’m not using a thermometer (yet), so this is purely based on observation. Right now I’m working on accomplishing the roast curve outlined by [Scott Rao](http://www.scottrao.com/Coffee-Roasters-Companion.pdf), in which the coffee undergoes an initial spike of heat, then a drop followed by a curve up to first crack, then completing the roast within about 25-30% of the total roast time. To achieve that technique, I’m trying a couple of things: in the first minute or so of the roast, I stir the coffee only minimally, to produce that heat spike. Then when I get to first crack, I keep the heat on high (the gun as close as possible to the beans) for about the first minute of the roast, then back off by about an inch until the completion of the roast.
+After I mastered the basic technique, I’ve begun to explore using the manual control afforded by the heat gun method to achieve certain roast profiles. I’m not using a thermometer (yet), so this is purely based on observation. Right now I’m working on accomplishing the roast curve outlined by [Scott Rao](http://www.scottrao.com/), in which the coffee undergoes an initial spike of heat, then a drop followed by a curve up to first crack, then completing the roast within about 25-30% of the total roast time. To achieve that technique, I’m trying a couple of things: in the first minute or so of the roast, I stir the coffee only minimally, to produce that heat spike. Then when I get to first crack, I keep the heat on high (the gun as close as possible to the beans) for about the first minute of the roast, then back off by about an inch until the completion of the roast.
 
 **Update January 2018:**
 

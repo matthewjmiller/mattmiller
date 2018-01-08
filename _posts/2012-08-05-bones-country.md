@@ -6,4 +6,6 @@ categories: landscape
 permalink: /bones-country/
 ---
 
-"He was glad that he liked the country undecorated, hard, and stripped of its finery. He had got down to the bare bones of it, and they were fine and strong and simple." - *The Wind in the Willows.*
+"He was glad that he liked the country undecorated, hard, and stripped of its finery. He had got down to the bare bones of it, and they were fine and strong and simple." 
+
+*The Wind in the Willows*

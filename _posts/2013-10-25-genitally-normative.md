@@ -1,6 +1,6 @@
 ---
-layout: posts
-title: "The father if four is no longer genitally normative"
+layout: post
+title: "The father of four is no longer genitally normative"
 date: 2013-10-25
 categories: children
 permalink: /genitally-normative/

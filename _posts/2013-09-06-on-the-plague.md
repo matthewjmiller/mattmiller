@@ -1,0 +1,11 @@
+---
+layout: post
+title: "On the plague"
+date: 2013-09-06
+categories: history
+permalink: /on-the-plague/
+---
+
+> A stiffe and freezing horror sucks vp the riuers of my blood: my haire stands an ende with the panting of my braines: mine eye balls are ready to start out, being beaten with the billowes of my teares: out of my weeping pen does the incke mournefully and more bitterly than gall drop on the palefac’d paper, euen when I do but thinke how the bowels of my sicke Country haue bene torne, Apollo therefore and you bewitching siluer-tongd Muses, get you gone, Inuocate none of your names: Sorrow & Truth, sit you on each side of me, whilst I am deliuered of this deadly burden: prompt me that I may vtter ruthfull and passionate condolement: arme my trembling hand, that it may boldly rip vp and Anatomize the vlcerous body of this Anthropophagized plague: lend me Art (without any counterfeit shadowing) to paint and delineate to the life the whole story of this mortall and pestiferous battaile, & you the ghosts of those more (by many) then 40000. that with the virulent poison of infection haue bene driuen out of your earthly dwellings: you desolate hand-wringing widowes, that beate your bosomes ouer your departing husbands: you wofully distracted mothers that with disheueld haire falne into swounds, whilst you lye kissing the insensible cold lips of your breathlesse Infants: you out-cast and downe-troden Orphanes, that shall many a yeare hence remember more freshly to mourne, when your mourning garments shall looke olde and be for gotten; And you the Genij of all those emptyed families, whose habitations are now among the Antipodes: Ioyne all your hands together, and with your bodies cast a ring about me: let me behold your ghastly vizages, that my paper may receiue their true pictures: Eccho forth your grones through the hollow truncke of my pen, and raine downe your gummy teares into mine Incke, that euen marble bosomes may be shaken with terrour, and hearts of Adamant melt into compassion.
+
+Thomas Decker, [*The Wonderfull Yeare*](www.luminarium.org/renascence-editions/yeare.html)

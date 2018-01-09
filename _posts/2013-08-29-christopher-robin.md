@@ -6,7 +6,7 @@ categories: poetry
 permalink: /christopher-robin/
 ---
 
-> *In April of 1996, the international press carried the news of the death, at age seventy-five, of Christopher Robin Milne, immortalized in a book by his father, A. A. Milne, *Winnie-the-Pooh*, as Christopher Robin.*
+> *In April of 1996, the international press carried the news of the death, at age seventy-five, of Christopher Robin Milne, immortalized in a book by his father, A. A. Milne, Winnie-the-Pooh, as Christopher Robin.*
 >
 > I must think suddenly of matters too difficult for a bear of little brain. I have never asked myself what lies beyond the place where we live, I and Rabbit, Piglet, and Eeyore, with our friend Christopher Robin. That is, we continued to live here, and nothing changed, and I just ate my little something. Only Christopher Robin left for a moment.
 >

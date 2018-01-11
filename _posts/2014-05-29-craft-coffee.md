@@ -1,0 +1,19 @@
+---
+layout: post
+title: "Craft coffee"
+date: 2014-05-29
+categories: coffee
+permalink: /craft-coffeee/
+---
+
+Michael Brendan Dougherty’s [recent piece on coffee](http://theweek.com/article/index/262044/dont-be-a-snob-about-coffee) for *The Week* impressed me less than he usually does (in general: plenty). On the subject of fancy coffee, it’s headlined “Don’t be a snob about coffee,” and the point is about that simple. However, I’m grateful to him for linking me to [a slightly older piece by Marco Arment](http://www.marco.org/2014/03/31/throwing-k-cups-in-glass-houses), which makes the more interesting argument that those of us who obsess over the niceties of coffee are colluding in the very marginalization we hate, encouraging other people to turn to the old drip machine or the Keurig:
+
+> We’re the ones who obsess over every little detail of brewing technique as if they matter much more than they really do, making good coffee ever more alienating and confusing to casual coffee drinkers who don’t have time to study and fuss over it as much as we do.
+
+This is precisely right, and as much as I love the crazy masters of obsessive brewing techniques, in my own home I take a much more [casual](http://matt-miller.org/casual-home-coffee-roasting) approach. I also prefer to promote simple steps people can take to improve their brew and get away from the wasteful K-cup, rather than chasing some kind of brewer’s purity cult. I do have the sense that here in the Midwest, where specialty coffee hasn’t yet developed to the same degree as it has on the coasts, the professionals are more interested in educating than in policing the boundaries—they have to be, so that they can develop a customer base.
+
+So I think Marco’s critique may be a tad overstated, but it’s basically right. Here’s what’s really interesting, though: Marco’s depiction of coffee snobs’ self-marginalization shows coffee to be going through the same process as every other skill defined as a “craft” in this late age of industrialism.
+
+Glenn Adamson’s book *The Invention of Craft* describes how the original “craft” skills—woodworking, pottery, metalworking—went from being merely the things people did to make stuff to a special, skillful, anti-industrial work. Industrialism invented “craft” in order to marginalize the tradespeople who practiced it: as carving, say, was defined as an artisanal process creating a uniquely “authentic” product, it was said to create something pre-modern, non-standard, and artistic. Craft was made the “other” of the modern, homogeneous, and functional products of industry. This ostensible glorification of craft actually marginalized it: while it was much more artistic, it was no longer nearly as lucrative, nor did it support as many practitioners. Industry took over the real money-making, and craft became a special practice that people could geek out over in their leisure time.
+
+You see where I’m going with this. Under the terms of industrialism, any way of making that defines itself as more artistic, more unique, or more skillful than the usual homogeneous, mass-produced way is bound to partake of the “craft” discourse. (See: craft beer.) Coffee is no different. But what the history of the original crafts tells us is that the move to define your work as a craft is a move made on the terms of industrialism, and while it may gain you status, it will ultimately marginalize you. And when you start making moves toward a more profitable model—that is, a more homogeneous, efficient, lower-skill one—zealots will denounce you as a sell-out or as having lost your “craft” cachet.

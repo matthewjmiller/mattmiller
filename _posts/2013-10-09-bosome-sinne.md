@@ -23,7 +23,7 @@ permalink: /bosome-sinne/
 > > Without, our shame ;  within, our consciences ;     
 > Angels and grace, eternall hopes and fears.     
 >
-> > Yet all these fences and their whole aray 
+> > Yet all these fences and their whole aray    
 > > One cunning bosome-sinne blows quite away. 
 
 [George Herbert](http://www.luminarium.org/sevenlit/herbert/thesin.htm)

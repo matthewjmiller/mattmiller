@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Atheist Children's Fantasy: Miéville and Pullman
+title: "Atheist Children's Fantasy: Miéville and Pullman"
 date: 2012-02-12
 categories: literature
 permalink: /atheist-childrens-fantasy/

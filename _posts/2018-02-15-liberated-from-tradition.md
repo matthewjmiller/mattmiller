@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Those who are liberated from tradition generally become slaves to fashion"
-date: 2018-01-15
+date: 2018-02-15
 categories: campbellites
 permalink: /liberated-from-tradition/
 ---

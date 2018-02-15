@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title: "Low-cost micro-farming"
 date: 2018-02-15
 categories: agriculture

@@ -12,4 +12,4 @@ permalink: /robinson-and-evil/
 
 [James K. A. Smith on Marilynne Robinson's *apologia gloriae*](https://www.cardus.ca/comment/article/5181/marilynne-robinsons-apologia-gloriae/)
 
-It may feel odd to propose this about a group that believes in systemic injustice, but evil is really the *aporia* in much progressive thought. After all, if we are really that screwed up, how can we have confidence that we're progressing in the right direction? On this account, of course, "conservatives" who would dismiss Coates on race are pr
+It feels odd to propose this about a group that believes in systemic injustice, but evil is really the *aporia* in much progressive thought. After all, if we are really that (originally, totally) screwed up, how can we have confidence that we're progressing in the right direction? On this account, of course, "conservatives" who would dismiss Coates on race are pr

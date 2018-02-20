@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TED talks are sermons, and the "ideas worth spreading" held therein are the gospel"
+title: "TED talks are sermons"
 date: 2013-02-27
 categories: sacred rhetoric
 permalink: /ted-talks-sermons/

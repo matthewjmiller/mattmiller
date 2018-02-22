@@ -39,4 +39,6 @@ Ian Bogost, ["The Hidden Depths of Sandra Boynton's Board Books"](https://www.ne
 
 My own ["Atheist Children's Fantasy"](http://matt-miller.org/atheist-childrens-fantasy/)
 
-Comments? Additions? [Email me](mailto:mm@matt-miller.org)
+***
+
+**Comments? Additions? [Email me](mailto:mm@matt-miller.org)**

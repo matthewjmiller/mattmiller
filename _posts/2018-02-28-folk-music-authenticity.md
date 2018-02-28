@@ -28,7 +28,7 @@ Four folk-pop songs that exposit Charles Taylor's concept of our time as the ["a
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/m4oJTE4ANwQ?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-> I just think I'm going to work construction    
+> I think I'm going to work construction    
 > Just to make something of myself    
 > I can't live off these childhood trophies on my shelf
 

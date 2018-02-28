@@ -6,6 +6,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   I'm Matt Miller, a rhetorician, teacher, and writer from the Midwest.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "matt-miller.org" # the base hostname & protocol for your site, e.g. http://example.com
+rss: rss
 
 # Build settings
 markdown: kramdown

@@ -5,12 +5,6 @@ permalink: /about/
 ---
 I was once described as "flat, but in a good way." I'm a Nebraskan, so I take that as a compliment.
 
-I am a researcher, writer, and teacher with abiding interests in liturgy, media, and place. Trained in rhetoric—the ancient discipline that studies persuasion and communication—I work in marketing, teach on the side, and write about history, sustainability, place, and ideas. 
+I am a researcher, writer, and teacher trained in rhetoric—the ancient discipline that studies persuasion and communication. My abiding interests tend to revolve around questions of liturgy, media, and place. I teach writing and literature at the College of the Ozarks in Point Lookout, Missouri.
 
-### Scholarship, Reading, and Writing
-
-My CV and other academic work [are hosted at Academia.edu](https://slu.academia.edu/MatthewMiller). You can find out what I'm reading at any given moment by following my RSS reading at [NewsBlur](http://matthewjmiller.newsblur.com) or my public annotations at [Diigo](https://www.diigo.com/user/matthewjmiller).
-
-### Marketing
-
-By day, I'm a market researcher and content writer at [MarketPlace](https://market-pl.com/author/matthew-miller/). My resume is on [LinkedIn](https://www.linkedin.com/in/matthewjosiahmiller/).
+My CV and other academic work [are hosted at Academia.edu](https://slu.academia.edu/MatthewMiller). You can find out what I'm reading at any given moment by following my public annotations at [Diigo](https://www.diigo.com/user/matthewjmiller). I welcome email correspondence on anything I post here or elsewhere.

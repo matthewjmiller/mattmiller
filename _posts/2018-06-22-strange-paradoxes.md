@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The strange paradoxes of Christ's life and witness"
-date: 2019-06-22
+date: 2018-06-22
 categories: theology
 permalink: /strange-paradoxes-mla/
 ---

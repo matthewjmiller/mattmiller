@@ -6,7 +6,7 @@ permalink: /cv/
 
 # Curriculum Vitae
 
-*Last updated September 7, 2018*
+*Last updated November 2, 2018*
 
 ## Academic Appointments
 
@@ -89,11 +89,13 @@ With Stephen Carradini, "Is Ethical Advocacy Enough? A Dialogue on Digital Right
 
 ## Teaching Experience
 
+Creative Writing: Nonfiction, College of the Ozarks, spring 2019.
+
 Technical Writing, College of the Ozarks, fall 2018.
 
-Readings in Western Civilization, College of the Ozarks, fall 2018.
+Readings in Western Civilization, College of the Ozarks, two sections, fall 2018-spring 2019.
 
-College Composition, College of the Ozarks, two sections, fall 2018.
+College Composition, College of the Ozarks, four sections, fall 2018-spring 2019.
 
 Business and Professional Writing, Saint Louis University, spring 2018. 
 
@@ -145,7 +147,7 @@ French | *Koine* Greek | Latin
 
 ## Media
 
-Quoted by Mic.com as an expert source on food marketing.
+[Quoted by Mic.com](https://mic.com/articles/187794/kombucha-kale-kardashian-manuka-honey-the-life-cycle-of-a-health-trend-how-food-transforms-into-a-miracle-remedy) as an expert source on food marketing.
 
 ## Academic Service
 
@@ -157,12 +159,12 @@ Quoted by Mic.com as an expert source on food marketing.
 
 ## Honors and Awards
 
-- Winner, Seerveld Prize for New Writers, *Comment.*
+- Winner, Seerveld Prize for New Writers, *Comment.* ($1,500 CAD award.)
 - Passed dissertation and defense with distinction, 2017. 
 - Passed comprehensive exams with distinction, 2015. 
-- First place, Humanities Paper Competition, Saint Louis University Graduate Research Symposium, 2014. 
-- First runner-up, Humanities Paper Competition, Saint Louis University Graduate Research Symposium, 2013. 
+- First place, Humanities Paper Competition, Saint Louis University Graduate Research Symposium, 2014. ($250 award.)
+- First runner-up, Humanities Paper Competition, Saint Louis University Graduate Research Symposium, 2013. ($125 award.)
 - Passed MA exams with distinction, 2010. 
-- First runner-up, Humanities Paper Competition, Saint Louis University Graduate Research Symposium, 2011. 
-- Clarence H. Miller Award for outstanding incoming MA student, Saint Louis University Department of English, 2010.
+- First runner-up, Humanities Paper Competition, Saint Louis University Graduate Research Symposium, 2011. ($125 award.)
+- Clarence H. Miller Award for outstanding incoming MA student, Saint Louis University Department of English, 2010. ($1,000 award.)
 - Graduated *summa cum laude* (Oklahoma Christian University) and with highest honors (York College).

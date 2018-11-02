@@ -69,6 +69,8 @@ Review of Sarah Beckwith, *Shakespeare and the Grammar of Forgiveness.* In *Ecum
 
 ### Popular Writing
 
+["Holy Clutter," *Comment,* 1 November 2018](https://www.cardus.ca/comment/article/holy-clutter/).
+
 “Singing as Part of Family Worship,” *Mere Orthodoxy,* 25 April 2017. 
 
 “Downton Abbey as a Jane Austen Style Tragedy,” *Mere Orthodoxy,* 12 February 2013. 
@@ -155,6 +157,7 @@ Quoted by Mic.com as an expert source on food marketing.
 
 ## Honors and Awards
 
+- Winner, Seerveld Prize for New Writers, *Comment.*
 - Passed dissertation and defense with distinction, 2017. 
 - Passed comprehensive exams with distinction, 2015. 
 - First place, Humanities Paper Competition, Saint Louis University Graduate Research Symposium, 2014. 

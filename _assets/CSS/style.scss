@@ -1,7 +1,7 @@
 ---
 ---
 
-@import "minima";
+@import "{{ minima }}";
 
 blockquote.style2 {
   font: 14px/22px normal helvetica, sans-serif;
@@ -10,6 +10,6 @@ blockquote.style2 {
   margin-left: 50px;
   padding-left: 15px;
   border-left: 3px solid #ccc;
-  letter-spacing: 8px;
+  letter-spacing: 5px;
   font-style: normal;
 } 

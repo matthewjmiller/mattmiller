@@ -6,7 +6,7 @@ permalink: /cv/
 
 # Curriculum Vitae
 
-*Last updated November 2, 2018*
+*Last updated December 7, 2018*
 
 ## Academic Appointments
 
@@ -55,10 +55,30 @@ Research Strategist + Technical Writer, MarketPlace, the Food Marketing Agency, 
 
 History and Theory of Rhetoric | Technical Writing | Speculative Realism | Environmental Humanities | Sacred Rhetoric | Composition Pedagogy
 
-## Publications
+## Academic Writing
 
 With Paul Lynch. “Twenty-five Years of Faith and Writing: Religion and Composition, 1992-2017.” *Present Tense* 2.6 (2017).
- 
+
+### Essays and Articles
+
+["Holy Clutter," *Comment,* 1 November 2018](https://www.cardus.ca/comment/article/holy-clutter/).
+
+[“Singing as Part of Family Worship,” *Mere Orthodoxy,* 25 April 2017](https://mereorthodoxy.com/singing-part-family-worship/]. 
+
+[“Downton Abbey as a Jane Austen Style Tragedy,” *Mere Orthodoxy,* 12 February 2013](https://mereorthodoxy.com/downton-abbey-as-a-jane-austen-style-tragedy/). 
+
+["Capitalism Won't Save the Arts—Vocation Will," *Mere Orthodoxy,* 22 October 2012](https://mereorthodoxy.com/vocation-not-salesmanship-camille-paglias-exhortation-to-artists-capitalism-wont-save-the-arts-vocation-will/). 
+
+[With Stephen Carradini, "Is Ethical Advocacy Enough? A Dialogue on Digital Rights and Art," *Mere Orthodoxy,* 1 October 2012](https://mereorthodoxy.com/is-ethical-advocacy-enough-a-dialogue-on-digital-rights-and-art/). 
+
+["Advocacy and Ending Copyright Infringement," *Mere Orthodoxy*, 1 October 201)2](https://mereorthodoxy.com/advocacy-and-ending-copyright-infringement/). 
+
+["Ray Bradbury, J.R.R. Tolkien, and the Benefits of Nostalgia," *Mere Orthodoxy,* 6 July 2012](https://mereorthodoxy.com/ray-bradbury-j-r-r-tolkien-benefits-nostalgia/). 
+
+[“#NewNebraskaSlogan and a New Rhetoric for the Midwest,” *Curator,* 21 October 2011](http://www.curatormagazine.com/matthew-miller/newnebraskaslogan-and-a-new-rhetoric-for-the-midwest/). 
+
+[“A Passion for the Possible.” *Curator*, 15 July 2011](http://www.curatormagazine.com/matthew-miller/a-passion-for-the-possible/).
+
 ### Book Reviews
 
 “A Kind of Giant and Intricate Poetry.” Review of David Lyle Jeffrey and Gregory Maillet, *Christianity and Literature: Philosophical Foundations and Critical Practice.* In *Intégrité* 16.1 (2017).
@@ -67,25 +87,9 @@ Review of Roger Grainger, *Suspending Disbelief: Theatre as Context for Sharing.
  
 Review of Sarah Beckwith, *Shakespeare and the Grammar of Forgiveness.* In *Ecumenica Journal of Theatre and Performance* 4.2 (2011).
 
-### Popular Writing
+### Professional Writing
 
-["Holy Clutter," *Comment,* 1 November 2018](https://www.cardus.ca/comment/article/holy-clutter/).
-
-“Singing as Part of Family Worship,” *Mere Orthodoxy,* 25 April 2017. 
-
-“Downton Abbey as a Jane Austen Style Tragedy,” *Mere Orthodoxy,* 12 February 2013. 
-
-"Capitalism Won't Save the Arts—Vocation Will," *Mere Orthodoxy,* 22 October 2012. 
-
-With Stephen Carradini, "Is Ethical Advocacy Enough? A Dialogue on Digital Rights and Art," *Mere Orthodoxy,* 1 October 2012. 
-
-"Advocacy and Ending Copyright Infringement," *Mere Orthodoxy*, 1 October 2012. 
-
-"Ray Bradbury, J.R.R. Tolkien, and the Benefits of Nostalgia," *Mere Orthodoxy,* 6 July 2012. 
-
-“#NewNebraskaSlogan and a New Rhetoric for the Midwest,” *Curator,* 21 October 2011. 
-
-“A Passion for the Possible.” *Curator*, 15 July 2011
+Numerous posts on brand strategy, marketing, and the food industry at [MarketPlace](market-pl.com).
 
 ## Teaching Experience
 
@@ -151,6 +155,7 @@ French | *Koine* Greek | Latin
 
 ## Academic Service
 
+- Member, English Department Curriculum Committee, College of the Ozarks, 2018-19.
 - Member, Organizing Committee, the Kenneth Burke Society Conference, Saint Louis University, 2014. 
 - Member, Organizing Committee, There and Back Again: a Symposium on Seventy-Five Years of *The Hobbit*, Saint Louis University, 2012. 
 - Elected Undergraduate Committee Representative, English Graduate Organization, Saint Louis University, 2011-2012. 

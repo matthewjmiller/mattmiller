@@ -59,11 +59,13 @@ History and Theory of Rhetoric | Technical Writing | Speculative Realism | Envir
 
 With Paul Lynch. “Twenty-five Years of Faith and Writing: Religion and Composition, 1992-2017.” *Present Tense* 2.6 (2017).
 
-### Essays and Articles
+### Essays
+
+["On the Costs and Rewards of Planting Fruit Trees," *Front Porch Republic,* 2 January 2019](https://www.frontporchrepublic.com/2019/01/on-the-costs-and-rewards-of-planting-trees/).
 
 ["Holy Clutter," *Comment,* 1 November 2018](https://www.cardus.ca/comment/article/holy-clutter/).
 
-[“Singing as Part of Family Worship,” *Mere Orthodoxy,* 25 April 2017](https://mereorthodoxy.com/singing-part-family-worship/]. 
+[“Singing as Part of Family Worship,” *Mere Orthodoxy,* 25 April 2017](https://mereorthodoxy.com/singing-part-family-worship/). 
 
 [“Downton Abbey as a Jane Austen Style Tragedy,” *Mere Orthodoxy,* 12 February 2013](https://mereorthodoxy.com/downton-abbey-as-a-jane-austen-style-tragedy/). 
 

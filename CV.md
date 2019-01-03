@@ -73,7 +73,7 @@ With Paul Lynch. “Twenty-five Years of Faith and Writing: Religion and Composi
 
 [With Stephen Carradini, "Is Ethical Advocacy Enough? A Dialogue on Digital Rights and Art," *Mere Orthodoxy,* 1 October 2012](https://mereorthodoxy.com/is-ethical-advocacy-enough-a-dialogue-on-digital-rights-and-art/). 
 
-["Advocacy and Ending Copyright Infringement," *Mere Orthodoxy*, 1 October 201)2](https://mereorthodoxy.com/advocacy-and-ending-copyright-infringement/). 
+["Advocacy and Ending Copyright Infringement," *Mere Orthodoxy*, 1 October 2012](https://mereorthodoxy.com/advocacy-and-ending-copyright-infringement/). 
 
 ["Ray Bradbury, J.R.R. Tolkien, and the Benefits of Nostalgia," *Mere Orthodoxy,* 6 July 2012](https://mereorthodoxy.com/ray-bradbury-j-r-r-tolkien-benefits-nostalgia/). 
 

@@ -6,8 +6,6 @@ permalink: /cv/
 
 # Curriculum Vitae
 
-*Last updated December 7, 2018*
-
 ## Academic Appointments
 
 ### College of the Ozarks

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""
+title: "Self-examination and self-forgetfulness"
 date: 2019-01-18
 categories: wisdom
 permalink: /looking-in-or-out/

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: ""
+title: "Ivar's barefoot spirituality"
 date: 2019-01-18
 categories: literature
-permalink: /barefoot-ethics/
+permalink: /barefoot-spirituality/
 ---
 
 >"Ivar," Signa asked suddenly, "will you tell me why you go barefoot? All the time I lived here in the house I wanted to ask you. Is it for a penance, or what?"

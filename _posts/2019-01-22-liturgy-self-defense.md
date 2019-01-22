@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Liturgy as self-defense"
-date: 2019-01-23
+date: 2019-01-22
 categories: liturgy
 permalink: /liturgy-as-self-defense/
 ---

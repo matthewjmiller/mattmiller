@@ -1,4 +1,9 @@
 ---
+layout: post
+title: "Miyazaki's "Tigers in the Mud""
+date: 2018-02-20
+categories: art
+permalink: /miyazaki-comic/
 ---
 
 ![miyazaki comic](https://github.com/matthewjmiller/mattmiller/blob/gh-pages/_assets/miyazaki-comic.jpg?raw=true)

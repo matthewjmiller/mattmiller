@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Miyazaki's Tigers in the Mud"
-date: 2018-02-20
+date: 2019-02-22
 categories: art
 permalink: /miyazaki-comic/
 ---

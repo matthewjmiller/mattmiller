@@ -51,11 +51,13 @@ Research Strategist + Technical Writer, MarketPlace, the Food Marketing Agency, 
 
 ## Areas of Interest
 
-History and Theory of Rhetoric | Technical Writing | Speculative Realism | Environmental Humanities | Sacred Rhetoric | Composition Pedagogy
+History and Theory of Rhetoric | Creative Nonfiction and the Essay | Technical Writing | Environmental Humanities | Sacred Rhetoric | Composition Pedagogy
 
 ## Academic Writing
 
-With Paul Lynch. “Twenty-five Years of Faith and Writing: Religion and Composition, 1992-2017.” *Present Tense* 2.6 (2017).
+"George Herbert's *The Country Parson* as a Resource for Christian Rhetorical Theory." *Journal of Communication and Religion* 42.3 (2019) (forthcoming.)
+
+With Paul Lynch. [“Twenty-five Years of Faith and Writing: Religion and Composition, 1992-2017.” *Present Tense* 2.6 (2017).](http://www.presenttensejournal.org/volume-6/twenty-five-years-of-faith-in-writing-religion-and-composition-1992-2017/)
 
 ### Essays
 

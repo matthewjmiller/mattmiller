@@ -91,7 +91,7 @@ Review of Sarah Beckwith, *Shakespeare and the Grammar of Forgiveness.* In *Ecum
 
 ### Professional Writing
 
-Numerous posts on brand strategy, marketing, and the food industry at [MarketPlace](market-pl.com).
+Numerous posts on brand strategy, marketing, and the food industry at [MarketPlace](https://market-pl.com/author/matthew-miller/).
 
 ## Teaching Experience
 

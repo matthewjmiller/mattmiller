@@ -41,8 +41,8 @@ My research background helps me learn your business quickly and determine an app
 > Case Study
 >
 > In my role at MarketPlace, I made developing our own company blog a priority. I developed a custom database of news sources in and adjacent to the industries our agency served, and regularly drew on it to produce newsworthy trend posts and insights.
-
-My efforts developing content for the site helped land the MarketPlace website at or near the top for all our targeted search terms.
+>
+> My efforts developing content for the site helped land the MarketPlace website at or near the top for all our targeted search terms.
 
 #### Work Sample
 

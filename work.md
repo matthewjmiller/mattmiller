@@ -4,8 +4,6 @@ title: Work
 permalink: /work/
 ---
 
-# Research Communications
-
 Before following my passion back into education, I worked in marketing at a boutique agency in St. Louis. Although I worked on all aspects of the agency's integrated marketing offering―from brand strategy to hand modeling―my specialties were market research, technical writing, and content creation, and I lead the agency's efforts on any thing research-driven.
 
 Now I take on select contracts in market research, content marketing, and technical writing. Read on for more detail on how I can help, case studies, and work samples.

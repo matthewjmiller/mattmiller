@@ -24,10 +24,6 @@ I'm available to conduct quick-and-dirty (read: budget-friendly) directional res
 >
 > Bunge North American approached my company for insights on the prospects for a line of non-GMO corn they hoped to launch. Working on a short timeline, I helped Bunge determine the size of their launch and indicated the most promising sales targets. Many of my custom insights had a long afterlife, making their way into advertising and thus supporting not only a highly successful launch, but ongoing growth for years to come.
 
-#### Work Sample
-
-Coming soon
-
 ***
 
 ### Content Marketing
@@ -42,10 +38,6 @@ My research background helps me learn your business quickly and determine an app
 >
 > My efforts developing content for the site helped land the MarketPlace website at or near the top for all our targeted search terms.
 
-#### Work Sample
-
-[Click here to read a blog post I wrote for my previous agency](https://drive.google.com/file/d/18kDOsA_Hs4gQFTrinlKnp4KaRxj3-9UA/view?usp=sharing). (Note that although it's been reattributed to the agency's new writer, it was published during my term of employment during 2015 and I was the author!)
-
 ***
 
 ### Technical Writing
@@ -58,11 +50,7 @@ I research and write technical documents that aren't technical in the stereotypi
 >
 > As the primary strategist, writer, and researcher for my agency's client Parker Products, I researched and wrote eight white papers which were released over the course of a year, generating over 600 leads directly on their website. The white papers were also published through industry media, generating thousands more leads for the client.
 
-#### Work Sample
-
-[Click here to download a white paper I researched and wrote for a client](https://drive.google.com/file/d/1EkGGZEtzOnUoZeX8DQbRABEwFzqCVFDO/view?usp=sharing)
-
-# For more information, or to discuss how I can help your brand, [get in touch](mailto:mm@matt-miller.org)
+# For work samples, more information, or to discuss how I can help your brand, [get in touch](mailto:mm@matt-miller.org)
 
 ***
 

@@ -61,6 +61,8 @@ With Paul Lynch. [“Twenty-five Years of Faith and Writing: Religion and Compos
 
 ### Essays
 
+["Reading Seed Catalogs for Pleasure and Profit," *Front Porch Republic,* 27 March 2019](https://www.frontporchrepublic.com/2019/03/reading-seed-catalogs-for-pleasure-and-profit/).
+
 ["On the Costs and Rewards of Planting Fruit Trees," *Front Porch Republic,* 2 January 2019](https://www.frontporchrepublic.com/2019/01/on-the-costs-and-rewards-of-planting-trees/).
 
 ["Holy Clutter," *Comment,* 1 November 2018](https://www.cardus.ca/comment/article/holy-clutter/).

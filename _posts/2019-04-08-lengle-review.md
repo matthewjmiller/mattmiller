@@ -1,6 +1,6 @@
 ---
 layout: post
-title:
+title: "Madeleine L'Engle and the Modern Moral Order"
 date: 2019-04-08
 categories: my-writing
 permalink: /moral-reasoning-acceptable-time/

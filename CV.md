@@ -61,6 +61,8 @@ With Paul Lynch. [“Twenty-five Years of Faith and Writing: Religion and Compos
 
 ### Essays
 
+["Moral Reasoning in an Acceptable Time," *The University Bookman,* 8 April 2019](https://kirkcenter.org/reviews/moral-reasoning-in-an-acceptable-time/)
+
 ["Reading Seed Catalogs for Pleasure and Profit," *Front Porch Republic,* 27 March 2019](https://www.frontporchrepublic.com/2019/03/reading-seed-catalogs-for-pleasure-and-profit/).
 
 ["On the Costs and Rewards of Planting Fruit Trees," *Front Porch Republic,* 2 January 2019](https://www.frontporchrepublic.com/2019/01/on-the-costs-and-rewards-of-planting-trees/).

@@ -35,7 +35,7 @@ Committee: Paul Lynch, chair; Nathaniel Rivers; Ruth Evans.
 
 Saint Louis University, May 2012
 
-Thesis: *Gift Exchange in Early English Drama: Rhetoric and Sacrament
+Thesis: *Gift Exchange in Early English Drama: Rhetoric and Sacrament.*
 
 ### B.A. English and Religion
 
@@ -48,6 +48,8 @@ York College, Nebraska, May 2007
 ## Other Relevant Experience
 
 Research Strategist + Technical Writer, MarketPlace, the Food Marketing Agency, 2014-2018.
+
+Freelance content marketing consultant, 2010-present.
 
 ## Areas of Interest
 
@@ -93,25 +95,29 @@ Review of Roger Grainger, *Suspending Disbelief: Theatre as Context for Sharing.
  
 Review of Sarah Beckwith, *Shakespeare and the Grammar of Forgiveness.* In *Ecumenica Journal of Theatre and Performance* 4.2 (2011).
 
-### Professional Writing
-
-Numerous posts on brand strategy, marketing, and the food industry at [MarketPlace](https://market-pl.com/author/matthew-miller/).
-
 ## Teaching Experience
+
+Survey of American Literature II, College of the Ozarks, fall 2019.
 
 Creative Writing: Nonfiction, College of the Ozarks, spring 2019.
 
 Technical Writing, College of the Ozarks, fall 2018.
 
-Readings in Western Civilization, College of the Ozarks, two sections, fall 2018-spring 2019.
+Readings in Western Civilization, College of the Ozarks, four sections, fall 2018-fall 2019.
 
-College Composition, College of the Ozarks, four sections, fall 2018-spring 2019.
+College Composition, College of the Ozarks, six sections, fall 2018-fall 2019.
 
 Business and Professional Writing, Saint Louis University, spring 2018. 
 
 Advanced Strategies of Rhetoric and Research, Saint Louis University, six sections, fall 2011-fall 2013. 
 
 Introduction to Literary Studies, Saint Louis University, spring 2014. 
+
+## Media
+
+[Appeared on nationally syndicated program "Constant Wonder"](https://www.byuradio.org/episode/ad433a35-6b39-4655-89a6-71bca74d10c4/constant-wonder-timefulness-language-learning-project-embrace-planting-trees) discussing the ethics of planting trees.
+
+[Quoted by Mic.com](https://mic.com/articles/187794/kombucha-kale-kardashian-manuka-honey-the-life-cycle-of-a-health-trend-how-food-transforms-into-a-miracle-remedy) as an expert source on food marketing.
 
 ## Conference Presentations
 
@@ -151,15 +157,13 @@ Invited participant, THATCamp Southeast Missouri, digital humanities unconferenc
 
 “Using the Computer-Aided Instruction Lab.” Saint Louis University Writing Program Orientation 2011. 
 
+## Memberships
+
+Christianity and Communication Studies Network
+
 ## Languages
 
 French | *Koine* Greek | Latin
-
-## Media
-
-[Appeared on nationally syndicated program "Constant Wonder"](https://www.byuradio.org/episode/ad433a35-6b39-4655-89a6-71bca74d10c4/constant-wonder-timefulness-language-learning-project-embrace-planting-trees) discussing the ethics of planting trees.
-
-[Quoted by Mic.com](https://mic.com/articles/187794/kombucha-kale-kardashian-manuka-honey-the-life-cycle-of-a-health-trend-how-food-transforms-into-a-miracle-remedy) as an expert source on food marketing.
 
 ## Academic Service
 

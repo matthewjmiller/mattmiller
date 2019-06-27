@@ -6,7 +6,7 @@ categories: poetry
 permalink: /hopkins-the-comet/
 ---
 
-          —I am like a slip of comet,    
+          /—I am like a slip of comet,    
 Scarce worth discovery, in some corner seen    
 Bridging the slender difference of two stars,    
 Come out of space, or suddenly engender'd    
@@ -28,4 +28,4 @@ To not ungentle death now forth I run.
 
 G.M. Hopkins
 
-The astronomy's certainly out of date but I nonetheless get a lovely proto-sci-fi frisson from this poem.
+The astronomy's certainly out of date but I nonetheless get a lovely proto-sci-fi frisson from this poem published among Hopkins' unfinished works.

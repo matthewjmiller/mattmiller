@@ -6,7 +6,7 @@ categories: poetry
 permalink: /hopkins-the-comet/
 ---
 
->    —I am like a slip of comet,    
+>               —I am like a slip of comet,    
 > Scarce worth discovery, in some corner seen    
 > Bridging the slender difference of two stars,    
 > Come out of space, or suddenly engender'd    

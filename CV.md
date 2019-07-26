@@ -163,6 +163,8 @@ Invited participant, THATCamp Southeast Missouri, digital humanities unconferenc
 
 Christianity and Communication Studies Network
 
+Emerging Scholars Network
+
 ## Languages
 
 French | *Koine* Greek | Latin

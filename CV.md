@@ -4,8 +4,6 @@ title: CV
 permalink: /cv/
 ---
 
-# Curriculum Vitae
-
 ## Academic Appointments
 
 ### College of the Ozarks
@@ -21,7 +19,7 @@ Assistant Professor of English, 2018-present.
 
 ### Ph.D. English
 
-Saint Louis University, December 2017
+Saint Louis University, December 2017, with distinction
 
 Primary Area: Rhetoric and Composition
 
@@ -33,23 +31,23 @@ Committee: Paul Lynch, chair; Nathaniel Rivers; Ruth Evans.
 
 ### M.A. (Research) English
 
-Saint Louis University, May 2012
+Saint Louis University, May 2012, with distinction
 
 Thesis: *Gift Exchange in Early English Drama: Rhetoric and Sacrament.*
 
 ### B.A. English and Religion
 
-Oklahoma Christian University, December 2009
+Oklahoma Christian University, December 2009, *summa cum laude*
 
 ### A.A. English
 
-York College, Nebraska, May 2007
+York College, Nebraska, May 2007, with highest honors
 
 ## Other Relevant Experience
 
-Research Strategist + Technical Writer, MarketPlace, the Food Marketing Agency, 2014-2018.
+Content Marketing and Research Consultant, 2010-present.
 
-Freelance content marketing consultant, 2010-present.
+Research Strategist + Technical Writer, MarketPlace, the Food Marketing Agency, 2014-2018.
 
 ## Areas of Interest
 
@@ -153,7 +151,7 @@ Invited participant, THATCamp Southeast Missouri, digital humanities unconferenc
  
 ## Local Presentations
 
-“Psychoanalytic Criticism and the Elegy.” English 202, Introduction to Poetry, Saint Louis University, 2013. 
+“Psychoanalytic Criticism and the Elegy.” Invited Guest Lecture for Dr. Matthew Bardowell's English 202, Introduction to Poetry, Saint Louis University, 2013. 
 
 “Mapping Your Way through Prezi.” Saint Louis University Writing Program Workshop Series 2011. 
 
@@ -180,12 +178,9 @@ French | *Koine* Greek | Latin
 
 ## Honors and Awards
 
-- Winner, Seerveld Prize for New Writers, *Comment.* ($1,500 CAD award.)
-- Passed dissertation and defense with distinction, 2017. 
-- Passed comprehensive exams with distinction, 2015. 
-- First place, Humanities Paper Competition, Saint Louis University Graduate Research Symposium, 2014. ($250 award.)
-- First runner-up, Humanities Paper Competition, Saint Louis University Graduate Research Symposium, 2013. ($125 award.)
+- Winner, Seerveld Prize for New Writers, *Comment.* $1,500 CAD.
+- First place, Humanities Paper Competition, Saint Louis University Graduate Research Symposium, 2014. $250.
+- First runner-up, Humanities Paper Competition, Saint Louis University Graduate Research Symposium, 2013. $125.
 - Passed MA exams with distinction, 2010. 
-- First runner-up, Humanities Paper Competition, Saint Louis University Graduate Research Symposium, 2011. ($125 award.)
-- Clarence H. Miller Award for outstanding incoming MA student, Saint Louis University Department of English, 2010. ($1,000 award.)
-- Graduated *summa cum laude* (Oklahoma Christian University) and with highest honors (York College).
+- First runner-up, Humanities Paper Competition, Saint Louis University Graduate Research Symposium, 2011. $125.
+- Clarence H. Miller Award for outstanding incoming MA student, Saint Louis University Department of English, 2010. $1,000 award.

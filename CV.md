@@ -89,6 +89,8 @@ With Paul Lynch. [“Twenty-five Years of Faith and Writing: Religion and Compos
 
 ### Book Reviews
 
+Review of Mari Lee Mifsud, *Rhetoric and the Gift.* Forthcoming in *Present Tense.*
+
 “A Kind of Giant and Intricate Poetry.” Review of David Lyle Jeffrey and Gregory Maillet, *Christianity and Literature: Philosophical Foundations and Critical Practice.* In *Intégrité* 16.1 (2017).
  
 Review of Roger Grainger, *Suspending Disbelief: Theatre as Context for Sharing.* In *Ecumenica Journal of Theatre and Performance* 6.1 (2013).

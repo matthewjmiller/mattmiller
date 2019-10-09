@@ -1,10 +1,10 @@
-----
+---
 layout: post
 title: "Bogost on Boynton"
 date: 2019-10-09
 categories: children's literature
 permalink: /bogost-on-boynton/
-----
+---
 
 > Rhythmic surprises—including beats that initially seem off—pervade Boynton’s work. I still trip over the first page of *Hippos Go Berserk!*: “One hippo, all alone.” Trying out different options on your kids is one of the books’ delights. Though joyous, early-childhood parenting is also weird and lonely, waves of affection breaking up against rocks of irritation. Teasing out the rhythm of a Boynton book offers a mental refuge from the tedium of reading to children who never tire of hearing the same story.
 

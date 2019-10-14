@@ -121,7 +121,9 @@ Introduction to Literary Studies, Saint Louis University, spring 2014.
 
 [Quoted by Mic.com](https://mic.com/articles/187794/kombucha-kale-kardashian-manuka-honey-the-life-cycle-of-a-health-trend-how-food-transforms-into-a-miracle-remedy) as an expert source on food marketing.
 
-## Conference Presentations
+## Conferencing
+
+Participant, "Front Porch Republic: the Legacy of Wendell Berry," University of Louisville, 2019.
 
 “Against Belief, or, the Liturgies of the Classroom.” Conference on College Composition and Communication (CCCC) 2017. 
 

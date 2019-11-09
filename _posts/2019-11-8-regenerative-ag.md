@@ -1,6 +1,6 @@
 ---
 layout: post
-title:
+title: "General Mills and regenerative ag"
 date: 2019-11-08
 categories: agriculture
 permalink: /regenerative-ag-general-mills/

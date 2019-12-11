@@ -105,15 +105,15 @@ Creative Writing: Nonfiction, College of the Ozarks, spring 2019.
 
 Technical Writing, College of the Ozarks, fall 2018.
 
-Readings in Western Civilization, College of the Ozarks, four sections, fall 2018-fall 2019.
+Readings in Western Civilization, College of the Ozarks, five sections, fall 2018-spring 2020.
 
-College Composition, College of the Ozarks, six sections, fall 2018-fall 2019.
+College Composition, College of the Ozarks, ten sections, fall 2018-spring 2020.
 
 Business and Professional Writing, Saint Louis University, spring 2018. 
 
-Advanced Strategies of Rhetoric and Research, Saint Louis University, six sections, fall 2011-fall 2013. 
-
 Introduction to Literary Studies, Saint Louis University, spring 2014. 
+
+Advanced Strategies of Rhetoric and Research, Saint Louis University, six sections, fall 2011-fall 2013. 
 
 ## Media
 
@@ -185,6 +185,5 @@ French | *Koine* Greek | Latin
 - Winner, Seerveld Prize for New Writers, *Comment.* $1,500 CAD.
 - First place, Humanities Paper Competition, Saint Louis University Graduate Research Symposium, 2014. $250.
 - First runner-up, Humanities Paper Competition, Saint Louis University Graduate Research Symposium, 2013. $125.
-- Passed MA exams with distinction, 2010. 
 - First runner-up, Humanities Paper Competition, Saint Louis University Graduate Research Symposium, 2011. $125.
-- Clarence H. Miller Award for outstanding incoming MA student, Saint Louis University Department of English, 2010. $1,000 award.
+- Clarence H. Miller Award for outstanding incoming MA student, Saint Louis University Department of English, 2010. $1,000.

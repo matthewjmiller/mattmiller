@@ -55,7 +55,7 @@ History and Theory of Rhetoric | Creative Nonfiction and the Essay | Technical W
 
 ## Academic Writing
 
-"George Herbert's *The Country Parson* as a Resource for Christian Rhetorical Theory." *Journal of Communication and Religion* 42.3 (2019) (forthcoming.)
+"George Herbert's *The Country Parson* as a Resource for Christian Rhetorical Theory." *Journal of Communication and Religion* 42.3 (2019).
 
 With Paul Lynch. [“Twenty-five Years of Faith and Writing: Religion and Composition, 1992-2017.” *Present Tense* 2.6 (2017).](http://www.presenttensejournal.org/volume-6/twenty-five-years-of-faith-in-writing-religion-and-composition-1992-2017/)
 

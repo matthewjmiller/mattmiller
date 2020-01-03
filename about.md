@@ -9,4 +9,4 @@ I teach technical writing, composition, creative writing, and a bit of literatur
 
 I live near Reeds Spring, Missouri, on a half acre that my family and I manage using principles of permaculture and regenerative gardening. I'm originally a Nebraskan, and still pine for the open fields of the Great Plains.
 
-The site is run using [Jekyll on GitHub Pages](https://github.com/matthewjmiller/). Please don't assume from than any real technical acumen on my part. 
+The site is run using [Jekyll on GitHub Pages](https://github.com/matthewjmiller/). Please don't assume from that any real technical acumen on my part. 

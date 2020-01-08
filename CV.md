@@ -61,6 +61,8 @@ With Paul Lynch. [“Twenty-five Years of Faith and Writing: Religion and Compos
 
 ### Essays
 
+["Tropical Fruits of the Lower Midwest," *Front Porch Republic,* 8 January 2020](https://www.frontporchrepublic.com/2020/01/tropical-fruits-of-the-lower-midwest/).
+
 ["Learning to Die in the Garden," *Front Porch Republic,* 15 July 2019](https://www.frontporchrepublic.com/2019/07/learning-to-die-in-the-garden/).
 
 ["Moral Reasoning in an Acceptable Time," *The University Bookman,* 8 April 2019](https://kirkcenter.org/reviews/moral-reasoning-in-an-acceptable-time/).

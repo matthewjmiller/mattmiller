@@ -107,7 +107,7 @@ Creative Writing: Nonfiction, College of the Ozarks, spring 2019.
 
 Technical Writing, College of the Ozarks, fall 2018. Also taught spring 2020 as an independent study.
 
-Technical writing lab instructor for Agricultural Engineering Fundamentals, College of the Ozarks, spring 2020.
+Agricultural Engineering Fundamentals: Technical Writing Lab, College of the Ozarks, spring 2020.
 
 Readings in Western Civilization, College of the Ozarks, five sections, fall 2018-spring 2020.
 

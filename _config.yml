@@ -8,7 +8,6 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://matt-miller.org" # the base hostname & protocol for your site, e.g. http://example.com
 rss: rss
 show_excerpts: true
-google_analytics: UA-114921107-1
 
 # Build settings
 markdown: kramdown

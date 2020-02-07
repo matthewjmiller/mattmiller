@@ -3,7 +3,7 @@ layout: post
 title: "Victor Lee Austin on the burial of a child"
 date: 2020-02-07
 categories: theology
-permalink: /children-are-people-now/
+permalink: /children-are-people/
 ---
 
 > The disciples—we might think of them as trying to be Jesus’ “handlers”—they turned the children away. But Jesus felt strongly about this. He was indignant. He rebuked the disciples. *Let the children come to me; do not hinder them.* Jesus always wanted the children to come. There are stories of sick children that he visited. There was one, at least, that he raised back to life.

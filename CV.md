@@ -61,6 +61,8 @@ With Paul Lynch. [“Twenty-five Years of Faith and Writing: Religion and Compos
 
 ### Essays
 
+["How the Land Can Heal," *The University Bookman,* 8 March 2020](https://kirkcenter.org/reviews/how-the-land-can-heal/).
+
 ["Tropical Fruits of the Lower Midwest," *Front Porch Republic,* 8 January 2020](https://www.frontporchrepublic.com/2020/01/tropical-fruits-of-the-lower-midwest/).
 
 ["Learning to Die in the Garden," *Front Porch Republic,* 15 July 2019](https://www.frontporchrepublic.com/2019/07/learning-to-die-in-the-garden/).

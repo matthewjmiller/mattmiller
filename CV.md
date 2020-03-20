@@ -53,13 +53,27 @@ Research Strategist + Technical Writer, MarketPlace, the Food Marketing Agency, 
 
 History and Theory of Rhetoric | Creative Nonfiction and the Essay | Technical Writing | Environmental Humanities | Sacred Rhetoric | Composition Pedagogy
 
-## Academic Writing
+## Publications
+
+### Academic
+
+Review of Mari Lee Mifsud, *Rhetoric and the Gift.* Forthcoming in *Present Tense.*
 
 "George Herbert's *The Country Parson* as a Resource for Christian Rhetorical Theory." *Journal of Communication and Religion* 42.3 (2019).
 
 With Paul Lynch. [“Twenty-five Years of Faith and Writing: Religion and Composition, 1992-2017.” *Present Tense* 2.6 (2017).](http://www.presenttensejournal.org/volume-6/twenty-five-years-of-faith-in-writing-religion-and-composition-1992-2017/)
+ 
+Review of Roger Grainger, *Suspending Disbelief: Theatre as Context for Sharing.* In *Ecumenica Journal of Theatre and Performance* 6.1 (2013).
+ 
+Review of Sarah Beckwith, *Shakespeare and the Grammar of Forgiveness.* In *Ecumenica Journal of Theatre and Performance* 4.2 (2011).
 
-### Essays
+### Literary
+
+Review of Meghan O'Gieblyn, *Interior States.* Forthcoming in *The Cresset.*
+
+Review of Mark Shephard, *Restoration Agriculture.* Forthcoming in *The Cleveland Review of Books.*
+
+"Crossing Flatwater." Forthcoming in *Big Muddy.*
 
 ["How the Land Can Heal," *The University Bookman,* 8 March 2020](https://kirkcenter.org/reviews/how-the-land-can-heal/).
 
@@ -74,6 +88,8 @@ With Paul Lynch. [“Twenty-five Years of Faith and Writing: Religion and Compos
 ["On the Costs and Rewards of Planting Fruit Trees," *Front Porch Republic,* 2 January 2019](https://www.frontporchrepublic.com/2019/01/on-the-costs-and-rewards-of-planting-trees/).
 
 ["Holy Clutter," *Comment,* 1 November 2018](https://www.cardus.ca/comment/article/holy-clutter/).
+
+“A Kind of Giant and Intricate Poetry.” Review of David Lyle Jeffrey and Gregory Maillet, *Christianity and Literature: Philosophical Foundations and Critical Practice.* In *Intégrité* 16.1 (2017).
 
 [“Singing as Part of Family Worship,” *Mere Orthodoxy,* 25 April 2017](https://mereorthodoxy.com/singing-part-family-worship/). 
 
@@ -91,17 +107,9 @@ With Paul Lynch. [“Twenty-five Years of Faith and Writing: Religion and Compos
 
 [“A Passion for the Possible.” *Curator*, 15 July 2011](http://www.curatormagazine.com/matthew-miller/a-passion-for-the-possible/).
 
-### Book Reviews
-
-Review of Mari Lee Mifsud, *Rhetoric and the Gift.* Forthcoming in *Present Tense.*
-
-“A Kind of Giant and Intricate Poetry.” Review of David Lyle Jeffrey and Gregory Maillet, *Christianity and Literature: Philosophical Foundations and Critical Practice.* In *Intégrité* 16.1 (2017).
- 
-Review of Roger Grainger, *Suspending Disbelief: Theatre as Context for Sharing.* In *Ecumenica Journal of Theatre and Performance* 6.1 (2013).
- 
-Review of Sarah Beckwith, *Shakespeare and the Grammar of Forgiveness.* In *Ecumenica Journal of Theatre and Performance* 4.2 (2011).
-
 ## Teaching Experience
+
+Seminar in Rhetoric: Rural Writing, College of the Ozarks, fall 2020.
 
 Survey of American Literature II, College of the Ozarks, fall 2019.
 
@@ -111,9 +119,9 @@ Technical Writing, College of the Ozarks, fall 2018. Also taught spring 2020 as 
 
 Agricultural Engineering Fundamentals: Technical Writing Lab, College of the Ozarks, spring 2020.
 
-Readings in Western Civilization, College of the Ozarks, five sections, fall 2018-spring 2020.
+Readings in Western Civilization, College of the Ozarks, six sections, fall 2018-fall 2020.
 
-College Composition, College of the Ozarks, ten sections, fall 2018-spring 2020.
+College Composition, College of the Ozarks, twelve sections, fall 2018-fall 2020.
 
 Business and Professional Writing, Saint Louis University, spring 2018. 
 
@@ -128,6 +136,8 @@ Advanced Strategies of Rhetoric and Research, Saint Louis University, six sectio
 [Quoted by Mic.com](https://mic.com/articles/187794/kombucha-kale-kardashian-manuka-honey-the-life-cycle-of-a-health-trend-how-food-transforms-into-a-miracle-remedy) as an expert source on food marketing.
 
 ## Conferencing
+
+Accepted co-leader of discussion circle on “Rural / Remote / Isolated Writers” at the Festival of Faith and Writing, Calvin College, April 2020. Conference postponed to 2021 due to coronavirus.
 
 Participant, "Front Porch Republic: the Legacy of Wendell Berry," University of Louisville, 2019.
 

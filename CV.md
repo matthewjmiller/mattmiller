@@ -75,13 +75,13 @@ Review of Mark Shephard, *Restoration Agriculture.* Forthcoming in *The Clevelan
 
 "Crossing Flatwater." Forthcoming in *Big Muddy.*
 
-["How the Land Can Heal," *The University Bookman,* 8 March 2020](https://kirkcenter.org/reviews/how-the-land-can-heal/).
+["How the Land Can Heal." Review of Charles Massy, *Call of the Reed Warbler.* In *The University Bookman,* 8 March 2020](https://kirkcenter.org/reviews/how-the-land-can-heal/).
 
 ["Tropical Fruits of the Lower Midwest," *Front Porch Republic,* 8 January 2020](https://www.frontporchrepublic.com/2020/01/tropical-fruits-of-the-lower-midwest/).
 
 ["Learning to Die in the Garden," *Front Porch Republic,* 15 July 2019](https://www.frontporchrepublic.com/2019/07/learning-to-die-in-the-garden/).
 
-["Moral Reasoning in an Acceptable Time," *The University Bookman,* 8 April 2019](https://kirkcenter.org/reviews/moral-reasoning-in-an-acceptable-time/).
+["Moral Reasoning in an Acceptable Time." Review of Madeleine L'Engle, *The Kairos Novels.* In *The University Bookman,* 8 April 2019](https://kirkcenter.org/reviews/moral-reasoning-in-an-acceptable-time/).
 
 ["Reading Seed Catalogs for Pleasure and Profit," *Front Porch Republic,* 27 March 2019](https://www.frontporchrepublic.com/2019/03/reading-seed-catalogs-for-pleasure-and-profit/).
 

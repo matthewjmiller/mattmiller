@@ -23,8 +23,6 @@ Saint Louis University, December 2017, with distinction
 
 Primary Area: Rhetoric and Composition
 
-Secondary Areas: Medieval Studies, Speculative Realism
-
 Dissertation: *Why Rhetoricians Don't Get Religion: a Counter-history of Sacred Rhetoric.*
 
 Committee: Paul Lynch, chair; Nathaniel Rivers; Ruth Evans.
@@ -51,7 +49,7 @@ Research Strategist + Technical Writer, MarketPlace, the Food Marketing Agency, 
 
 ## Areas of Interest
 
-History and Theory of Rhetoric | Creative Nonfiction and the Essay | Technical Writing | Environmental Humanities | Sacred Rhetoric | Composition Pedagogy
+History and Theory of Rhetoric | Creative Nonfiction | Environmental Humanities | Technical Writing | Composition Pedagogy
 
 ## Publications
 
@@ -68,6 +66,8 @@ Review of Roger Grainger, *Suspending Disbelief: Theatre as Context for Sharing.
 Review of Sarah Beckwith, *Shakespeare and the Grammar of Forgiveness.* In *Ecumenica Journal of Theatre and Performance* 4.2 (2011).
 
 ### Literary
+
+Review of Patrick Laurie, *Native: Life in a Vanishing Landscape.* Forthcoming in *Front Porch Republic.*
 
 Review of Meghan O'Gieblyn, *Interior States.* Forthcoming in *The Cresset.*
 
@@ -91,15 +91,7 @@ Review of Mark Shephard, *Restoration Agriculture.* Forthcoming in *The Clevelan
 
 “A Kind of Giant and Intricate Poetry.” Review of David Lyle Jeffrey and Gregory Maillet, *Christianity and Literature: Philosophical Foundations and Critical Practice.* In *Intégrité* 16.1 (2017).
 
-[“Singing as Part of Family Worship,” *Mere Orthodoxy,* 25 April 2017](https://mereorthodoxy.com/singing-part-family-worship/). 
-
 [“Downton Abbey as a Jane Austen Style Tragedy,” *Mere Orthodoxy,* 12 February 2013](https://mereorthodoxy.com/downton-abbey-as-a-jane-austen-style-tragedy/). 
-
-["Capitalism Won't Save the Arts—Vocation Will," *Mere Orthodoxy,* 22 October 2012](https://mereorthodoxy.com/vocation-not-salesmanship-camille-paglias-exhortation-to-artists-capitalism-wont-save-the-arts-vocation-will/). 
-
-[With Stephen Carradini, "Is Ethical Advocacy Enough? A Dialogue on Digital Rights and Art," *Mere Orthodoxy,* 1 October 2012](https://mereorthodoxy.com/is-ethical-advocacy-enough-a-dialogue-on-digital-rights-and-art/). 
-
-["Advocacy and Ending Copyright Infringement," *Mere Orthodoxy*, 1 October 2012](https://mereorthodoxy.com/advocacy-and-ending-copyright-infringement/). 
 
 ["Ray Bradbury, J.R.R. Tolkien, and the Benefits of Nostalgia," *Mere Orthodoxy,* 6 July 2012](https://mereorthodoxy.com/ray-bradbury-j-r-r-tolkien-benefits-nostalgia/). 
 
@@ -137,7 +129,9 @@ Advanced Strategies of Rhetoric and Research, Saint Louis University, six sectio
 
 ## Conferencing
 
-Accepted co-leader of discussion circle on “Rural / Remote / Isolated Writers” at the Festival of Faith and Writing, Calvin College, April 2020. Conference postponed to 2021 due to coronavirus.
+Accepted co-leader of discussion circle on “Rural / Remote / Isolated Writers” at the Festival of Faith and Writing, Calvin College, April 2020. Conference postponed to 2021.
+
+Accepted paper: "Exploring the Anthropocene: Branson Mountain Village." *You are Here Interdisciplinary Conference,* March 2020. Conference cancelled.
 
 Participant, "Front Porch Republic: the Legacy of Wendell Berry," University of Louisville, 2019.
 
@@ -171,6 +165,8 @@ Invited participant, THATCamp Southeast Missouri, digital humanities unconferenc
  
 ## Local Presentations
 
+Panelist, New Faculty Orientation, College of the Ozarks, 2019.
+
 “Psychoanalytic Criticism and the Elegy.” Invited Guest Lecture for Dr. Matthew Bardowell's English 202, Introduction to Poetry, Saint Louis University, 2013. 
 
 “Mapping Your Way through Prezi.” Saint Louis University Writing Program Workshop Series 2011. 
@@ -189,6 +185,8 @@ French | *Koine* Greek | Latin
 
 ## Academic Service
 
+- Elected alternate Academic Council Representative, College of the Ozarks, 2020-2021.
+- Editor, College of the Ozarks Writing Awards webzine, 2020. 
 - Member, English Department Curriculum Committee, College of the Ozarks, 2018-19.
 - Member, Organizing Committee, the Kenneth Burke Society Conference, Saint Louis University, 2014. 
 - Member, Organizing Committee, There and Back Again: a Symposium on Seventy-Five Years of *The Hobbit*, Saint Louis University, 2012. 

@@ -1,4 +1,8 @@
-# Teaching
+---
+layout: page
+title: Teaching
+permalink: /teaching/
+---
 
 ## Philosophy
 
@@ -16,5 +20,16 @@ Finally, a liturgical understanding of pedagogy recognizes that education is gro
 
 In daily class meetings, a regular class rhythm helps to build relationships. Students in my classes know from the outset that they will be regularly called on to speak in class following a steady rotation, either based around in-class writing or other daily assignments. This practice helps me ensure that all students have a stake in the class as well as raising voices of those who might not feel comfortable speaking in a less structured format. This formal structure for discussion yields vigorous class discussion, building relationships and rapport throughout the class.
 
+These methods have consistently garnered strong feedback from my students. In general education courses, I average a 4.8 out of 5 on the "Excellent Teacher" score for my institution's evaluation rubric, despite teaching composition courses that have a reputation for great difficulty. Even those students who find the general education course itself less than congenial consistently praise my work as an instructor, mentioning especially my organization and how the structure of my classes allows them to receive individualized feedback. In courses of my own design, I average an equivalent figure on the "Excellent Teacher" rubric while the "Excellent Course" score also lands at a 4.7 out of 5. Students praise my major courses as original and thought-provoking, and correspondingly rank them highly on evaluations. 
 
-mention course eval numbers (my general education courses consistently score as above average for "Excellent Teacher," while my major courses score near the top of the scale) and wrap up
+These successes in the classroom have lead to increased teaching responsibilities. In fall 2019, my division chair selected me to take over a composition class which had abruptly lost its instructor after Thanksgiving break. Taking the course on as an overload, I guided students successfully through to the end of the semester despite the disruption to their course. Similarly, in spring 2020, I was appointed to teach a special technical writing lab for senior engineering students. These opportunities for teaching in unusual circumstances speak to my recognition by teachers and colleagues alike as an excellent teacher with a successful teaching style yielding strong outcomes for students.
+
+## Teaching Interests
+
+**Composition.** I am first a teacher of writing, and sincerely relish the opportunity to help students of all majors improve their written communication skills in general education composition courses. My composition courses stress skills for revision, recognizing that one of the biggest challenges many students face is difficulty evaluating and meaningfully improving their own work. I emphasize guided and disciplined revision processes, a professional and accountable working environment, and thought-provoking, real-life writing prompts. Students who have struggled with writing in the past benefit from the course structure, while those with a bent toward writing appreciate the challenging subject matter my courses take up.
+
+**Creative writing.** For me, teaching creative writing begins with teaching the practice of engaged reading. In order to write well and mature their creative voices, students need to approach their literary models as crafters and tinkerers, working writers ready to take apart a piece of literature not just to understand its meaning but to see how it works. My creative writing courses thus push students toward engaged reading through practices like keeping commonplace books, learning about the rhetorical tradition, and conducting annotation of diverse works in various styles. At the same time, these courses foreground student writing through regular workshops employing the practice of engaged reading on students' own original works.
+
+**Technical and professional communication.** Drawing on my professional background as a technical communicator and copwriter, I teach technical communication as a broadly applicable discipline involving communication about specialized topics with non-specialists. Students learn practical habits and tools for conducting technical research, communicating with media, evaluating accessibility, and improving usability. As with other writing courses, I stress disciplined revision habits and a professional working environment, preparing students to negotiate their future workplaces as rhetorical actors. 
+
+**Literature and cultural history.** As a cultural rhetorician, I understand literature as a cultural product that does rhetorical work. Accordingly, I teach literature alongside the rhetorical tradition as a means by which cultures negotiate identity, power, ideas, and social roles. My literature courses, whether introductory or advanced, always draw upon cultural studies, philosophy, theology, and rhetoric to tell a story about how literature reflects its social and historical context. This cultural-rhetorical framework, combined with my multidisciplinary background, gives me facility to teach relevant and stimulating literature surveys and seminars in American, British, and world literature.

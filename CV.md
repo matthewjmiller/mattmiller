@@ -25,8 +25,6 @@ Primary Area: Rhetoric and Composition
 
 Dissertation: *Why Rhetoricians Don't Get Religion: a Counter-history of Sacred Rhetoric.*
 
-Committee: Paul Lynch, chair; Nathaniel Rivers; Ruth Evans.
-
 ### M.A. (Research) English
 
 Saint Louis University, May 2012, with distinction
@@ -43,7 +41,7 @@ York College, Nebraska, May 2007, with highest honors
 
 ## Other Relevant Experience
 
-Content Marketing and Research Consultant, 2010-present.
+Content Marketing and Technical Communications Consultant, 2010-present.
 
 Research Strategist + Technical Writer, MarketPlace, the Food Marketing Agency, 2014-2018.
 
@@ -66,6 +64,10 @@ Review of Roger Grainger, *Suspending Disbelief: Theatre as Context for Sharing.
 Review of Sarah Beckwith, *Shakespeare and the Grammar of Forgiveness.* In *Ecumenica Journal of Theatre and Performance* 4.2 (2011).
 
 ### Literary
+
+"Literary Landscapes: Ted Kooser's Bohemian Alps." Forthcoming in *The New Territory.*
+
+Review of Leif Enger, *Virgil Wander.* Forthcoming in *The University Bookman.*
 
 Review of Patrick Laurie, *Native: Life in a Vanishing Landscape.* Forthcoming in *Front Porch Republic.*
 
@@ -129,9 +131,9 @@ Advanced Strategies of Rhetoric and Research, Saint Louis University, six sectio
 
 ## Conferencing
 
-Accepted co-leader of discussion circle on “Rural / Remote / Isolated Writers” at the Festival of Faith and Writing, Calvin College, April 2020. Conference postponed to 2021.
+Accepted co-leader of discussion circle on “Rural / Remote / Isolated Writers” at the Festival of Faith and Writing, Calvin College, April 2020. Conference postponed to 2021 due to pandemic.
 
-Accepted paper: "Exploring the Anthropocene: Branson Mountain Village." *You are Here Interdisciplinary Conference,* March 2020. Conference cancelled.
+Accepted paper: "Exploring the Anthropocene: Branson Mountain Village." *You are Here Interdisciplinary Conference,* March 2020. Conference cancelled due to pandemic.
 
 Participant, "Front Porch Republic: the Legacy of Wendell Berry," University of Louisville, 2019.
 
@@ -166,6 +168,8 @@ Invited participant, THATCamp Southeast Missouri, digital humanities unconferenc
 ## Local Presentations
 
 Panelist, New Faculty Orientation, College of the Ozarks, 2019.
+
+"The World Does Not Need Words: Notes on Faithfully Teaching Technical Writing." Presentation to the faculty of College of the Ozarks, 2019.
 
 “Psychoanalytic Criticism and the Elegy.” Invited Guest Lecture for Dr. Matthew Bardowell's English 202, Introduction to Poetry, Saint Louis University, 2013. 
 

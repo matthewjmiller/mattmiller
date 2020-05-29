@@ -75,7 +75,7 @@ Review of Meghan O'Gieblyn, *Interior States.* Forthcoming in *The Cresset.*
 
 Review of Mark Shephard, *Restoration Agriculture.* Forthcoming in *The Cleveland Review of Books.*
 
-"Crossing Flatwater." Forthcoming in *Big Muddy.*
+["Crossing Flatwater." *Big Muddy,* 29 May 2020](https://bigmuddyjournal.com/2020/05/29/crossing-flatwater/).
 
 ["How the Land Can Heal." Review of Charles Massy, *Call of the Reed Warbler.* In *The University Bookman,* 8 March 2020](https://kirkcenter.org/reviews/how-the-land-can-heal/).
 

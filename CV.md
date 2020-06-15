@@ -73,7 +73,7 @@ Review of Patrick Laurie, *Native: Life in a Vanishing Landscape.* Forthcoming i
 
 Review of Meghan O'Gieblyn, *Interior States.* Forthcoming in *The Cresset.*
 
-Review of Mark Shephard, *Restoration Agriculture.* Forthcoming in *The Cleveland Review of Books.*
+["A Restored Midwestern Landscape: On Mark Shepard's *Restoration Agriculture.*" Review of Mark Shephard, *Restoration Agriculture.* In *The Cleveland Review of Books,* 12 June 2020](https://www.clereviewofbooks.com/home/2020/6/12/a-restored-miswestern-landscape-on-mark-shepards-restoration-agriculture).
 
 ["Crossing Flatwater." *Big Muddy,* 29 May 2020](https://bigmuddyjournal.com/2020/05/29/crossing-flatwater/).
 

@@ -63,35 +63,21 @@ Review of Roger Grainger, *Suspending Disbelief: Theatre as Context for Sharing.
  
 Review of Sarah Beckwith, *Shakespeare and the Grammar of Forgiveness.* In *Ecumenica Journal of Theatre and Performance* 4.2 (2011).
 
-### Literary
+### Essays
 
-"Literary Landscapes: Ted Kooser's Bohemian Alps." Forthcoming in *The New Territory.*
-
-Review of Leif Enger, *Virgil Wander.* Forthcoming in *The University Bookman.*
-
-Review of Patrick Laurie, *Native: Life in a Vanishing Landscape.* Forthcoming in *Front Porch Republic.*
-
-Review of Meghan O'Gieblyn, *Interior States.* Forthcoming in *The Cresset.*
-
-["A Restored Midwestern Landscape: On Mark Shepard's *Restoration Agriculture.*" Review of Mark Shephard, *Restoration Agriculture.* In *The Cleveland Review of Books,* 12 June 2020](https://www.clereviewofbooks.com/home/2020/6/12/a-restored-miswestern-landscape-on-mark-shepards-restoration-agriculture).
+"Literary Landscapes: Ted Kooser's Seward County, NE." Forthcoming in *The New Territory.*
 
 ["Crossing Flatwater." *Big Muddy,* 29 May 2020](https://bigmuddyjournal.com/2020/05/29/crossing-flatwater/).
-
-["How the Land Can Heal." Review of Charles Massy, *Call of the Reed Warbler.* In *The University Bookman,* 8 March 2020](https://kirkcenter.org/reviews/how-the-land-can-heal/).
 
 ["Tropical Fruits of the Lower Midwest," *Front Porch Republic,* 8 January 2020](https://www.frontporchrepublic.com/2020/01/tropical-fruits-of-the-lower-midwest/).
 
 ["Learning to Die in the Garden," *Front Porch Republic,* 15 July 2019](https://www.frontporchrepublic.com/2019/07/learning-to-die-in-the-garden/).
-
-["Moral Reasoning in an Acceptable Time." Review of Madeleine L'Engle, *The Kairos Novels.* In *The University Bookman,* 8 April 2019](https://kirkcenter.org/reviews/moral-reasoning-in-an-acceptable-time/).
 
 ["Reading Seed Catalogs for Pleasure and Profit," *Front Porch Republic,* 27 March 2019](https://www.frontporchrepublic.com/2019/03/reading-seed-catalogs-for-pleasure-and-profit/).
 
 ["On the Costs and Rewards of Planting Fruit Trees," *Front Porch Republic,* 2 January 2019](https://www.frontporchrepublic.com/2019/01/on-the-costs-and-rewards-of-planting-trees/).
 
 ["Holy Clutter," *Comment,* 1 November 2018](https://www.cardus.ca/comment/article/holy-clutter/).
-
-“A Kind of Giant and Intricate Poetry.” Review of David Lyle Jeffrey and Gregory Maillet, *Christianity and Literature: Philosophical Foundations and Critical Practice.* In *Intégrité* 16.1 (2017).
 
 [“Downton Abbey as a Jane Austen Style Tragedy,” *Mere Orthodoxy,* 12 February 2013](https://mereorthodoxy.com/downton-abbey-as-a-jane-austen-style-tragedy/). 
 
@@ -100,6 +86,24 @@ Review of Meghan O'Gieblyn, *Interior States.* Forthcoming in *The Cresset.*
 [“#NewNebraskaSlogan and a New Rhetoric for the Midwest,” *Curator,* 21 October 2011](http://www.curatormagazine.com/matthew-miller/newnebraskaslogan-and-a-new-rhetoric-for-the-midwest/). 
 
 [“A Passion for the Possible.” *Curator*, 15 July 2011](http://www.curatormagazine.com/matthew-miller/a-passion-for-the-possible/).
+
+### Literary Reviews
+
+Review of Leif Enger, *Virgil Wander.* Forthcoming in *The University Bookman.*
+
+Review of Patrick Laurie, *Native: Life in a Vanishing Landscape.* Forthcoming in *Front Porch Republic.*
+
+Review of Meghan O'Gieblyn, *Interior States.* Forthcoming in *The Cresset.*
+
+Review of Tish Harrison Warren, *Prayer in the Night.* Forthcoming in *Front Porch Republic.*
+
+["A Restored Midwestern Landscape: On Mark Shepard's *Restoration Agriculture.*" Review of Mark Shephard, *Restoration Agriculture.* In *The Cleveland Review of Books,* 12 June 2020](https://www.clereviewofbooks.com/home/2020/6/12/a-restored-miswestern-landscape-on-mark-shepards-restoration-agriculture).
+
+["How the Land Can Heal." Review of Charles Massy, *Call of the Reed Warbler.* In *The University Bookman,* 8 March 2020](https://kirkcenter.org/reviews/how-the-land-can-heal/).
+
+["Moral Reasoning in an Acceptable Time." Review of Madeleine L'Engle, *The Kairos Novels.* In *The University Bookman,* 8 April 2019](https://kirkcenter.org/reviews/moral-reasoning-in-an-acceptable-time/).
+
+“A Kind of Giant and Intricate Poetry.” Review of David Lyle Jeffrey and Gregory Maillet, *Christianity and Literature: Philosophical Foundations and Critical Practice.* In *Intégrité* 16.1 (2017).
 
 ## Teaching Experience
 

@@ -51,18 +51,6 @@ History and Theory of Rhetoric | Creative Nonfiction | Environmental Humanities 
 
 ## Publications
 
-### Academic
-
-Review of Mari Lee Mifsud, *Rhetoric and the Gift.* Forthcoming in *Present Tense.*
-
-"George Herbert's *The Country Parson* as a Resource for Christian Rhetorical Theory." *Journal of Communication and Religion* 42.3 (2019).
-
-With Paul Lynch. [“Twenty-five Years of Faith and Writing: Religion and Composition, 1992-2017.” *Present Tense* 2.6 (2017).](http://www.presenttensejournal.org/volume-6/twenty-five-years-of-faith-in-writing-religion-and-composition-1992-2017/)
- 
-Review of Roger Grainger, *Suspending Disbelief: Theatre as Context for Sharing.* In *Ecumenica Journal of Theatre and Performance* 6.1 (2013).
- 
-Review of Sarah Beckwith, *Shakespeare and the Grammar of Forgiveness.* In *Ecumenica Journal of Theatre and Performance* 4.2 (2011).
-
 ### Essays
 
 "Literary Landscapes: Ted Kooser's Seward County, NE." Forthcoming in *The New Territory.*
@@ -93,8 +81,6 @@ Review of Leif Enger, *Virgil Wander.* Forthcoming in *The University Bookman.*
 
 Review of Patrick Laurie, *Native: Life in a Vanishing Landscape.* Forthcoming in *Front Porch Republic.*
 
-Review of Meghan O'Gieblyn, *Interior States.* Forthcoming in *The Cresset.*
-
 Review of Tish Harrison Warren, *Prayer in the Night.* Forthcoming in *Front Porch Republic.*
 
 ["A Restored Midwestern Landscape: On Mark Shepard's *Restoration Agriculture.*" Review of Mark Shephard, *Restoration Agriculture.* In *The Cleveland Review of Books,* 12 June 2020](https://www.clereviewofbooks.com/home/2020/6/12/a-restored-miswestern-landscape-on-mark-shepards-restoration-agriculture).
@@ -104,6 +90,18 @@ Review of Tish Harrison Warren, *Prayer in the Night.* Forthcoming in *Front Por
 ["Moral Reasoning in an Acceptable Time." Review of Madeleine L'Engle, *The Kairos Novels.* In *The University Bookman,* 8 April 2019](https://kirkcenter.org/reviews/moral-reasoning-in-an-acceptable-time/).
 
 “A Kind of Giant and Intricate Poetry.” Review of David Lyle Jeffrey and Gregory Maillet, *Christianity and Literature: Philosophical Foundations and Critical Practice.* In *Intégrité* 16.1 (2017).
+
+### Academic
+
+[Review of Mari Lee Mifsud, *Rhetoric and the Gift.*](https://www.presenttensejournal.org/volume-8/book-review-mifsuds-rhetoric-and-the-gift/) *Present Tense* 8.2 (2020).
+
+"George Herbert's *The Country Parson* as a Resource for Christian Rhetorical Theory." *Journal of Communication and Religion* 42.3 (2019).
+
+With Paul Lynch. [“Twenty-five Years of Faith and Writing: Religion and Composition, 1992-2017.” *Present Tense* 2.6 (2017).](http://www.presenttensejournal.org/volume-6/twenty-five-years-of-faith-in-writing-religion-and-composition-1992-2017/)
+ 
+Review of Roger Grainger, *Suspending Disbelief: Theatre as Context for Sharing.* In *Ecumenica Journal of Theatre and Performance* 6.1 (2013).
+ 
+Review of Sarah Beckwith, *Shakespeare and the Grammar of Forgiveness.* In *Ecumenica Journal of Theatre and Performance* 4.2 (2011).
 
 ## Teaching Experience
 

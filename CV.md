@@ -79,9 +79,9 @@ History and Theory of Rhetoric | Creative Nonfiction | Environmental Humanities 
 
 Review of Leif Enger, *Virgil Wander.* Forthcoming in *The University Bookman.*
 
-Review of Patrick Laurie, *Native: Life in a Vanishing Landscape.* Forthcoming in *Front Porch Republic.*
-
 Review of Tish Harrison Warren, *Prayer in the Night.* Forthcoming in *Front Porch Republic.*
+
+["When Home is No Home." Review of Patrick Laurie, *Native: Life in a Vanishing Landscape.*](https://www.frontporchrepublic.com/2020/08/when-home-is-no-home-on-becoming-native-to-a-changing-place/) In *Front Porch Republic,* 12 August 2020.
 
 ["A Restored Midwestern Landscape: On Mark Shepard's *Restoration Agriculture.*" Review of Mark Shephard, *Restoration Agriculture.* In *The Cleveland Review of Books,* 12 June 2020](https://www.clereviewofbooks.com/home/2020/6/12/a-restored-miswestern-landscape-on-mark-shepards-restoration-agriculture).
 

@@ -55,6 +55,8 @@ History and Theory of Rhetoric | Creative Nonfiction | Environmental Humanities 
 
 "Literary Landscapes: Ted Kooser's Seward County, NE." Forthcoming in *The New Territory.*
 
+"In the Country I Know by Heart." Forthcoming in *Critical Read.*
+
 ["Crossing Flatwater." *Big Muddy,* 29 May 2020](https://bigmuddyjournal.com/2020/05/29/crossing-flatwater/).
 
 ["Tropical Fruits of the Lower Midwest," *Front Porch Republic,* 8 January 2020](https://www.frontporchrepublic.com/2020/01/tropical-fruits-of-the-lower-midwest/).

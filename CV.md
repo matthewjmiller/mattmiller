@@ -47,7 +47,7 @@ Research Strategist + Technical Writer, MarketPlace, the Food Marketing Agency, 
 
 ## Areas of Interest
 
-History and Theory of Rhetoric | Creative Nonfiction | Environmental Humanities | Technical Writing | Composition Pedagogy
+Rhetoric and Composition | Creative Nonfiction | Environmental Humanities | Great Plains and Midwestern Studies
 
 ## Publications
 
@@ -55,7 +55,7 @@ History and Theory of Rhetoric | Creative Nonfiction | Environmental Humanities 
 
 "Literary Landscapes: Ted Kooser's Seward County, NE." Forthcoming in *The New Territory.*
 
-"In the Country I Know by Heart." Forthcoming in *Critical Read.*
+["In the Country I Know by Heart"](https://criticalread.org/art-is-essential-october-2020/). *Critical Read,* 5 October 2020.
 
 ["Crossing Flatwater." *Big Muddy,* 29 May 2020](https://bigmuddyjournal.com/2020/05/29/crossing-flatwater/).
 
@@ -79,9 +79,9 @@ History and Theory of Rhetoric | Creative Nonfiction | Environmental Humanities 
 
 ### Literary Reviews
 
-Review of Leif Enger, *Virgil Wander.* Forthcoming in *The University Bookman.*
-
 Review of Tish Harrison Warren, *Prayer in the Night.* Forthcoming in *Front Porch Republic.*
+
+["Can Whimsy Save the Small-Town Novel?" Review of Leif Enger, *Virgil Wander.*](https://kirkcenter.org/reviews/can-whimsy-save-the-small-town-novel/) In *The University Bookman,* 11 October 2020.
 
 ["When Home is No Home." Review of Patrick Laurie, *Native: Life in a Vanishing Landscape.*](https://www.frontporchrepublic.com/2020/08/when-home-is-no-home-on-becoming-native-to-a-changing-place/) In *Front Porch Republic,* 12 August 2020.
 

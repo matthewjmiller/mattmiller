@@ -57,7 +57,7 @@ Rhetoric and Composition | Creative Nonfiction | Environmental Humanities | Grea
 
 ["In the Country I Know by Heart"](https://criticalread.org/art-is-essential-october-2020/). *Critical Read,* 5 October 2020.
 
-["Crossing Flatwater." *Big Muddy,* 29 May 2020](https://bigmuddyjournal.com/2020/05/29/crossing-flatwater/).
+["Crossing Flatwater." *Big Muddy,* 29 May 2020](https://www.academia.edu/43221215/Crossing_Flatwater).
 
 ["Tropical Fruits of the Lower Midwest," *Front Porch Republic,* 8 January 2020](https://www.frontporchrepublic.com/2020/01/tropical-fruits-of-the-lower-midwest/).
 

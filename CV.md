@@ -53,7 +53,9 @@ Rhetoric and Composition | Creative Nonfiction | Environmental Humanities | Grea
 
 ### Essays
 
-"Literary Landscapes: Ted Kooser's Seward County, NE." Forthcoming in *The New Territory.*
+"Ravining." Forthcoming in *Front Porch Republic.*
+
+["Literary Landscapes: Ted Kooser's Seward County, NE."](https://newterritorymag.com/literary-landscapes/ted-kooser-seward-county-nebraska/) *The New Territory,* 22 December 2020.
 
 ["In the Country I Know by Heart"](https://criticalread.org/art-is-essential-october-2020/). *Critical Read,* 5 October 2020.
 
@@ -80,6 +82,8 @@ Rhetoric and Composition | Creative Nonfiction | Environmental Humanities | Grea
 ### Literary Reviews
 
 Review of Tish Harrison Warren, *Prayer in the Night.* Forthcoming in *Front Porch Republic.*
+
+"A Penitent Midwestern Regionalism." Review of Kwame Dawes, *Nebraska,* and Phil Christman, *Midwest Futures.* Forthcoming in *Fare Forward.*
 
 ["Can Whimsy Save the Small-Town Novel?" Review of Leif Enger, *Virgil Wander.*](https://kirkcenter.org/reviews/can-whimsy-save-the-small-town-novel/) In *The University Bookman,* 11 October 2020.
 

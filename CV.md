@@ -83,7 +83,7 @@ Rhetoric and Composition | Creative Nonfiction | Environmental Humanities | Grea
 
 Review of Tish Harrison Warren, *Prayer in the Night.* Forthcoming in *Front Porch Republic.*
 
-"A Penitent Midwestern Regionalism." Review of Kwame Dawes, *Nebraska,* and Phil Christman, *Midwest Futures.* Forthcoming in *Fare Forward.*
+["A Penitent Midwestern Regionalism." Review of Kwame Dawes, *Nebraska,* and Phil Christman, *Midwest Futures.*](http://farefwd.com/index.php/2020/12/30/nebraska-midwest-futures/). In *Fare Forward,* 30 December 2020.
 
 ["Can Whimsy Save the Small-Town Novel?" Review of Leif Enger, *Virgil Wander.*](https://kirkcenter.org/reviews/can-whimsy-save-the-small-town-novel/) In *The University Bookman,* 11 October 2020.
 

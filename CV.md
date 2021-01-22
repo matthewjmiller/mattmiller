@@ -53,49 +53,45 @@ Rhetoric and Composition | Creative Nonfiction | Environmental Humanities | Grea
 
 ### Essays
 
-"Ravining." Forthcoming in *Front Porch Republic.*
+["Ravining."](https://www.frontporchrepublic.com/2021/01/ravining/) *Front Porch Republic,* 11 January 2021.
 
 ["Literary Landscapes: Ted Kooser's Seward County, NE."](https://newterritorymag.com/literary-landscapes/ted-kooser-seward-county-nebraska/) *The New Territory,* 22 December 2020.
 
-["In the Country I Know by Heart"](https://criticalread.org/art-is-essential-october-2020/). *Critical Read,* 5 October 2020.
+["In the Country I Know by Heart."](https://criticalread.org/art-is-essential-october-2020/) *Critical Read,* 5 October 2020.
 
-["Crossing Flatwater." *Big Muddy,* 29 May 2020](https://www.academia.edu/43221215/Crossing_Flatwater).
+["Crossing Flatwater."](https://www.academia.edu/43221215/Crossing_Flatwater) *Big Muddy,* 29 May 2020.
 
-["Tropical Fruits of the Lower Midwest," *Front Porch Republic,* 8 January 2020](https://www.frontporchrepublic.com/2020/01/tropical-fruits-of-the-lower-midwest/).
+["Tropical Fruits of the Lower Midwest."](https://www.frontporchrepublic.com/2020/01/tropical-fruits-of-the-lower-midwest/) *Front Porch Republic,* 8 January 2020.
 
-["Learning to Die in the Garden," *Front Porch Republic,* 15 July 2019](https://www.frontporchrepublic.com/2019/07/learning-to-die-in-the-garden/).
+["Learning to Die in the Garden."](https://www.frontporchrepublic.com/2019/07/learning-to-die-in-the-garden/) *Front Porch Republic,* 15 July 2019.
 
-["Reading Seed Catalogs for Pleasure and Profit," *Front Porch Republic,* 27 March 2019](https://www.frontporchrepublic.com/2019/03/reading-seed-catalogs-for-pleasure-and-profit/).
+["Reading Seed Catalogs for Pleasure and Profit."](https://www.frontporchrepublic.com/2019/03/reading-seed-catalogs-for-pleasure-and-profit/) *Front Porch Republic,* 27 March 2019.
 
-["On the Costs and Rewards of Planting Fruit Trees," *Front Porch Republic,* 2 January 2019](https://www.frontporchrepublic.com/2019/01/on-the-costs-and-rewards-of-planting-trees/).
+["On the Costs and Rewards of Planting Fruit Trees."](https://www.frontporchrepublic.com/2019/01/on-the-costs-and-rewards-of-planting-trees/) *Front Porch Republic,* 2 January 2019.
 
-["Holy Clutter," *Comment,* 1 November 2018](https://www.cardus.ca/comment/article/holy-clutter/).
+["Holy Clutter."](https://www.cardus.ca/comment/article/holy-clutter/) *Comment,* 1 November 2018.
 
-[“Downton Abbey as a Jane Austen Style Tragedy,” *Mere Orthodoxy,* 12 February 2013](https://mereorthodoxy.com/downton-abbey-as-a-jane-austen-style-tragedy/). 
+[“#NewNebraskaSlogan and a New Rhetoric for the Midwest.”](http://www.curatormagazine.com/matthew-miller/newnebraskaslogan-and-a-new-rhetoric-for-the-midwest/) *Curator,* 21 October 2011. 
 
-["Ray Bradbury, J.R.R. Tolkien, and the Benefits of Nostalgia," *Mere Orthodoxy,* 6 July 2012](https://mereorthodoxy.com/ray-bradbury-j-r-r-tolkien-benefits-nostalgia/). 
-
-[“#NewNebraskaSlogan and a New Rhetoric for the Midwest,” *Curator,* 21 October 2011](http://www.curatormagazine.com/matthew-miller/newnebraskaslogan-and-a-new-rhetoric-for-the-midwest/). 
-
-[“A Passion for the Possible.” *Curator*, 15 July 2011](http://www.curatormagazine.com/matthew-miller/a-passion-for-the-possible/).
+[“A Passion for the Possible.”](http://www.curatormagazine.com/matthew-miller/a-passion-for-the-possible/) *Curator*, 15 July 2011.
 
 ### Literary Reviews
 
-Review of Tish Harrison Warren, *Prayer in the Night.* Forthcoming in *Front Porch Republic.*
+["Finding Rest in the Immanent Frame." Review of Tish Harrison Warren, *Prayer in the Night.*](https://www.frontporchrepublic.com/2021/01/finding-rest-in-the-immanent-frame-a-review-of-tish-harrison-warrens-prayer-in-the-night/) *Front Porch Republic,* 21 January 2021.
 
-["A Penitent Midwestern Regionalism." Review of Kwame Dawes, *Nebraska,* and Phil Christman, *Midwest Futures.*](http://farefwd.com/index.php/2020/12/30/nebraska-midwest-futures/). In *Fare Forward,* 30 December 2020.
+["A Penitent Midwestern Regionalism." Review of Kwame Dawes, *Nebraska,* and Phil Christman, *Midwest Futures.*](http://farefwd.com/index.php/2020/12/30/nebraska-midwest-futures/). *Fare Forward,* 30 December 2020.
 
-["Can Whimsy Save the Small-Town Novel?" Review of Leif Enger, *Virgil Wander.*](https://kirkcenter.org/reviews/can-whimsy-save-the-small-town-novel/) In *The University Bookman,* 11 October 2020.
+["Can Whimsy Save the Small-Town Novel?" Review of Leif Enger, *Virgil Wander.*](https://kirkcenter.org/reviews/can-whimsy-save-the-small-town-novel/) *The University Bookman,* 11 October 2020.
 
-["When Home is No Home." Review of Patrick Laurie, *Native: Life in a Vanishing Landscape.*](https://www.frontporchrepublic.com/2020/08/when-home-is-no-home-on-becoming-native-to-a-changing-place/) In *Front Porch Republic,* 12 August 2020.
+["When Home is No Home." Review of Patrick Laurie, *Native: Life in a Vanishing Landscape.*](https://www.frontporchrepublic.com/2020/08/when-home-is-no-home-on-becoming-native-to-a-changing-place/) *Front Porch Republic,* 12 August 2020.
 
-["A Restored Midwestern Landscape: On Mark Shepard's *Restoration Agriculture.*" Review of Mark Shephard, *Restoration Agriculture.* In *The Cleveland Review of Books,* 12 June 2020](https://www.clereviewofbooks.com/home/2020/6/12/a-restored-miswestern-landscape-on-mark-shepards-restoration-agriculture).
+["A Restored Midwestern Landscape: On Mark Shepard's *Restoration Agriculture.*" Review of Mark Shephard, *Restoration Agriculture.*](https://www.clereviewofbooks.com/home/2020/6/12/a-restored-miswestern-landscape-on-mark-shepards-restoration-agriculture) *The Cleveland Review of Books,* 12 June 2020.
 
-["How the Land Can Heal." Review of Charles Massy, *Call of the Reed Warbler.* In *The University Bookman,* 8 March 2020](https://kirkcenter.org/reviews/how-the-land-can-heal/).
+["How the Land Can Heal." Review of Charles Massy, *Call of the Reed Warbler.*](https://kirkcenter.org/reviews/how-the-land-can-heal/) *The University Bookman,* 8 March 2020.
 
-["Moral Reasoning in an Acceptable Time." Review of Madeleine L'Engle, *The Kairos Novels.* In *The University Bookman,* 8 April 2019](https://kirkcenter.org/reviews/moral-reasoning-in-an-acceptable-time/).
+["Moral Reasoning in an Acceptable Time." Review of Madeleine L'Engle, *The Kairos Novels.*](https://kirkcenter.org/reviews/moral-reasoning-in-an-acceptable-time/) *The University Bookman,* 8 April 2019.
 
-“A Kind of Giant and Intricate Poetry.” Review of David Lyle Jeffrey and Gregory Maillet, *Christianity and Literature: Philosophical Foundations and Critical Practice.* In *Intégrité* 16.1 (2017).
+“A Kind of Giant and Intricate Poetry.” Review of David Lyle Jeffrey and Gregory Maillet, *Christianity and Literature: Philosophical Foundations and Critical Practice.* *Intégrité* 16.1 (2017).
 
 ### Academic
 
@@ -115,15 +111,15 @@ Seminar in Rhetoric: Rural Writing, College of the Ozarks, fall 2020.
 
 Survey of American Literature II, College of the Ozarks, fall 2019.
 
-Creative Writing: Nonfiction, College of the Ozarks, spring 2019.
+Creative Writing: Nonfiction, College of the Ozarks, spring 2019, spring 2021.
 
-Technical Writing, College of the Ozarks, fall 2018. Also taught spring 2020 as an independent study.
+Technical Writing, College of the Ozarks, fall 2018, spring 2021. Also taught spring 2020 as an independent study.
 
 Agricultural Engineering Fundamentals: Technical Writing Lab, College of the Ozarks, spring 2020.
 
-Readings in Western Civilization, College of the Ozarks, six sections, fall 2018-fall 2020.
+Readings in Western Civilization, College of the Ozarks, seven sections, fall 2018-spring 2021.
 
-College Composition, College of the Ozarks, twelve sections, fall 2018-fall 2020.
+College Composition, College of the Ozarks, fourteen sections, fall 2018-spring 2021.
 
 Business and Professional Writing, Saint Louis University, spring 2018. 
 
@@ -175,7 +171,9 @@ Invited participant, THATCamp Southeast Missouri, digital humanities unconferenc
  
 ## Local Presentations
 
-Panelist, New Faculty Orientation, College of the Ozarks, 2019.
+Panelist, "Assessment Update," Faculty Workshops, College of the Ozarks, 2021.
+
+Panelist, "New Faculty Experiences," New Faculty Orientation, College of the Ozarks, 2019.
 
 "The World Does Not Need Words: Notes on Faithfully Teaching Technical Writing." Presentation to the faculty of College of the Ozarks, 2019.
 

@@ -79,7 +79,7 @@ Rhetoric and Composition | Creative Nonfiction | Environmental Humanities | Grea
 
 ["Finding Rest in the Immanent Frame." Review of Tish Harrison Warren, *Prayer in the Night.*](https://www.frontporchrepublic.com/2021/01/finding-rest-in-the-immanent-frame-a-review-of-tish-harrison-warrens-prayer-in-the-night/) *Front Porch Republic,* 21 January 2021.
 
-["A Penitent Midwestern Regionalism." Review of Kwame Dawes, *Nebraska,* and Phil Christman, *Midwest Futures.*](http://farefwd.com/index.php/2020/12/30/nebraska-midwest-futures/). *Fare Forward,* 30 December 2020.
+["A Penitent Midwestern Regionalism." Review of Kwame Dawes, *Nebraska,* and Phil Christman, *Midwest Futures*](http://farefwd.com/index.php/2020/12/30/nebraska-midwest-futures/). *Fare Forward,* 30 December 2020.
 
 ["Can Whimsy Save the Small-Town Novel?" Review of Leif Enger, *Virgil Wander.*](https://kirkcenter.org/reviews/can-whimsy-save-the-small-town-novel/) *The University Bookman,* 11 October 2020.
 

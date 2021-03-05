@@ -53,6 +53,10 @@ Rhetoric and Composition | Creative Nonfiction | Environmental Humanities | Grea
 
 ### Essays
 
+"On Country Cemeteries." Forthcoming in *Whale Road Review.*
+
+["Milkweed Prayer."](https://go.umhb.edu/files/The-Windhover-25.1-Sample.pdf) *The Windhover* 25.1, February 2021.
+
 ["Ravining."](https://www.frontporchrepublic.com/2021/01/ravining/) *Front Porch Republic,* 11 January 2021.
 
 ["Literary Landscapes: Ted Kooser's Seward County, NE."](https://newterritorymag.com/literary-landscapes/ted-kooser-seward-county-nebraska/) *The New Territory,* 22 December 2020.

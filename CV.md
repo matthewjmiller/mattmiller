@@ -113,17 +113,19 @@ Review of Sarah Beckwith, *Shakespeare and the Grammar of Forgiveness.* In *Ecum
 
 Seminar in Rhetoric: Rural Writing, College of the Ozarks, fall 2020.
 
+The American Novel: Land, Community, Race, and Spirituality, College of the Ozarks, fall 2021.
+
 Survey of American Literature II, College of the Ozarks, fall 2019.
 
-Creative Writing: Nonfiction, College of the Ozarks, spring 2019, spring 2021.
+Creative Writing: Nonfiction, College of the Ozarks, two sections, spring 2019, spring 2021.
 
-Technical Writing, College of the Ozarks, fall 2018, spring 2021. Also taught spring 2020 as an independent study.
+Technical Writing, College of the Ozarks, two sections, fall 2018, spring 2021. Also taught spring 2020 as an independent study.
 
 Agricultural Engineering Fundamentals: Technical Writing Lab, College of the Ozarks, spring 2020.
 
-Readings in Western Civilization, College of the Ozarks, seven sections, fall 2018-spring 2021.
+Readings in Western Civilization, College of the Ozarks, nine sections, fall 2018-fall 2021.
 
-College Composition, College of the Ozarks, fourteen sections, fall 2018-spring 2021.
+College Composition, College of the Ozarks, sixteen sections, fall 2018-fall 2021.
 
 Business and Professional Writing, Saint Louis University, spring 2018. 
 
@@ -139,7 +141,7 @@ Advanced Strategies of Rhetoric and Research, Saint Louis University, six sectio
 
 ## Conferencing
 
-Accepted co-leader of discussion circle on “Rural / Remote / Isolated Writers” at the Festival of Faith and Writing, Calvin College, April 2020. Conference postponed to 2021 due to pandemic.
+Accepted co-leader of discussion circle on “Rural / Remote / Isolated Writers” at the Festival of Faith and Writing, Calvin College, April 2020. Conference postponed to 2022 due to pandemic.
 
 Accepted paper: "Exploring the Anthropocene: Branson Mountain Village." *You are Here Interdisciplinary Conference,* March 2020. Conference cancelled due to pandemic.
 
@@ -210,6 +212,7 @@ French | *Koine* Greek | Latin
 
 ## Honors and Awards
 
+- Awarded College of the Ozarks summer enrichment funding, 2021. $900.
 - Winner, Seerveld Prize for New Writers, *Comment.* $1,500 CAD.
 - First place, Humanities Paper Competition, Saint Louis University Graduate Research Symposium, 2014. $250.
 - First runner-up, Humanities Paper Competition, Saint Louis University Graduate Research Symposium, 2013. $125.

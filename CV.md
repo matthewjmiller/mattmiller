@@ -81,6 +81,14 @@ Rhetoric and Composition | Creative Nonfiction | Environmental Humanities | Grea
 
 ### Literary Reviews
 
+Review of Hannah Malcolm, ed., *Words for a Dying World.* Forthcoming in *Fare Forward.*
+
+Review of Tom Springer, *The Star in the Sycamore.* Forthcoming in *Front Porch Republic.*
+
+Review of Matthew Milliner, *The Everlasting People.* Forthcoming in *Front Porch Republic.*
+
+["Making Meaning in the Haunted Midwest." Review of Zachary Michael Jack, *The Haunt of Home,* and Steven Wingate, *The Leave-Takers.*](https://www.frontporchrepublic.com/2021/05/making-meaning-in-the-haunted-midwest/) *Front Porch Republic,* 12 May 2021.
+
 ["Finding Rest in the Immanent Frame." Review of Tish Harrison Warren, *Prayer in the Night.*](https://www.frontporchrepublic.com/2021/01/finding-rest-in-the-immanent-frame-a-review-of-tish-harrison-warrens-prayer-in-the-night/) *Front Porch Republic,* 21 January 2021.
 
 ["A Penitent Midwestern Regionalism." Review of Kwame Dawes, *Nebraska,* and Phil Christman, *Midwest Futures*](http://farefwd.com/index.php/2020/12/30/nebraska-midwest-futures/). *Fare Forward,* 30 December 2020.

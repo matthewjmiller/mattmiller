@@ -15,36 +15,6 @@ Assistant Professor of English, 2018-present.
 - Adjunct Instructor in Professional Writing, 2018.
 - Graduate Instructor in English, 2010-2014.
 
-## Education
-
-### Ph.D. English
-
-Saint Louis University, December 2017, with distinction
-
-Primary Area: Rhetoric and Composition
-
-Dissertation: *Why Rhetoricians Don't Get Religion: a Counter-history of Sacred Rhetoric.*
-
-### M.A. (Research) English
-
-Saint Louis University, May 2012, with distinction
-
-Thesis: *Gift Exchange in Early English Drama: Rhetoric and Sacrament.*
-
-### B.A. English and Religion
-
-Oklahoma Christian University, December 2009, *summa cum laude*
-
-### A.A. English
-
-York College, Nebraska, May 2007, with highest honors
-
-## Other Relevant Experience
-
-Content Marketing and Technical Communications Consultant, 2010-present.
-
-Research Strategist + Technical Writer, MarketPlace, the Food Marketing Agency, 2014-2018.
-
 ## Areas of Interest
 
 Rhetoric and Composition | Creative Nonfiction | Environmental Humanities | Great Plains and Midwestern Studies
@@ -116,6 +86,36 @@ With Paul Lynch. [“Twenty-five Years of Faith and Writing: Religion and Compos
 Review of Roger Grainger, *Suspending Disbelief: Theatre as Context for Sharing.* In *Ecumenica Journal of Theatre and Performance* 6.1 (2013).
  
 Review of Sarah Beckwith, *Shakespeare and the Grammar of Forgiveness.* In *Ecumenica Journal of Theatre and Performance* 4.2 (2011).
+
+## Education
+
+### Ph.D. English
+
+Saint Louis University, December 2017, with distinction
+
+Primary Area: Rhetoric and Composition
+
+Dissertation: *Why Rhetoricians Don't Get Religion: a Counter-history of Sacred Rhetoric.*
+
+### M.A. (Research) English
+
+Saint Louis University, May 2012, with distinction
+
+Thesis: *Gift Exchange in Early English Drama: Rhetoric and Sacrament.*
+
+### B.A. English and Religion
+
+Oklahoma Christian University, December 2009, *summa cum laude*
+
+### A.A. English
+
+York College, Nebraska, May 2007, with highest honors
+
+## Other Relevant Experience
+
+Content Marketing and Technical Communications Consultant, 2010-present.
+
+Research Strategist + Technical Writer, MarketPlace, the Food Marketing Agency, 2014-2018.
 
 ## Teaching Experience
 
@@ -203,14 +203,18 @@ Christianity and Communication Studies Network
 
 Emerging Scholars Network
 
+North American Fruit Explorers
+
 ## Languages
 
 French | *Koine* Greek | Latin
 
 ## Academic Service
 
+- Appointed member, Academic Assessment Committee, College of the Ozarks, 2021-present.
 - Elected alternate Academic Council Representative, College of the Ozarks, 2020-2021.
 - Editor, College of the Ozarks Writing Awards webzine, 2020. 
+- Member, Writing Program Committee, College of the Ozarks, 2018-present.
 - Member, English Department Curriculum Committee, College of the Ozarks, 2018-19.
 - Member, Organizing Committee, the Kenneth Burke Society Conference, Saint Louis University, 2014. 
 - Member, Organizing Committee, There and Back Again: a Symposium on Seventy-Five Years of *The Hobbit*, Saint Louis University, 2012. 

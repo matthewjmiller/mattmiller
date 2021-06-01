@@ -10,7 +10,7 @@ rss: rss
 show_excerpts: true
 
 # Build settings
-markdown: kramdown
+markdown: GFM
 theme: minima
 plugins:
   - jekyll-feed

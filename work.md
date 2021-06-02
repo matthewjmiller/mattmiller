@@ -4,7 +4,7 @@ title: Work
 permalink: /work/
 ---
 
-Before following my passion back into education, I worked in marketing at a boutique agency in St. Louis. Although I worked on all aspects of the agency's integrated marketing offering―from brand strategy to hand modeling―my specialties were market research, technical writing, and content creation, and I lead the agency's efforts on anything research-driven.
+Before returning to higher education, I worked in marketing at a boutique agency in St. Louis. Although I worked on all aspects of the agency's integrated marketing offering―from brand strategy to copywriting to social media―my specialties were market research, technical writing, and content creation, and I lead the agency's efforts on anything research-driven.
 
 Now I take on select contracts in market research, content marketing, and technical writing. Read on for more detail on how I can help, case studies, and work samples.
 
@@ -50,7 +50,7 @@ I research and write technical documents that aren't technical in the stereotypi
 >
 > As the primary strategist, writer, and researcher for my agency's client Parker Products, I researched and wrote eight white papers which were released over the course of a year, generating over 600 leads directly on their website. The white papers were also published through industry media, generating thousands more leads for the client.
 
-# For work samples, more information, or to discuss how I can help your brand, [get in touch](mailto:mm@matt-miller.org)
+# For work samples, more information, or to discuss how I can help your brand, [get in touch](mailto:hello@matt-miller.org)
 
 ***
 

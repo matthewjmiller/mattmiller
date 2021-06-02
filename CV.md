@@ -226,6 +226,7 @@ French | *Koine* Greek | Latin
 
 - Awarded College of the Ozarks summer enrichment funding, 2021. $900.
 - Winner, Seerveld Prize for New Writers, *Comment.* $1,500 CAD.
+- 2016 Addy Certificate of Excellence for my work as strategist and copywriter on ParkerProducts.com.
 - First place, Humanities Paper Competition, Saint Louis University Graduate Research Symposium, 2014. $250.
 - First runner-up, Humanities Paper Competition, Saint Louis University Graduate Research Symposium, 2013. $125.
 - First runner-up, Humanities Paper Competition, Saint Louis University Graduate Research Symposium, 2011. $125.

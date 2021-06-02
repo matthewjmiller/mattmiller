@@ -20,7 +20,7 @@ I have not patronized all of these nurseries; I list them here as being good to 
 - [Edible Acres](http://www.edibleacres.org/) - lots of permaculture stuff: wild licorice, turkish rocket, comfrey, nanking cherry, raspberry varieties, air potato, western sand cherry   
 - [Burnt Ridge Nursery](http://www.burntridgenursery.com) - have bought from these folks and recommend them    
 
-## Heirloom-focused
+## Other Interesting Places
 
 - [Brambleberry Farm](https://www.brambleberryfarm.org/)
 - [Peaceful Heritage](https://peacefulheritage.com/) - arugula tree!?   
@@ -55,19 +55,7 @@ I have not patronized all of these nurseries; I list them here as being good to 
 - [St. Lawrence](https://stlawrencenurseries.com/)    
 - [Morse](https://morsenursery.com/) - dwarf chestnuts
 - [Cold Stream Farm](https://www.coldstreamfarm.net/)
-
-## More Conventional
-
 - [Chief River](https://www.chiefrivernursery.com/) - bulk material, spring shipping only    
-- [Henry Fields](http://www.henryfields.com/)    
-- [Gurney's](http://www.gurneys.com/)     
-- [Jung](https://www.jungseed.com/)    
-- [Grandpa's Orchard](http://www.grandpasorchard.com/)    
-- [Greenwood](https://www.greenwoodnursery.com/)
-- [The Tree Store](http://thetreestore.info/)    
 
-## See Also
+For more of my writing on gardening, visit [A Habitation](http://habitation.substack.com)
 
-Many of the seed catalogs [listed here](http://vomitingchicken.com/another-happy-list-genes-seed-catalog-list/) will also carry some selection of fruit
-
-[Good Fruit](https://www.goodfruit.com/)

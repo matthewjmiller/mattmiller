@@ -51,11 +51,11 @@ Rhetoric and Composition | Creative Nonfiction | Environmental Humanities | Grea
 
 ### Literary Reviews
 
-Review of Hannah Malcolm, ed., *Words for a Dying World.* Forthcoming in *Fare Forward.*
-
 Review of Tom Springer, *The Star in the Sycamore.* Forthcoming in *Front Porch Republic.*
 
 Review of Matthew Milliner, *The Everlasting People.* Forthcoming in *Front Porch Republic.*
+
+["Thinking Little about Climate Grief." Review of Hannah Malcolm, ed. *Words for a Dying World.*](http://farefwd.com/index.php/2021/07/28/words-for-a-dying-world/) *Fare Forward,* 28 July 2021.
 
 ["Making Meaning in the Haunted Midwest." Review of Zachary Michael Jack, *The Haunt of Home,* and Steven Wingate, *The Leave-Takers.*](https://www.frontporchrepublic.com/2021/05/making-meaning-in-the-haunted-midwest/) *Front Porch Republic,* 12 May 2021.
 
@@ -185,6 +185,8 @@ Invited participant, THATCamp Southeast Missouri, digital humanities unconferenc
  
 ## Local Presentations
 
+"Writing as Humility, Humility as Play, Play as Love," College of the Ozarks Writing Center Orientation, 2021.
+
 Panelist, "Assessment Update," Faculty Workshops, College of the Ozarks, 2021.
 
 Panelist, "New Faculty Experiences," New Faculty Orientation, College of the Ozarks, 2019.
@@ -211,6 +213,7 @@ French | *Koine* Greek | Latin
 
 ## Academic Service
 
+- New faculty mentor, College of the Ozarks, 2021-2022.
 - Appointed member, Academic Assessment Committee, College of the Ozarks, 2021-present.
 - Elected alternate Academic Council Representative, College of the Ozarks, 2020-2021.
 - Editor, College of the Ozarks Writing Awards webzine, 2020. 

@@ -23,7 +23,7 @@ Rhetoric and Composition | Creative Nonfiction | Environmental Humanities | Grea
 
 ### Essays
 
-"On Country Cemeteries." Forthcoming in *Whale Road Review.*
+["On Country Cemeteries."](http://www.whaleroadreview.com/miller-3/) *Whale Road Review* 24 (Fall 2021), 10 September 2021.
 
 ["Milkweed Prayer."](https://go.umhb.edu/files/The-Windhover-25.1-Sample.pdf) *The Windhover* 25.1, February 2021.
 

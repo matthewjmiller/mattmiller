@@ -15,10 +15,6 @@ Assistant Professor of English, 2018-present.
 - Adjunct Instructor in Professional Writing, 2018.
 - Graduate Instructor in English, 2010-2014.
 
-## Areas of Interest
-
-Rhetoric and Composition | Creative Nonfiction | Environmental Humanities | Great Plains and Midwestern Studies
-
 ## Publications
 
 ### Essays
@@ -86,6 +82,10 @@ With Paul Lynch. [“Twenty-five Years of Faith and Writing: Religion and Compos
 Review of Roger Grainger, *Suspending Disbelief: Theatre as Context for Sharing.* In *Ecumenica Journal of Theatre and Performance* 6.1 (2013).
  
 Review of Sarah Beckwith, *Shakespeare and the Grammar of Forgiveness.* In *Ecumenica Journal of Theatre and Performance* 4.2 (2011).
+
+### Newsletter / Blog
+
+[A Habitation](https://habitation.substack.com/)
 
 ## Education
 
@@ -201,15 +201,13 @@ Panelist, "New Faculty Experiences," New Faculty Orientation, College of the Oza
 
 ## Memberships
 
+Association of Writers and Writing Programs
+
 Christianity and Communication Studies Network
 
 Emerging Scholars Network
 
 North American Fruit Explorers
-
-## Languages
-
-French | *Koine* Greek | Latin
 
 ## Academic Service
 

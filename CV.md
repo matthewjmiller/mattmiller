@@ -47,6 +47,8 @@ Assistant Professor of English, 2018-present.
 
 ### Literary Reviews
 
+Review of Emily Beth Hill, *Marketing and Christian Proclamation in Theological Perspective.* Forthcoming in *Fare Forward.*
+
 Review of Tom Springer, *The Star in the Sycamore.* Forthcoming in *Front Porch Republic.*
 
 Review of Matthew Milliner, *The Everlasting People.* Forthcoming in *Front Porch Republic.*
@@ -73,6 +75,8 @@ Review of Matthew Milliner, *The Everlasting People.* Forthcoming in *Front Porc
 
 ### Academic
 
+"The World Does Not Need Words: Notes on Faithfully Teaching Technical Writing." Forthcoming in an edited volume from Wipf & Stock.
+
 [Review of Mari Lee Mifsud, *Rhetoric and the Gift.*](https://www.presenttensejournal.org/volume-8/book-review-mifsuds-rhetoric-and-the-gift/) *Present Tense* 8.2 (2020).
 
 "George Herbert's *The Country Parson* as a Resource for Christian Rhetorical Theory." *Journal of Communication and Religion* 42.3 (2019).
@@ -83,7 +87,7 @@ Review of Roger Grainger, *Suspending Disbelief: Theatre as Context for Sharing.
  
 Review of Sarah Beckwith, *Shakespeare and the Grammar of Forgiveness.* In *Ecumenica Journal of Theatre and Performance* 4.2 (2011).
 
-### Newsletter / Blog
+### Newsletter
 
 [A Habitation](https://habitation.substack.com/)
 
@@ -127,13 +131,13 @@ Survey of American Literature II, College of the Ozarks, fall 2019.
 
 Creative Writing: Nonfiction, College of the Ozarks, two sections, spring 2019, spring 2021.
 
-Technical Writing, College of the Ozarks, two sections, fall 2018, spring 2021. Also taught spring 2020 as an independent study.
+Technical Writing, College of the Ozarks, three sections, fall 2018, spring 2021, spring 2022. Also taught spring 2020 as an independent study.
 
 Agricultural Engineering Fundamentals: Technical Writing Lab, College of the Ozarks, spring 2020.
 
-Readings in Western Civilization, College of the Ozarks, nine sections, fall 2018-fall 2021.
+Readings in Western Civilization, College of the Ozarks, ten sections, fall 2018-spring 2022.
 
-College Composition, College of the Ozarks, sixteen sections, fall 2018-fall 2021.
+College Composition, College of the Ozarks, eighteen sections, fall 2018-spring 2022.
 
 Business and Professional Writing, Saint Louis University, spring 2018. 
 
@@ -148,6 +152,8 @@ Advanced Strategies of Rhetoric and Research, Saint Louis University, six sectio
 [Quoted by Mic.com](https://mic.com/articles/187794/kombucha-kale-kardashian-manuka-honey-the-life-cycle-of-a-health-trend-how-food-transforms-into-a-miracle-remedy) as an expert source on food marketing.
 
 ## Conferencing
+
+Invited participant, *Orion Magazine* environmental writing workshop with Christopher Merrill, six weeks in spring 2022.
 
 Accepted co-leader of discussion circle on “Rural / Remote / Isolated Writers” at the Festival of Faith and Writing, Calvin College, April 2020. Conference postponed to 2022 due to pandemic.
 
@@ -185,6 +191,8 @@ Invited participant, THATCamp Southeast Missouri, digital humanities unconferenc
  
 ## Local Presentations
 
+"Digital Writing: a Primer." Invited guest lecture for Dr. Kalah Kemp's MCC 353: Social Media Campaigns course, College of the Ozarks, spring 2022.
+
 "Writing as Humility, Humility as Play, Play as Love," College of the Ozarks Writing Center Orientation, 2021.
 
 Panelist, "Assessment Update," Faculty Workshops, College of the Ozarks, 2021.
@@ -193,7 +201,7 @@ Panelist, "New Faculty Experiences," New Faculty Orientation, College of the Oza
 
 "The World Does Not Need Words: Notes on Faithfully Teaching Technical Writing." Presentation to the faculty of College of the Ozarks, 2019.
 
-“Psychoanalytic Criticism and the Elegy.” Invited Guest Lecture for Dr. Matthew Bardowell's English 202, Introduction to Poetry, Saint Louis University, 2013. 
+“Psychoanalytic Criticism and the Elegy.” Invited Guest Lecture for Dr. Matthew Bardowell's English 202 course, Introduction to Poetry, Saint Louis University, 2013. 
 
 “Mapping Your Way through Prezi.” Saint Louis University Writing Program Workshop Series 2011. 
 
@@ -211,6 +219,7 @@ North American Fruit Explorers
 
 ## Academic Service
 
+- English department hiring committee, College of the Ozarks, 2022.
 - New faculty mentor, College of the Ozarks, 2021-2022.
 - Appointed member, Academic Assessment Committee, College of the Ozarks, 2021-present.
 - Elected alternate Academic Council Representative, College of the Ozarks, 2020-2021.

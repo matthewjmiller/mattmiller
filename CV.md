@@ -49,9 +49,9 @@ Assistant Professor of English, 2018-present.
 
 Review of Emily Beth Hill, *Marketing and Christian Proclamation in Theological Perspective.* Forthcoming in *Fare Forward.*
 
-Review of Tom Springer, *The Star in the Sycamore.* Forthcoming in *Front Porch Republic.*
-
 Review of Matthew Milliner, *The Everlasting People.* Forthcoming in *Front Porch Republic.*
+
+["In Defense of Nature Writing." Review of Tom Springer, *The Star in the Sycamore.*](https://www.frontporchrepublic.com/2022/03/in-defense-of-nature-writing/) *Front Porch Republic,* 2 March 2022. 
 
 ["Thinking Little about Climate Grief." Review of Hannah Malcolm, ed. *Words for a Dying World.*](http://farefwd.com/index.php/2021/07/28/words-for-a-dying-world/) *Fare Forward,* 28 July 2021.
 

@@ -49,7 +49,7 @@ Assistant Professor of English, 2018-present.
 
 Review of Emily Beth Hill, *Marketing and Christian Proclamation in Theological Perspective.* Forthcoming in *Fare Forward.*
 
-Review of Matthew Milliner, *The Everlasting People.* Forthcoming in *Front Porch Republic.*
+["Seeing the Midwest New." Review of Matthew Milliner, *The Everlasting People.*](https://www.frontporchrepublic.com/2022/03/seeing-the-midwest-new-a-review-of-the-everlasting-people/) *Front Porch Republic,* 14 March 2022.
 
 ["In Defense of Nature Writing." Review of Tom Springer, *The Star in the Sycamore.*](https://www.frontporchrepublic.com/2022/03/in-defense-of-nature-writing/) *Front Porch Republic,* 2 March 2022. 
 
@@ -190,6 +190,10 @@ Invited participant, THATCamp Southeast Missouri, digital humanities unconferenc
 “‘To Hell with Truth!’: Faith, Nihilism, and Death in Eugene O’Neill’s *The Iceman Cometh*.” Southwest Conference on Christianity and Literature 2008.
  
 ## Local Presentations
+
+Panelist, "Inductive Essay Roundtable," Ozarks Area Writing Symposium, 2022. 
+
+Panelist, "Teaching Students Professionalism," Faculty Workshops, College of the Ozarks, 2022.
 
 "Digital Writing: a Primer." Invited guest lecture for Dr. Kalah Kemp's MCC 353: Social Media Campaigns course, College of the Ozarks, spring 2022.
 

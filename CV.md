@@ -19,6 +19,8 @@ Assistant Professor of English, 2018-present.
 
 ### Essays
 
+*Regenerate Earth.* Forthcoming in *Fare Forward.*
+
 ["On Country Cemeteries."](http://www.whaleroadreview.com/miller-3/) *Whale Road Review* 24 (Fall 2021), 10 September 2021.
 
 ["Milkweed Prayer."](https://go.umhb.edu/files/The-Windhover-25.1-Sample.pdf) *The Windhover* 25.1, February 2021.
@@ -47,7 +49,7 @@ Assistant Professor of English, 2018-present.
 
 ### Literary Reviews
 
-Review of Emily Beth Hill, *Marketing and Christian Proclamation in Theological Perspective.* Forthcoming in *Fare Forward.*
+["Christ the Gift." Review of Emily Beth Hill, *Marketing and Christian Proclamation in Theological Perspective.*](http://farefwd.com/index.php/2022/03/23/marketing-and-christian-proclamation-in-theological-perspective/) *Fare Forward,* 22 March 2022.
 
 ["Seeing the Midwest New." Review of Matthew Milliner, *The Everlasting People.*](https://www.frontporchrepublic.com/2022/03/seeing-the-midwest-new-a-review-of-the-everlasting-people/) *Front Porch Republic,* 14 March 2022.
 

@@ -19,7 +19,7 @@ Assistant Professor of English, 2018-present.
 
 ### Essays
 
-*Regenerate Earth.* Forthcoming in *Fare Forward.*
+["Suppose Him to be the Gardener."](http://farefwd.com/index.php/2022/06/01/suppose-him-to-be-the-gardener/) *Fare Forward* 19, 01 June 2022. 
 
 ["On Country Cemeteries."](http://www.whaleroadreview.com/miller-3/) *Whale Road Review* 24 (Fall 2021), 10 September 2021.
 

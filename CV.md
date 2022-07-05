@@ -77,7 +77,7 @@ Assistant Professor of English, 2018-present.
 
 ### Academic
 
-"The World Does Not Need Words: Notes on Faithfully Teaching Technical Writing." Forthcoming in an edited volume from Wipf & Stock.
+"The World Does Not Need Words: Notes on Faithfully Teaching Technical Writing." Forthcoming in *Faithful Lives.*
 
 [Review of Mari Lee Mifsud, *Rhetoric and the Gift.*](https://www.presenttensejournal.org/volume-8/book-review-mifsuds-rhetoric-and-the-gift/) *Present Tense* 8.2 (2020).
 

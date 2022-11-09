@@ -127,7 +127,7 @@ Research Strategist + Technical Writer, MarketPlace, the Food Marketing Agency, 
 
 Seminar in Rhetoric: Rural Writing, College of the Ozarks, fall 2020.
 
-The American Novel: Land, Community, Race, and Spirituality, College of the Ozarks, fall 2021.
+The American Novel: Land, Community, Race, and Spirituality, College of the Ozarks, two sections, fall 2021, fall 2022.
 
 Survey of American Literature II, College of the Ozarks, fall 2019.
 
@@ -137,9 +137,9 @@ Technical Writing, College of the Ozarks, three sections, fall 2018, spring 2021
 
 Agricultural Engineering Fundamentals: Technical Writing Lab, College of the Ozarks, spring 2020.
 
-Readings in Western Civilization, College of the Ozarks, ten sections, fall 2018-spring 2022.
+Readings in Western Civilization, College of the Ozarks, twelve sections, fall 2018-fall 2022.
 
-College Composition, College of the Ozarks, eighteen sections, fall 2018-spring 2022.
+College Composition, College of the Ozarks, twenty sections, fall 2018-fall 2022.
 
 Business and Professional Writing, Saint Louis University, spring 2018. 
 
@@ -155,9 +155,11 @@ Advanced Strategies of Rhetoric and Research, Saint Louis University, six sectio
 
 ## Conferencing
 
+"Toward a Rhetorical Gift Aesthetics for Literary Nonfiction." Baylor Symposium on Faith and Culture: Art Seeking Understanding, October 26, 2022. 
+
 Invited participant, *Orion Magazine* environmental writing workshop with Christopher Merrill, six weeks in spring 2022.
 
-Accepted co-leader of discussion circle on “Rural / Remote / Isolated Writers” at the Festival of Faith and Writing, Calvin College, April 2020. Conference postponed to 2022 due to pandemic.
+Accepted co-leader of discussion circle on “Rural / Remote / Isolated Writers” at the Festival of Faith and Writing, Calvin College, April 2020. Conference cancelled due to pandemic.
 
 Accepted paper: "Exploring the Anthropocene: Branson Mountain Village." *You are Here Interdisciplinary Conference,* March 2020. Conference cancelled due to pandemic.
 
@@ -192,6 +194,10 @@ Invited participant, THATCamp Southeast Missouri, digital humanities unconferenc
 “‘To Hell with Truth!’: Faith, Nihilism, and Death in Eugene O’Neill’s *The Iceman Cometh*.” Southwest Conference on Christianity and Literature 2008.
  
 ## Local Presentations
+
+Literary nonfiction craft talk, College of the Ozarks, february 2023. 
+
+Panelist, "Composition Instructor Panel," College of the Ozarks Writing Center Orientation, 2022.
 
 Panelist, "Inductive Essay Roundtable," Ozarks Area Writing Symposium, 2022. 
 
@@ -240,6 +246,7 @@ North American Fruit Explorers
 
 ## Honors and Awards
 
+- Awarded College of the Ozarks summer enrichment funding, 2022. $515.
 - Awarded College of the Ozarks summer enrichment funding, 2021. $900.
 - Winner, Seerveld Prize for New Writers, *Comment.* $1,500 CAD.
 - 2016 Addy Certificate of Excellence for my work as strategist and copywriter on ParkerProducts.com.

@@ -12,8 +12,8 @@ Assistant Professor of English, 2018-present.
 
 ### Saint Louis University
 
-- Adjunct Instructor in Professional Writing, 2018.
-- Graduate Instructor in English, 2010-2014.
+Adjunct Instructor in Professional Writing, 2018.    
+Graduate Instructor in English, 2010-2014.
 
 ## Publications
 
@@ -133,13 +133,15 @@ Survey of American Literature II, College of the Ozarks, fall 2019.
 
 Creative Writing: Nonfiction, College of the Ozarks, two sections, spring 2019, spring 2021.
 
-Technical Writing, College of the Ozarks, three sections, fall 2018, spring 2021, spring 2022. Also taught spring 2020 as an independent study.
+Technical Writing, College of the Ozarks, four sections, fall 2018, spring 2021, spring 2022, spring 2023. Also taught spring 2020 as an independent study.
+
+Interdisciplinary Special Topics: Speaking Christian, College of the Ozarks, spring 2023.
 
 Agricultural Engineering Fundamentals: Technical Writing Lab, College of the Ozarks, spring 2020.
 
-Readings in Western Civilization, College of the Ozarks, twelve sections, fall 2018-fall 2022.
+Readings in Western Civilization, College of the Ozarks, thirteen sections, fall 2018-spring 2023.
 
-College Composition, College of the Ozarks, twenty sections, fall 2018-fall 2022.
+College Composition, College of the Ozarks, twenty-two sections, fall 2018-spring 2023.
 
 Business and Professional Writing, Saint Louis University, spring 2018. 
 
@@ -195,7 +197,7 @@ Invited participant, THATCamp Southeast Missouri, digital humanities unconferenc
  
 ## Local Presentations
 
-Literary nonfiction craft talk, College of the Ozarks, february 2023. 
+Literary nonfiction craft talk, College of the Ozarks, February 2023. 
 
 Panelist, "Composition Instructor Panel," College of the Ozarks Writing Center Orientation, 2022.
 

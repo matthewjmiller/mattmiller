@@ -151,6 +151,8 @@ Advanced Strategies of Rhetoric and Research, Saint Louis University, six sectio
 
 ## Media
 
+Panelist, with Jeffrey Bilbro and Ashley Hales, discussing Thoreau's *Walden* for Gracy Olmstead's publication *Granola.*
+
 [Appeared on nationally syndicated program "Constant Wonder"](https://www.byuradio.org/episode/ad433a35-6b39-4655-89a6-71bca74d10c4/constant-wonder-timefulness-language-learning-project-embrace-planting-trees) discussing the ethics of planting trees.
 
 [Quoted by Mic.com](https://mic.com/articles/187794/kombucha-kale-kardashian-manuka-honey-the-life-cycle-of-a-health-trend-how-food-transforms-into-a-miracle-remedy) as an expert source on food marketing.

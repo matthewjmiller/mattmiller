@@ -17,6 +17,10 @@ Graduate Instructor in English, 2010-2014.
 
 ## Publications
 
+### Books
+
+*Leaves of Healing: A Year in the Garden.* Forthcoming from Belle Point Press in 2024.
+
 ### Essays
 
 ["Suppose Him to be the Gardener."](http://farefwd.com/index.php/2022/06/01/suppose-him-to-be-the-gardener/) *Fare Forward* 19, 01 June 2022. 
@@ -129,13 +133,13 @@ Seminar in Rhetoric: Rural Writing, College of the Ozarks, fall 2020.
 
 The American Novel: Land, Community, Race, and Spirituality, College of the Ozarks, two sections, fall 2021, fall 2022.
 
+Interdisciplinary Special Topics: Speaking Christian, College of the Ozarks, spring 2023.
+
 Survey of American Literature II, College of the Ozarks, fall 2019.
 
 Creative Writing: Nonfiction, College of the Ozarks, two sections, spring 2019, spring 2021.
 
 Technical Writing, College of the Ozarks, four sections, fall 2018, spring 2021, spring 2022, spring 2023. Also taught spring 2020 as an independent study.
-
-Interdisciplinary Special Topics: Speaking Christian, College of the Ozarks, spring 2023.
 
 Agricultural Engineering Fundamentals: Technical Writing Lab, College of the Ozarks, spring 2020.
 
@@ -151,7 +155,7 @@ Advanced Strategies of Rhetoric and Research, Saint Louis University, six sectio
 
 ## Media
 
-Panelist, with Jeffrey Bilbro and Ashley Hales, discussing Thoreau's *Walden* for Gracy Olmstead's publication *Granola.*
+Panelist, with Jeffrey Bilbro and Ashley Hales, discussing Thoreau's *Walden* for Gracy Olmstead's publication *Granola.* 16 December 2022.
 
 [Appeared on nationally syndicated program "Constant Wonder"](https://www.byuradio.org/episode/ad433a35-6b39-4655-89a6-71bca74d10c4/constant-wonder-timefulness-language-learning-project-embrace-planting-trees) discussing the ethics of planting trees.
 
@@ -159,7 +163,7 @@ Panelist, with Jeffrey Bilbro and Ashley Hales, discussing Thoreau's *Walden* fo
 
 ## Conferencing
 
-"Toward a Rhetorical Gift Aesthetics for Literary Nonfiction." Baylor Symposium on Faith and Culture: Art Seeking Understanding, October 26, 2022. 
+"Toward a Rhetorical Gift Aesthetics for Literary Nonfiction." Baylor Symposium on Faith and Culture: Art Seeking Understanding, 26 October 2022. 
 
 Invited participant, *Orion Magazine* environmental writing workshop with Christopher Merrill, six weeks in spring 2022.
 
@@ -199,13 +203,15 @@ Invited participant, THATCamp Southeast Missouri, digital humanities unconferenc
  
 ## Local Presentations
 
-Literary nonfiction craft talk, College of the Ozarks, February 2023. 
+Plenary Opening Session, Ozarks Area Writing Symposium, College of the Ozarks, 10 March 2023.
+
+"Remembering Gifts," *Remembering to Remember: A Symposium on Truth, Goodness, and Beauty,* College of the Ozarks, 2 February 2023. 
 
 Panelist, "Composition Instructor Panel," College of the Ozarks Writing Center Orientation, 2022.
 
-Panelist, "Inductive Essay Roundtable," Ozarks Area Writing Symposium, 2022. 
+Panelist, "Inductive Essay Roundtable," Ozarks Area Writing Symposium, College of the Ozarks, March 2022. 
 
-Panelist, "Teaching Students Professionalism," Faculty Workshops, College of the Ozarks, 2022.
+Panelist, "Teaching Students Professionalism," Faculty Workshops, College of the Ozarks, January 2022.
 
 "Digital Writing: a Primer." Invited guest lecture for Dr. Kalah Kemp's MCC 353: Social Media Campaigns course, College of the Ozarks, spring 2022.
 
@@ -235,9 +241,9 @@ North American Fruit Explorers
 
 ## Academic Service
 
+- Appointed member, Academic Assessment Committee, College of the Ozarks, 2021-present.
 - English department hiring committee, College of the Ozarks, 2022.
 - New faculty mentor, College of the Ozarks, 2021-2022.
-- Appointed member, Academic Assessment Committee, College of the Ozarks, 2021-present.
 - Elected alternate Academic Council Representative, College of the Ozarks, 2020-2021.
 - Editor, College of the Ozarks Writing Awards webzine, 2020. 
 - Member, Writing Program Committee, College of the Ozarks, 2018-present.

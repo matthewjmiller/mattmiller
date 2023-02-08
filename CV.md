@@ -129,6 +129,8 @@ Research Strategist + Technical Writer, MarketPlace, the Food Marketing Agency, 
 
 ## Teaching Experience
 
+Seminar in Rhetoric: Wendell Berry, College of the Ozarks, fall 2023. 
+
 Seminar in Rhetoric: Rural Writing, College of the Ozarks, fall 2020.
 
 The American Novel: Land, Community, Race, and Spirituality, College of the Ozarks, two sections, fall 2021, fall 2022.
@@ -137,7 +139,7 @@ Interdisciplinary Special Topics: Speaking Christian, College of the Ozarks, spr
 
 Survey of American Literature II, College of the Ozarks, fall 2019.
 
-Creative Writing: Nonfiction, College of the Ozarks, two sections, spring 2019, spring 2021.
+Creative Writing: Nonfiction, College of the Ozarks, three sections, spring 2019, spring 2021, fall 2023.
 
 Technical Writing, College of the Ozarks, four sections, fall 2018, spring 2021, spring 2022, spring 2023. Also taught spring 2020 as an independent study.
 
@@ -145,7 +147,7 @@ Agricultural Engineering Fundamentals: Technical Writing Lab, College of the Oza
 
 Readings in Western Civilization, College of the Ozarks, thirteen sections, fall 2018-spring 2023.
 
-College Composition, College of the Ozarks, twenty-two sections, fall 2018-spring 2023.
+College Composition, College of the Ozarks, twenty-four sections, fall 2018-fall 2023.
 
 Business and Professional Writing, Saint Louis University, spring 2018. 
 
@@ -166,6 +168,8 @@ Panelist, with Jeffrey Bilbro and Ashley Hales, discussing Thoreau's *Walden* fo
 "Toward a Rhetorical Gift Aesthetics for Literary Nonfiction." Baylor Symposium on Faith and Culture: Art Seeking Understanding, 26 October 2022. 
 
 Invited participant, *Orion Magazine* environmental writing workshop with Christopher Merrill, six weeks in spring 2022.
+
+Accepted participant, "Apart, and Yet Apart" writing workshop with Michael N. McGregor, Collegeville Institute, summer 2020. Declined participation.
 
 Accepted co-leader of discussion circle on “Rural / Remote / Isolated Writers” at the Festival of Faith and Writing, Calvin College, April 2020. Conference cancelled due to pandemic.
 
@@ -203,7 +207,7 @@ Invited participant, THATCamp Southeast Missouri, digital humanities unconferenc
  
 ## Local Presentations
 
-Plenary Opening Session, Ozarks Area Writing Symposium, College of the Ozarks, 10 March 2023.
+"Teaching Writing as the Art of Loading Brush," plenary opening session, Ozarks Area Writing Symposium, College of the Ozarks, 10 March 2023.
 
 "Remembering Gifts," *Remembering to Remember: A Symposium on Truth, Goodness, and Beauty,* College of the Ozarks, 2 February 2023. 
 

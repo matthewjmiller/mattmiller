@@ -23,6 +23,8 @@ Graduate Instructor in English, 2010-2014.
 
 ### Essays
 
+"Composition as the Art of Loading Brush." Forthcoming in *Front Porch Republic.*
+
 ["Suppose Him to be the Gardener."](http://farefwd.com/index.php/2022/06/01/suppose-him-to-be-the-gardener/) *Fare Forward* 19, 01 June 2022. 
 
 ["On Country Cemeteries."](http://www.whaleroadreview.com/miller-3/) *Whale Road Review* 24 (Fall 2021), 10 September 2021.
@@ -260,6 +262,7 @@ North American Fruit Explorers
 
 ## Honors and Awards
 
+- Awarded College of the Ozarks summer enrichment funding, 2023. $350
 - Awarded College of the Ozarks summer enrichment funding, 2022. $515.
 - Awarded College of the Ozarks summer enrichment funding, 2021. $900.
 - Winner, Seerveld Prize for New Writers, *Comment.* $1,500 CAD.

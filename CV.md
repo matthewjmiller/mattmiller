@@ -23,7 +23,7 @@ Graduate Instructor in English, 2010-2014.
 
 ### Essays
 
-"Composition as the Art of Loading Brush." Forthcoming in *Front Porch Republic.*
+["Composition as the Art of Loading Brush."](https://www.frontporchrepublic.com/2023/05/composition-as-the-art-of-loading-brush/) *Front Porch Republic,* 26 May 2023.
 
 ["Suppose Him to be the Gardener."](http://farefwd.com/index.php/2022/06/01/suppose-him-to-be-the-gardener/) *Fare Forward* 19, 01 June 2022. 
 

@@ -83,7 +83,7 @@ Graduate Instructor in English, 2010-2014.
 
 ### Academic
 
-"The World Does Not Need Words: Notes on Faithfully Teaching Technical Writing." Forthcoming in *Faithful Lives.*
+"The World Does Not Need Words." *Faith + Life: Faith-Filled Reflection on the Five Pillars of College of the Ozarks.* Ed. Eric W. Bolger and William R. Osborne. College of the Ozarks, 2022.
 
 [Review of Mari Lee Mifsud, *Rhetoric and the Gift.*](https://www.presenttensejournal.org/volume-8/book-review-mifsuds-rhetoric-and-the-gift/) *Present Tense* 8.2 (2020).
 

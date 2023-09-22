@@ -55,6 +55,10 @@ Graduate Instructor in English, 2010-2014.
 
 ### Literary Reviews
 
+Review of Jon K. Lauck, *The Good Country,* and Jon K. Lauck and Gleaves Whitney, *North Country.* Forthcoming in *Front Porch Republic.*
+
+Review of Tiffany Eberle Kriner, *In Thought, Word, and Seed.* Forthcoming in *Front Porch Republic.*
+
 ["Christ the Gift." Review of Emily Beth Hill, *Marketing and Christian Proclamation in Theological Perspective.*](http://farefwd.com/index.php/2022/03/23/marketing-and-christian-proclamation-in-theological-perspective/) *Fare Forward,* 22 March 2022.
 
 ["Seeing the Midwest New." Review of Matthew Milliner, *The Everlasting People.*](https://www.frontporchrepublic.com/2022/03/seeing-the-midwest-new-a-review-of-the-everlasting-people/) *Front Porch Republic,* 14 March 2022.
@@ -209,6 +213,10 @@ Invited participant, THATCamp Southeast Missouri, digital humanities unconferenc
  
 ## Local Presentations
 
+"Lively Words," College of the Ozarks micro-convocation, 21 September 2023.
+
+Panelist, "Composition Instructor Panel," College of the Ozarks Writing Center Orientation, 2023.
+
 "Teaching Writing as the Art of Loading Brush," plenary opening session, Ozarks Area Writing Symposium, College of the Ozarks, 10 March 2023.
 
 "Remembering Gifts," *Remembering to Remember: A Symposium on Truth, Goodness, and Beauty,* College of the Ozarks, 2 February 2023. 
@@ -239,26 +247,22 @@ Panelist, "New Faculty Experiences," New Faculty Orientation, College of the Oza
 
 Association of Writers and Writing Programs
 
-Christianity and Communication Studies Network
-
-Emerging Scholars Network
-
 North American Fruit Explorers
 
 ## Academic Service
 
-- Appointed member, Academic Assessment Committee, College of the Ozarks, 2021-present.
-- English department hiring committee, College of the Ozarks, 2022.
+- Appointed member, Assessment Committee, College of the Ozarks, 2021-present.•	English department hiring committee, College of the Ozarks, 2022.
+- English department Composition committee, College of the Ozarks, 2018-present.
 - New faculty mentor, College of the Ozarks, 2021-2022.
 - Elected alternate Academic Council Representative, College of the Ozarks, 2020-2021.
-- Editor, College of the Ozarks Writing Awards webzine, 2020. 
-- Member, Writing Program Committee, College of the Ozarks, 2018-present.
+- Coordinator, Writing and Rhetoric minor, College of the Ozarks, 2019-present.
+- Editor/coordinator, College of the Ozarks writing awards webzine, 2020.
 - Member, English Department Curriculum Committee, College of the Ozarks, 2018-19.
 - Member, Organizing Committee, the Kenneth Burke Society Conference, Saint Louis University, 2014. 
-- Member, Organizing Committee, There and Back Again: a Symposium on Seventy-Five Years of *The Hobbit*, Saint Louis University, 2012. 
+- Member, Organizing Committee, There and Back Again: a Symposium on Seventy-Five Years of *The Hobbit*, Saint Louis University, 2012. 
 - Elected Undergraduate Committee Representative, English Graduate Organization, Saint Louis University, 2011-2012. 
-- Member, Local Arrangements Committee, CCCC 2011. 
-- Session organizer, “Gateways through the Apocalypse: a Panel Response to Richard Miller's *Writing at the End of the World*,” Conference on College Composition and Communication, 2011. 
+- Member, Local Arrangements Committee, CCCC 2011. 
+- Session organizer, “Gateways through the Apocalypse: a Panel Response to Richard Miller's *Writing at the End of the World*,” Conference on College Composition and Communication, 2011. 
 
 ## Honors and Awards
 

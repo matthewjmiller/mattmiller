@@ -247,6 +247,8 @@ Panelist, "New Faculty Experiences," New Faculty Orientation, College of the Oza
 
 Association of Writers and Writing Programs
 
+Society for the Study of Midwestern Literature
+
 North American Fruit Explorers
 
 ## Academic Service

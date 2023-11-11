@@ -55,9 +55,9 @@ Graduate Instructor in English, 2010-2014.
 
 ### Literary Reviews
 
-Review of Jon K. Lauck, *The Good Country,* and Jon K. Lauck and Gleaves Whitney, *North Country.* Forthcoming in *Front Porch Republic.*
+Review of Tiffany Eberle Kriner, *In Thought, Word, and Seed.* Forthcoming in *Front Porch Republic.
 
-Review of Tiffany Eberle Kriner, *In Thought, Word, and Seed.* Forthcoming in *Front Porch Republic.*
+["A Right to Imperfection." Review of Jon K. Lauck, *The Good Country,* and Jon K. Lauck and Gleaves Whitney, *North Country.*](https://www.frontporchrepublic.com/2023/11/a-right-to-imperfection/) *Front Porch Republic,* 10 November 2023.
 
 ["Christ the Gift." Review of Emily Beth Hill, *Marketing and Christian Proclamation in Theological Perspective.*](http://farefwd.com/index.php/2022/03/23/marketing-and-christian-proclamation-in-theological-perspective/) *Fare Forward,* 22 March 2022.
 
@@ -253,8 +253,9 @@ North American Fruit Explorers
 
 ## Academic Service
 
-- Appointed member, Assessment Committee, College of the Ozarks, 2021-present.•	English department hiring committee, College of the Ozarks, 2022.
-- English department Composition committee, College of the Ozarks, 2018-present.
+- Appointed member, Assessment Committee, College of the Ozarks, 2021-present.
+- English department hiring committee, College of the Ozarks, 2022.
+- English department composition committee, College of the Ozarks, 2018-present.
 - New faculty mentor, College of the Ozarks, 2021-2022.
 - Elected alternate Academic Council Representative, College of the Ozarks, 2020-2021.
 - Coordinator, Writing and Rhetoric minor, College of the Ozarks, 2019-present.

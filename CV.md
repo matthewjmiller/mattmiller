@@ -35,7 +35,7 @@ Graduate Instructor in English, 2010-2014.
 
 ["Literary Landscapes: Ted Kooser's Seward County, NE."](https://newterritorymag.com/literary-landscapes/ted-kooser-seward-county-nebraska/) *The New Territory,* 22 December 2020.
 
-["In the Country I Know by Heart."](https://criticalread.org/art-is-essential-october-2020/) *Critical Read,* 5 October 2020.
+["In the Country I Know by Heart."](https://web.archive.org/web/20201021010641/https://criticalread.org/art-is-essential-october-2020/) *Critical Read,* 5 October 2020.
 
 ["Crossing Flatwater."](https://www.academia.edu/43221215/Crossing_Flatwater) *Big Muddy,* 29 May 2020.
 

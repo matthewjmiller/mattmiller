@@ -55,7 +55,7 @@ Graduate Instructor in English, 2010-2014.
 
 ### Literary Reviews
 
-Review of Tiffany Eberle Kriner, *In Thought, Word, and Seed.* Forthcoming in *Front Porch Republic.
+Review of Tiffany Eberle Kriner, *In Thought, Word, and Seed.* Forthcoming in *Front Porch Republic.*
 
 ["A Right to Imperfection." Review of Jon K. Lauck, *The Good Country,* and Jon K. Lauck and Gleaves Whitney, *North Country.*](https://www.frontporchrepublic.com/2023/11/a-right-to-imperfection/) *Front Porch Republic,* 10 November 2023.
 

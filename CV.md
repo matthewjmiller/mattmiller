@@ -77,7 +77,7 @@ Review of Tiffany Eberle Kriner, *In Thought, Word, and Seed.* Forthcoming in *F
 
 ["When Home is No Home." Review of Patrick Laurie, *Native: Life in a Vanishing Landscape.*](https://www.frontporchrepublic.com/2020/08/when-home-is-no-home-on-becoming-native-to-a-changing-place/) *Front Porch Republic,* 12 August 2020.
 
-["A Restored Midwestern Landscape: On Mark Shepard's *Restoration Agriculture.*" Review of Mark Shephard, *Restoration Agriculture.*](https://www.clereviewofbooks.com/home/2020/6/12/a-restored-miswestern-landscape-on-mark-shepards-restoration-agriculture) *The Cleveland Review of Books,* 12 June 2020.
+["A Restored Midwestern Landscape: On Mark Shepard's *Restoration Agriculture.*" Review of Mark Shephard, *Restoration Agriculture.*](hhttps://www.clereviewofbooks.com/writing/2020/06/12/2020-6-12-a-restored-miswestern-landscape-on-mark-shepards-restoration-agriculture) *The Cleveland Review of Books,* 12 June 2020.
 
 ["How the Land Can Heal." Review of Charles Massy, *Call of the Reed Warbler.*](https://kirkcenter.org/reviews/how-the-land-can-heal/) *The University Bookman,* 8 March 2020.
 

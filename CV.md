@@ -27,6 +27,8 @@ Graduate Instructor in English, 2010-2014.
 
 "Notes on Leaving an Orchard." Forthcoming in *Pomona.*
 
+"Empty Words: Against Artificial Language." Forthcoming in *Mere Orthodoxy.*
+
 ["Composition as the Art of Loading Brush."](https://www.frontporchrepublic.com/2023/05/composition-as-the-art-of-loading-brush/) *Front Porch Republic,* 26 May 2023.
 
 ["Suppose Him to be the Gardener."](http://farefwd.com/index.php/2022/06/01/suppose-him-to-be-the-gardener/) *Fare Forward* 19, 01 June 2022. 
@@ -218,6 +220,8 @@ Invited participant, THATCamp Southeast Missouri, digital humanities unconferenc
 ## Local Presentations
 
 "Lively Words," College of the Ozarks micro-convocation, 21 September 2023.
+
+Panelist, "Faithful Use of Artificial Intelligence," Faculty Workshops, College of the Ozarks, August 2023. 
 
 Panelist, "Composition Instructor Panel," College of the Ozarks Writing Center Orientation, 2023.
 

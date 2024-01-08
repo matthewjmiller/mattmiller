@@ -153,13 +153,13 @@ Survey of American Literature II, College of the Ozarks, fall 2019.
 
 Creative Writing: Nonfiction, College of the Ozarks, three sections, spring 2019, spring 2021, fall 2023.
 
-Technical Writing, College of the Ozarks, four sections, fall 2018, spring 2021, spring 2022, spring 2023. Also taught spring 2020 as an independent study.
+Technical Writing, College of the Ozarks, five sections, fall 2018, springs 2021, 2022, 2023, 2024. Also taught spring 2020 as an independent study.
 
 Agricultural Engineering Fundamentals: Technical Writing Lab, College of the Ozarks, spring 2020.
 
-Readings in Western Civilization, College of the Ozarks, thirteen sections, fall 2018-spring 2023.
+Readings in Western Civilization, College of the Ozarks, seventeen sections, fall 2018-spring 2024.
 
-College Composition, College of the Ozarks, twenty-four sections, fall 2018-fall 2023.
+College Composition, College of the Ozarks, twenty-six sections, fall 2018-spring 2024.
 
 Business and Professional Writing, Saint Louis University, spring 2018. 
 

@@ -161,6 +161,10 @@ Readings in Western Civilization, College of the Ozarks, seventeen sections, fal
 
 College Composition, College of the Ozarks, twenty-six sections, fall 2018-spring 2024.
 
+English Porfolio independent study, six sections, fall 2020-spring 2024.
+
+English internship, spring 2024.
+
 Business and Professional Writing, Saint Louis University, spring 2018. 
 
 Introduction to Literary Studies, Saint Louis University, spring 2014. 

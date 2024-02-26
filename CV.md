@@ -25,9 +25,9 @@ Graduate Instructor in English, 2010-2014.
 
 "Literary Landscapes: John G. Neihardt in Branson, MO." Forthcoming in *The New Territory.*
 
-"Notes on Leaving an Orchard." Forthcoming in *Pomona.*
-
 "Empty Words: Against Artificial Language." Forthcoming in *Mere Orthodoxy.*
+
+"Notes on Leaving an Orchard." [*Pomona* Winter 2024.](https://nafex.org/index.php/pomona-archives/) 
 
 ["Composition as the Art of Loading Brush."](https://www.frontporchrepublic.com/2023/05/composition-as-the-art-of-loading-brush/) *Front Porch Republic,* 26 May 2023.
 
@@ -61,7 +61,7 @@ Graduate Instructor in English, 2010-2014.
 
 ### Literary Reviews
 
-Review of Tiffany Eberle Kriner, *In Thought, Word, and Seed.* Forthcoming in *Front Porch Republic.*
+["Finding a Home Field." Review of Tiffany Eberle Kriner, *In Thought, Word, and Seed,*](https://www.frontporchrepublic.com/2024/02/finding-a-home-field-a-review-of-in-thought-word-and-seed/) *Front Porch Republic,* 26 February 2024.
 
 ["A Right to Imperfection." Review of Jon K. Lauck, *The Good Country,* and Jon K. Lauck and Gleaves Whitney, *North Country.*](https://www.frontporchrepublic.com/2023/11/a-right-to-imperfection/) *Front Porch Republic,* 10 November 2023.
 

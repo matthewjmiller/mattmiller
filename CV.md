@@ -223,6 +223,8 @@ Invited participant, THATCamp Southeast Missouri, digital humanities unconferenc
  
 ## Local Presentations
 
+"AI-Resistant Assignments and Teaching Writing as a Living Act," Ozarks Area Writing Symposium, College of the Ozarks, 8 March 2024.
+
 "Lively Words," College of the Ozarks micro-convocation, 21 September 2023.
 
 Panelist, "Faithful Use of Artificial Intelligence," Faculty Workshops, College of the Ozarks, August 2023. 

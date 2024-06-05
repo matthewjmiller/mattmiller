@@ -8,11 +8,16 @@ permalink: /cv/
 
 ### College of the Ozarks
 
-Assistant Professor of English, 2018-present.
+Associate Professor of English, 2024-present.
+
+Interim Director of the Writing Center, 2024.
+
+Assistant Professor of English, 2018-2024.
 
 ### Saint Louis University
 
 Adjunct Instructor in Professional Writing, 2018.    
+
 Graduate Instructor in English, 2010-2014.
 
 ## Publications
@@ -27,6 +32,8 @@ Graduate Instructor in English, 2010-2014.
 
 "Empty Words: Against Artificial Language." Forthcoming in *Mere Orthodoxy.*
 
+"Literary Landscapes: Ted Kooser's Seward County, NE." Forthcoming reprint in *Middle Ground: Personal Stories about the Places of Midwestern Literature,* University of Illinois Press.
+
 "Notes on Leaving an Orchard." [*Pomona* Winter 2024.](https://nafex.org/index.php/pomona-archives/) 
 
 ["Composition as the Art of Loading Brush."](https://www.frontporchrepublic.com/2023/05/composition-as-the-art-of-loading-brush/) *Front Porch Republic,* 26 May 2023.
@@ -39,7 +46,7 @@ Graduate Instructor in English, 2010-2014.
 
 ["Ravining."](https://www.frontporchrepublic.com/2021/01/ravining/) *Front Porch Republic,* 11 January 2021.
 
-["Literary Landscapes: Ted Kooser's Seward County, NE."](https://newterritorymag.com/literary-landscapes/ted-kooser-seward-county-nebraska/) *The New Territory,* 22 December 2020.
+["Literary Landscapes: Ted Kooser's Seward County, NE."](https://newterritorymag.com/literary-landscapes/ted-kooser-seward-county-nebraska/) *The New Territory,* 22 December 2020. 
 
 ["In the Country I Know by Heart."](https://web.archive.org/web/20201021010641/https://criticalread.org/art-is-essential-october-2020/) *Critical Read,* 5 October 2020.
 
@@ -60,6 +67,8 @@ Graduate Instructor in English, 2010-2014.
 [“A Passion for the Possible.”](http://www.curatormagazine.com/matthew-miller/a-passion-for-the-possible/) *Curator*, 15 July 2011.
 
 ### Literary Reviews
+
+Review of Joe Pug, *Sketch of a Promised Departure,* forthcoming in *Fare Forward.*
 
 ["Finding a Home Field." Review of Tiffany Eberle Kriner, *In Thought, Word, and Seed,*](https://www.frontporchrepublic.com/2024/02/finding-a-home-field-a-review-of-in-thought-word-and-seed/) *Front Porch Republic,* 26 February 2024.
 
@@ -283,6 +292,7 @@ North American Fruit Explorers
 
 ## Honors and Awards
 
+- Awarded College of the Ozarks summer enrichment funding, 2023. $300
 - Awarded College of the Ozarks summer enrichment funding, 2023. $350
 - Awarded College of the Ozarks summer enrichment funding, 2022. $515.
 - Awarded College of the Ozarks summer enrichment funding, 2021. $900.

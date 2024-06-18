@@ -102,6 +102,8 @@ Review of Joe Pug, *Sketch of a Promised Departure,* forthcoming in *Fare Forwar
 
 ### Academic
 
+"Large Language Models and Good Work." Forthcoming in *Faithful Lives.*
+
 "The World Does Not Need Words." *Faith + Life: Faith-Filled Reflection on the Five Pillars of College of the Ozarks.* Ed. Eric W. Bolger and William R. Osborne. College of the Ozarks, 2022.
 
 [Review of Mari Lee Mifsud, *Rhetoric and the Gift.*](https://www.presenttensejournal.org/volume-8/book-review-mifsuds-rhetoric-and-the-gift/) *Present Tense* 8.2 (2020).
@@ -274,6 +276,11 @@ Society for the Study of Midwestern Literature
 
 North American Fruit Explorers
 
+## Editorial
+
+- Contributing Editor, *Front Porch Republic,* 2024-present.
+- Editor/coordinator, College of the Ozarks writing awards webzine, 2020.
+
 ## Academic Service
 
 - Appointed member, Assessment Committee, College of the Ozarks, 2021-present.
@@ -282,7 +289,6 @@ North American Fruit Explorers
 - New faculty mentor, College of the Ozarks, 2021-2022.
 - Elected alternate Academic Council Representative, College of the Ozarks, 2020-2021.
 - Coordinator, Writing and Rhetoric minor, College of the Ozarks, 2019-present.
-- Editor/coordinator, College of the Ozarks writing awards webzine, 2020.
 - Member, English Department Curriculum Committee, College of the Ozarks, 2018-19.
 - Member, Organizing Committee, the Kenneth Burke Society Conference, Saint Louis University, 2014. 
 - Member, Organizing Committee, There and Back Again: a Symposium on Seventy-Five Years of *The Hobbit*, Saint Louis University, 2012. 
@@ -292,6 +298,7 @@ North American Fruit Explorers
 
 ## Honors and Awards
 
+- Awarded College of the Ozarks summer enrichment funding, 2024. $300
 - Awarded College of the Ozarks summer enrichment funding, 2023. $300
 - Awarded College of the Ozarks summer enrichment funding, 2023. $350
 - Awarded College of the Ozarks summer enrichment funding, 2022. $515.

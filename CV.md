@@ -68,7 +68,7 @@ Graduate Instructor in English, 2010-2014.
 
 ### Literary Reviews
 
-Review of Joe Pug, *Sketch of a Promised Departure,* forthcoming in *Fare Forward.*
+["Song of My Self-Emptying." Review of Joe Pug, *Sketch of a Promised Departure,* *Fare Forward,* 28 August 2024.](https://farefwd.com/index.php/2024/08/28/sketch-of-a-promised-departure/)
 
 ["Finding a Home Field." Review of Tiffany Eberle Kriner, *In Thought, Word, and Seed,*](https://www.frontporchrepublic.com/2024/02/finding-a-home-field-a-review-of-in-thought-word-and-seed/) *Front Porch Republic,* 26 February 2024.
 

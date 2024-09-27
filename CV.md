@@ -24,7 +24,7 @@ Graduate Instructor in English, 2010-2014.
 
 ### Books
 
-*Leaves of Healing: A Year in the Garden.* Forthcoming from Belle Point Press in 2024.
+*Leaves of Healing: A Year in the Garden.* Forthcoming from Belle Point Press in November 2024.
 
 ### Essays
 
@@ -168,9 +168,9 @@ Technical Writing, College of the Ozarks, five sections, fall 2018, springs 2021
 
 Agricultural Engineering Fundamentals: Technical Writing Lab, College of the Ozarks, spring 2020.
 
-Readings in Western Civilization, College of the Ozarks, seventeen sections, fall 2018-spring 2024.
+Readings in Western Civilization, College of the Ozarks, nineteen sections, fall 2018-fall 2024.
 
-College Composition, College of the Ozarks, twenty-six sections, fall 2018-spring 2024.
+College Composition, College of the Ozarks, twenty-eight sections, fall 2018-fall 2024.
 
 English Porfolio independent study, six sections, fall 2020-spring 2024.
 
@@ -276,6 +276,8 @@ Society for the Study of Midwestern Literature
 
 North American Fruit Explorers
 
+Community Collaborative Rain, Hail, and Snow Network (CoCoRaHS)
+
 ## Editorial
 
 - Contributing Editor, *Front Porch Republic,* 2024-present.
@@ -283,6 +285,7 @@ North American Fruit Explorers
 
 ## Academic Service
 
+- Appointed member, Library Advisory Committee, College of the Ozarks, 2022-present.
 - Appointed member, Assessment Committee, College of the Ozarks, 2021-present.
 - English department hiring committee, College of the Ozarks, 2022.
 - English department composition committee, College of the Ozarks, 2018-present.

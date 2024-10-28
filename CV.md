@@ -30,7 +30,7 @@ Graduate Instructor in English, 2010-2014.
 
 "Literary Landscapes: John G. Neihardt in Branson, MO." Forthcoming in *The New Territory.*
 
-"Empty Words: Against Artificial Language." Forthcoming in *Mere Orthodoxy.*
+"Empty Words: Against Artificial Language." *Mere Orthodoxy* (Fall 2024). 
 
 "Literary Landscapes: Ted Kooser's Seward County, NE." Forthcoming reprint in *Middle Ground: Personal Stories about the Places of Midwestern Literature,* University of Illinois Press.
 
@@ -67,6 +67,8 @@ Graduate Instructor in English, 2010-2014.
 [“A Passion for the Possible.”](http://www.curatormagazine.com/matthew-miller/a-passion-for-the-possible/) *Curator*, 15 July 2011.
 
 ### Literary Reviews
+
+Review of Rachel S. Gross, *Shopping all the Way to the Woods: How the Outdoor Industry Sold Nature to America.* Forthcoming in *Mere Orthodoxy.*
 
 ["Song of My Self-Emptying." Review of Joe Pug, *Sketch of a Promised Departure,* *Fare Forward,* 28 August 2024.](https://farefwd.com/index.php/2024/08/28/sketch-of-a-promised-departure/)
 
@@ -292,7 +294,7 @@ Community Collaborative Rain, Hail, and Snow Network (CoCoRaHS)
 - New faculty mentor, College of the Ozarks, 2021-2022.
 - Elected alternate Academic Council Representative, College of the Ozarks, 2020-2021.
 - Coordinator, Writing and Rhetoric minor, College of the Ozarks, 2019-present.
-- Member, English Department Curriculum Committee, College of the Ozarks, 2018-19.
+- Member, English Department curriculum committee, College of the Ozarks, 2018-19.
 - Member, Organizing Committee, the Kenneth Burke Society Conference, Saint Louis University, 2014. 
 - Member, Organizing Committee, There and Back Again: a Symposium on Seventy-Five Years of *The Hobbit*, Saint Louis University, 2012. 
 - Elected Undergraduate Committee Representative, English Graduate Organization, Saint Louis University, 2011-2012. 

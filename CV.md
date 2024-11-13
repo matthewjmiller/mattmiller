@@ -30,7 +30,7 @@ Graduate Instructor in English, 2010-2014.
 
 "Literary Landscapes: John G. Neihardt in Branson, MO." Forthcoming in *The New Territory.*
 
-"Empty Words: Against Artificial Language." *Mere Orthodoxy Journal* (Fall 2024). 
+"Empty Words: Against Artificial Language." *Mere Orthodoxy Journal* (Fall 2024). [Published online 13 November 2024](https://mereorthodoxy.com/empty-words-against-artificial-language).
 
 "Literary Landscapes: Ted Kooser's Seward County, NE." Forthcoming reprint in *Middle Ground: Personal Stories about the Places of Midwestern Literature,* University of Illinois Press.
 

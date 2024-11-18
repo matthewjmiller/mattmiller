@@ -1,5 +1,7 @@
 # Leaves of Healing: A Year in the Garden
 
+![Book cover](https://github.com/matthewjmiller/mattmiller/blob/gh-pages/_assets/Leaves-cov-front-2.jpg?raw=true)
+
 My first book, a collection of essays about the church year and the garden year, will appear from [Belle Point Press](https://bellepointpress.com/products/leaves-of-healing) on 19 November 2024.
 
 Here's the publisher's description:
@@ -11,3 +13,5 @@ Here's what Jeff Bilbro, editor of *Front Porch Republic* said about the book:
 > Matt Miller invites readers to a marvelous hypaethral Sunday school, one that ponders the mysteries of creation and Creator while tasting the tang of an heirloom tomato. This is no curated, Instagrammable experience, however: calloused hands shaped each sentence, and dirt clings to these words. Yet if Matt is well acquainted with sweat and grief, he has also learned that hope may be found around any corner of the garden. Join him for this series of meditations that will feed you body and soul.
 
 [You can order the book here](https://bellepointpress.com/products/leaves-of-healing).
+
+![Description](https://github.com/matthewjmiller/mattmiller/blob/gh-pages/_assets/Miller_Leaves%20of%20Healing%20Tiles_Description.jpg?raw=true)

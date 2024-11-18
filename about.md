@@ -8,3 +8,5 @@ I write essays that praise the mutilated world and teach writing at College of t
 The site is run using [Jekyll on GitHub Pages](https://github.com/matthewjmiller/). Please don't assume from that any real technical acumen on my part. 
 
 ![Me](https://github.com/matthewjmiller/mattmiller/blob/gh-pages/_assets/me-new.jpg?raw=true)
+
+Photo by Rachel Miller

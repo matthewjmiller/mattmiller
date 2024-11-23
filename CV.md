@@ -24,15 +24,15 @@ Graduate Instructor in English, 2010-2014.
 
 ### Books
 
-*Leaves of Healing: A Year in the Garden.* Forthcoming from Belle Point Press in November 2024.
+*Leaves of Healing: A Year in the Garden.* Belle Point Press, 2024.
 
 ### Essays
 
 "Literary Landscapes: John G. Neihardt in Branson, MO." Forthcoming in *The New Territory.*
 
-"Empty Words: Against Artificial Language." *Mere Orthodoxy Journal* (Fall 2024). [Published online 13 November 2024](https://mereorthodoxy.com/empty-words-against-artificial-language).
+["Literary Landscapes: Ted Kooser's Seward County, NE."](https://newterritorymag.com/literary-landscapes/ted-kooser-seward-county-nebraska/) *The New Territory,* 22 December 2020. Forthcoming fall 2025 reprint in *Lingering Inland: A Literary Tour of the Midwest,* 3 Fields Books.
 
-"Literary Landscapes: Ted Kooser's Seward County, NE." Forthcoming reprint in *Middle Ground: Personal Stories about the Places of Midwestern Literature,* University of Illinois Press.
+"Empty Words: Against Artificial Language." *Mere Orthodoxy Journal* (Fall 2024). [Published online 13 November 2024](https://mereorthodoxy.com/empty-words-against-artificial-language).
 
 "Notes on Leaving an Orchard." [*Pomona* Winter 2024.](https://nafex.org/index.php/pomona-archives/) 
 
@@ -45,8 +45,6 @@ Graduate Instructor in English, 2010-2014.
 ["Milkweed Prayer."](https://go.umhb.edu/files/The-Windhover-25.1-Sample.pdf) *The Windhover* 25.1, February 2021.
 
 ["Ravining."](https://www.frontporchrepublic.com/2021/01/ravining/) *Front Porch Republic,* 11 January 2021.
-
-["Literary Landscapes: Ted Kooser's Seward County, NE."](https://newterritorymag.com/literary-landscapes/ted-kooser-seward-county-nebraska/) *The New Territory,* 22 December 2020. 
 
 ["In the Country I Know by Heart."](https://web.archive.org/web/20201021010641/https://criticalread.org/art-is-essential-october-2020/) *Critical Read,* 5 October 2020.
 

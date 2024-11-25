@@ -1,3 +1,9 @@
+---
+layout: page
+title: Book
+permalink: /book/
+---
+
 ![Book cover](https://github.com/matthewjmiller/mattmiller/blob/gh-pages/_assets/Leaves-cov-front-2.jpg?raw=true)
 
 My first book, a collection of essays about the church year and the garden year, will appear from [Belle Point Press](https://bellepointpress.com/products/leaves-of-healing) on 19 November 2024.

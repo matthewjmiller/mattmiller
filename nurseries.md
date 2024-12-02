@@ -15,7 +15,8 @@ I have not patronized all of these nurseries; I list them here as being good to 
 - [Berries Unlimited](http://www.berriesunlimited.com/) - Arkansas    
 - [Stark Bros](http://www.starkbros.com/) - Missouri    
 - [Food Forest Nursery](https://foodforestnursery.com/) - Arkansas    
-- [Red Fern](http://www.redfernfarm.com/) - Iowa agroforestry    
+- [Pense](https://penseberryfarm.com/) - Arkansas
+- [Simmons](https://www.simmonsplantfarm.com/) - Arkansas
 
 ## Cost effective but still cool
 
@@ -60,11 +61,30 @@ I have not patronized all of these nurseries; I list them here as being good to 
 - [Morse](https://morsenursery.com/) - dwarf chestnuts    
 - [Fruitwood Nursery](https://fruitwoodnursery.com/)    
 - [Native Foods Nursery](https://nativefoodsnursery.com/)     
+- [Digging Dog Nursery](https://www.diggingdog.com/catalog) - amelanchier "Autumn Brilliance" for $25    
+- [Logee's](https://www.logees.com/)    
+- [Nurcar](https://nurcar.com/) - South Carolina    
+- [Tripple Brook](https://tripplebrookfarm.com/)    
 
 ## More Conventional but Useful
 
 - [Chief River](https://www.chiefrivernursery.com/) - bulk material, spring shipping only    
 - [Gurney's](http://www.gurneys.com/)     
 
-For more of my writing on gardening, visit [A Habitation](http://habitation.substack.com)
+## Perennials / Natives
 
+- [Bluestone](https://www.bluestoneperennials.com/)    
+- [Missouri Wildflowers Nursery](https://mowildflowers.net/)    
+- [Plant Delights](https://www.plantdelights.com/)     
+- [Prairie Nursery](https://www.prairienursery.com/)    
+- [Woodlanders](https://woodlanders.net/)    
+
+- [A list of Ozarks native nurseries](https://anps.org/resources/plant-sources/)
+
+## Shade Gardening
+
+- [Pine Knot](https://www.pineknotfarms.com/) - hellebores     
+- [Edgewood Gardens](https://www.edgewoodgardens.net/) - mostly just look at pics here    
+- [Sunshine Farm and Gardens](https://sunfarm.com/)    
+
+For more of my writing on gardening, visit [A Habitation](http://habitation.substack.com)

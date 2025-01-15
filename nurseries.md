@@ -78,6 +78,7 @@ I have not patronized all of these nurseries; I list them here as being good to 
 - [Plant Delights](https://www.plantdelights.com/)     
 - [Prairie Nursery](https://www.prairienursery.com/)    
 - [Woodlanders](https://woodlanders.net/)    
+- [Prairie Moon](https://www.prairiemoon.com/)     
 
 - [A list of Ozarks native nurseries](https://anps.org/resources/plant-sources/)
 

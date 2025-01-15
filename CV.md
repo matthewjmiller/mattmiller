@@ -184,6 +184,8 @@ Advanced Strategies of Rhetoric and Research, Saint Louis University, six sectio
 
 ## Media
 
+[Guest, *The Color of Dust* podcast, discussing *Leaves of Healing.*](https://colorofdust.substack.com/p/34-a-year-in-the-garden-matt-miller)
+
 Panelist, with Jeffrey Bilbro and Ashley Hales, discussing Thoreau's *Walden* for Gracy Olmstead's publication *Granola.* 16 December 2022.
 
 [Appeared on nationally syndicated program "Constant Wonder"](https://www.byuradio.org/episode/ad433a35-6b39-4655-89a6-71bca74d10c4/constant-wonder-timefulness-language-learning-project-embrace-planting-trees) discussing the ethics of planting trees.

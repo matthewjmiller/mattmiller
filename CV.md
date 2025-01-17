@@ -24,7 +24,10 @@ Graduate Instructor in English, 2010-2014.
 
 ### Books
 
-*Leaves of Healing: A Year in the Garden.* Belle Point Press, 2024.
+[*Leaves of Healing: A Year in the Garden.* Belle Point Press, 2024.](https://bellepointpress.com/products/leaves-of-healing)
+
+> [Written interview about the book at *Front Porch Republic*](https://www.frontporchrepublic.com/2025/01/marking-the-year-on-two-calendars-an-interciew-with-matthew-miller/)    
+> [Podcast interview about the book at the *Color of Dust* podcast](https://colorofdust.substack.com/p/34-a-year-in-the-garden-matt-miller)
 
 ### Essays
 
@@ -158,9 +161,15 @@ Seminar in Rhetoric: Rural Writing, College of the Ozarks, fall 2020.
 
 The American Novel: Land, Community, Race, and Spirituality, College of the Ozarks, two sections, fall 2021, fall 2022.
 
-Interdisciplinary Special Topics: Speaking Christian, College of the Ozarks, spring 2023.
+Topics in Writing and Rhetoric: Place Writing, spring 2025.
+
+Interdisciplinary Special Topics: Speaking Christian, College of the Ozarks, spring 2023. Cotaught with Dr. Paige Ray.
+
+Interdisciplinary Special Topics: Stories and Soil, College of the Ozarks, fall 2024. Cotaught with Dr. Micah Humphreys.
 
 Survey of American Literature II, College of the Ozarks, fall 2019.
+
+Writing about Your Garden community education course, College of the Ozarks, April 2025.
 
 Creative Writing: Nonfiction, College of the Ozarks, three sections, spring 2019, spring 2021, fall 2023.
 
@@ -168,11 +177,11 @@ Technical Writing, College of the Ozarks, five sections, fall 2018, springs 2021
 
 Agricultural Engineering Fundamentals: Technical Writing Lab, College of the Ozarks, spring 2020.
 
-Readings in Western Civilization, College of the Ozarks, nineteen sections, fall 2018-fall 2024.
+Readings in Western Civilization, College of the Ozarks, twenty-one sections, fall 2018-spring 2025.
 
-College Composition, College of the Ozarks, twenty-eight sections, fall 2018-fall 2024.
+College Composition, College of the Ozarks, thirty sections, fall 2018-spring 2025.
 
-English Porfolio independent study, six sections, fall 2020-spring 2024.
+English Porfolio independent study, eight sections, fall 2020-spring 2025.
 
 English internship, spring 2024.
 
@@ -184,13 +193,21 @@ Advanced Strategies of Rhetoric and Research, Saint Louis University, six sectio
 
 ## Media
 
-[Guest, *The Color of Dust* podcast, discussing *Leaves of Healing.*](https://colorofdust.substack.com/p/34-a-year-in-the-garden-matt-miller)
+[Interviewed by Seth Wieck at *Front Porch Republic*](https://bellepointpress.com/products/leaves-of-healing), 17 January 2025.
+
+[Guest, *The Color of Dust* podcast, discussing *Leaves of Healing,*](https://colorofdust.substack.com/p/34-a-year-in-the-garden-matt-miller) 15 January 2025.
 
 Panelist, with Jeffrey Bilbro and Ashley Hales, discussing Thoreau's *Walden* for Gracy Olmstead's publication *Granola.* 16 December 2022.
 
 [Appeared on nationally syndicated program "Constant Wonder"](https://www.byuradio.org/episode/ad433a35-6b39-4655-89a6-71bca74d10c4/constant-wonder-timefulness-language-learning-project-embrace-planting-trees) discussing the ethics of planting trees.
 
 [Quoted by Mic.com](https://mic.com/articles/187794/kombucha-kale-kardashian-manuka-honey-the-life-cycle-of-a-health-trend-how-food-transforms-into-a-miracle-remedy) as an expert source on food marketing.
+
+## Readings and Appearances
+
+Reading from *Leaves of Healing,* Full Circle Books, Oklahoma City, 28 March 2025.
+
+Invited workshop leader and featured writer, McBride Writers Festival, Oklahoma Christian University, 29 March 2025.
 
 ## Conferencing
 

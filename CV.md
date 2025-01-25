@@ -304,6 +304,7 @@ Community Collaborative Rain, Hail, and Snow Network (CoCoRaHS)
 
 ## Academic Service
 
+- Hosted poet Suzanne Underwood Rhodes for an on-campus reading, College of the Ozarks, 2023.
 - Appointed member, Library Advisory Committee, College of the Ozarks, 2022-present.
 - Appointed member, Assessment Committee, College of the Ozarks, 2021-present.
 - English department hiring committee, College of the Ozarks, 2022.
@@ -320,6 +321,7 @@ Community Collaborative Rain, Hail, and Snow Network (CoCoRaHS)
 
 ## Honors and Awards
 
+- Granted a College of the Ozarks sabbatical for writing and research, spring 2026.
 - Awarded College of the Ozarks summer enrichment funding, 2024. $300
 - Awarded College of the Ozarks summer enrichment funding, 2023. $300
 - Awarded College of the Ozarks summer enrichment funding, 2023. $350

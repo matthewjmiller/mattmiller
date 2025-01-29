@@ -31,7 +31,7 @@ Graduate Instructor in English, 2010-2014.
 
 ### Essays
 
-"Literary Landscapes: John G. Neihardt in Branson, MO." Forthcoming in *The New Territory.*
+["Literary Landscapes: John G. Neihardt, Koi Garden Plaza, Branson, MO." *The New Territory,* 29 January 2025.](https://newterritorymag.com/literary-landscapes/john-g-niehardt-branson-missouri/)
 
 ["Literary Landscapes: Ted Kooser's Seward County, NE."](https://newterritorymag.com/literary-landscapes/ted-kooser-seward-county-nebraska/) *The New Territory,* 22 December 2020. Forthcoming fall 2025 reprint in *Lingering Inland: A Literary Tour of the Midwest,* 3 Fields Books.
 

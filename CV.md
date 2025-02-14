@@ -31,6 +31,10 @@ Graduate Instructor in English, 2010-2014.
 
 ### Essays
 
+["Writing Exile and Reading Homeward," *Front Porch Republic,* 14 February 2025](https://www.frontporchrepublic.com/2025/02/writing-exile-and-reading-homeward/).
+
+["New Initiatives at the Center for Needless Splendor." *Mere Orthodoxy,* 12 February 2025](https://mereorthodoxy.com/center-for-needless-splendor).
+
 ["Literary Landscapes: John G. Neihardt, Koi Garden Plaza, Branson, MO." *The New Territory,* 29 January 2025.](https://newterritorymag.com/literary-landscapes/john-g-niehardt-branson-missouri/)
 
 ["Literary Landscapes: Ted Kooser's Seward County, NE."](https://newterritorymag.com/literary-landscapes/ted-kooser-seward-county-nebraska/) *The New Territory,* 22 December 2020. Forthcoming fall 2025 reprint in *Lingering Inland: A Literary Tour of the Midwest,* 3 Fields Books.

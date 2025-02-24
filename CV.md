@@ -65,7 +65,7 @@ Graduate Instructor in English, 2010-2014.
 
 ["On the Costs and Rewards of Planting Fruit Trees."](https://www.frontporchrepublic.com/2019/01/on-the-costs-and-rewards-of-planting-trees/) *Front Porch Republic,* 2 January 2019.
 
-["Holy Clutter."](https://www.cardus.ca/comment/article/holy-clutter/) *Comment,* 1 November 2018.
+["Holy Clutter."](https://comment.org/holy-clutter/) *Comment,* 1 November 2018.
 
 [“#NewNebraskaSlogan and a New Rhetoric for the Midwest.”](http://www.curatormagazine.com/matthew-miller/newnebraskaslogan-and-a-new-rhetoric-for-the-midwest/) *Curator,* 21 October 2011. 
 
@@ -99,7 +99,7 @@ Review of Rachel S. Gross, *Shopping all the Way to the Woods: How the Outdoor I
 
 ["When Home is No Home." Review of Patrick Laurie, *Native: Life in a Vanishing Landscape.*](https://www.frontporchrepublic.com/2020/08/when-home-is-no-home-on-becoming-native-to-a-changing-place/) *Front Porch Republic,* 12 August 2020.
 
-["A Restored Midwestern Landscape: On Mark Shepard's *Restoration Agriculture.*" Review of Mark Shephard, *Restoration Agriculture.*](hhttps://www.clereviewofbooks.com/writing/2020/06/12/2020-6-12-a-restored-miswestern-landscape-on-mark-shepards-restoration-agriculture) *The Cleveland Review of Books,* 12 June 2020.
+["A Restored Midwestern Landscape: On Mark Shepard's *Restoration Agriculture.*" Review of Mark Shephard, *Restoration Agriculture.*](https://www.clereviewofbooks.com/writing/2020/06/12/2020-6-12-a-restored-miswestern-landscape-on-mark-shepards-restoration-agriculture) *The Cleveland Review of Books,* 12 June 2020.
 
 ["How the Land Can Heal." Review of Charles Massy, *Call of the Reed Warbler.*](https://kirkcenter.org/reviews/how-the-land-can-heal/) *The University Bookman,* 8 March 2020.
 

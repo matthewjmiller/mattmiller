@@ -73,6 +73,8 @@ Graduate Instructor in English, 2010-2014.
 
 ### Literary Reviews
 
+Review of Neil King, *American Ramble.* Forthcoming in *Front Porch Republic.*
+
 Review of Rachel S. Gross, *Shopping all the Way to the Woods: How the Outdoor Industry Sold Nature to America.* Forthcoming in *Mere Orthodoxy.*
 
 ["Song of My Self-Emptying." Review of Joe Pug, *Sketch of a Promised Departure,* *Fare Forward,* 28 August 2024.](https://farefwd.com/index.php/2024/08/28/sketch-of-a-promised-departure/)
@@ -109,7 +111,7 @@ Review of Rachel S. Gross, *Shopping all the Way to the Woods: How the Outdoor I
 
 ### Academic
 
-"Large Language Models and Good Work." Forthcoming in *Faithful Lives.*
+"Burying AI in the Garden of Good Work." *Faithful Lives* 2025.
 
 "The World Does Not Need Words." *Faith + Life: Faith-Filled Reflection on the Five Pillars of College of the Ozarks.* Ed. Eric W. Bolger and William R. Osborne. College of the Ozarks, 2022.
 
@@ -173,7 +175,7 @@ Interdisciplinary Special Topics: Stories and Soil, College of the Ozarks, fall 
 
 Survey of American Literature II, College of the Ozarks, fall 2019.
 
-Writing about Your Garden community education course, College of the Ozarks, April 2025.
+Writing about Your Garden community education course, College of the Ozarks, 26 April 2025.
 
 Creative Writing: Nonfiction, College of the Ozarks, three sections, spring 2019, spring 2021, fall 2023.
 
@@ -209,9 +211,11 @@ Panelist, with Jeffrey Bilbro and Ashley Hales, discussing Thoreau's *Walden* fo
 
 ## Readings and Appearances
 
+Featured reader at St. Joseph Anglican Church open mic night, Branson, MO, 3 May 2025. 
+
 Reading from *Leaves of Healing,* Full Circle Books, Oklahoma City, 28 March 2025.
 
-Invited workshop leader and featured writer, McBride Writers Festival, Oklahoma Christian University, 29 March 2025.
+Creative Nonfiction workshop leader, McBride Writers Festival, Oklahoma Christian University, 29 March 2025.
 
 ## Conferencing
 
@@ -256,6 +260,8 @@ Invited participant, THATCamp Southeast Missouri, digital humanities unconferenc
 “‘To Hell with Truth!’: Faith, Nihilism, and Death in Eugene O’Neill’s *The Iceman Cometh*.” Southwest Conference on Christianity and Literature 2008.
  
 ## Local Presentations
+
+Library Lecture and Lunch panel with Dr. Charity Gibson and Dr. Aleshia O'Neal, Lyons Memorial Library, College of the Ozarks, 9 April 2025.
 
 "AI-Resistant Assignments and Teaching Writing as a Living Act," Ozarks Area Writing Symposium, College of the Ozarks, 8 March 2024.
 
@@ -325,15 +331,16 @@ Community Collaborative Rain, Hail, and Snow Network (CoCoRaHS)
 
 ## Honors and Awards
 
+- Awarded College of the Ozarks summer enrichment funding, 2025. $413
 - Granted a College of the Ozarks sabbatical for writing and research, spring 2026.
 - Awarded College of the Ozarks summer enrichment funding, 2024. $300
 - Awarded College of the Ozarks summer enrichment funding, 2023. $300
 - Awarded College of the Ozarks summer enrichment funding, 2023. $350
-- Awarded College of the Ozarks summer enrichment funding, 2022. $515.
-- Awarded College of the Ozarks summer enrichment funding, 2021. $900.
-- Winner, Seerveld Prize for New Writers, *Comment.* $1,500 CAD.
+- Awarded College of the Ozarks summer enrichment funding, 2022. $515
+- Awarded College of the Ozarks summer enrichment funding, 2021. $900
+- Winner, Seerveld Prize for New Writers, *Comment.* $1,500 CAD
 - 2016 Addy Certificate of Excellence for my work as strategist and copywriter on ParkerProducts.com.
-- First place, Humanities Paper Competition, Saint Louis University Graduate Research Symposium, 2014. $250.
-- First runner-up, Humanities Paper Competition, Saint Louis University Graduate Research Symposium, 2013. $125.
-- First runner-up, Humanities Paper Competition, Saint Louis University Graduate Research Symposium, 2011. $125.
-- Clarence H. Miller Award for outstanding incoming MA student, Saint Louis University Department of English, 2010. $1,000.
+- First place, Humanities Paper Competition, Saint Louis University Graduate Research Symposium, 2014. $250
+- First runner-up, Humanities Paper Competition, Saint Louis University Graduate Research Symposium, 2013. $125
+- First runner-up, Humanities Paper Competition, Saint Louis University Graduate Research Symposium, 2011. $125
+- Clarence H. Miller Award for outstanding incoming MA student, Saint Louis University Department of English, 2010. $1,000

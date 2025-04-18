@@ -26,8 +26,9 @@ Graduate Instructor in English, 2010-2014.
 
 [*Leaves of Healing: A Year in the Garden.* Belle Point Press, 2024.](https://bellepointpress.com/products/leaves-of-healing)
 
-> [Written interview about the book at *Front Porch Republic*](https://www.frontporchrepublic.com/2025/01/marking-the-year-on-two-calendars-an-interciew-with-matthew-miller/)    
-> [Podcast interview about the book at the *Color of Dust* podcast](https://colorofdust.substack.com/p/34-a-year-in-the-garden-matt-miller)
+> [Written interview about the book at *Front Porch Republic*](https://www.frontporchrepublic.com/2025/01/marking-the-year-on-two-calendars-an-interciew-with-matthew-miller/).    
+> [Podcast interview about the book at the *Color of Dust* podcast](https://colorofdust.substack.com/p/34-a-year-in-the-garden-matt-miller).    
+> [Review by Chris Gregoria at *Fare Forward*, 16 April 2025](https://farefwd.com/index.php/2025/04/16/leaves-of-healing/).     
 
 ### Essays
 
@@ -174,8 +175,6 @@ Interdisciplinary Special Topics: Speaking Christian, College of the Ozarks, spr
 Interdisciplinary Special Topics: Stories and Soil, College of the Ozarks, fall 2024. Cotaught with Dr. Micah Humphreys.
 
 Survey of American Literature II, College of the Ozarks, fall 2019.
-
-Writing about Your Garden community education course, College of the Ozarks, 26 April 2025.
 
 Creative Writing: Nonfiction, College of the Ozarks, three sections, spring 2019, spring 2021, fall 2023.
 

@@ -28,7 +28,7 @@ Graduate Instructor in English, 2010-2014.
 
 > [Written interview about the book at *Front Porch Republic*](https://www.frontporchrepublic.com/2025/01/marking-the-year-on-two-calendars-an-interciew-with-matthew-miller/).    
 > [Podcast interview about the book at the *Color of Dust* podcast](https://colorofdust.substack.com/p/34-a-year-in-the-garden-matt-miller).    
-> [Review by Chris Gregoria at *Fare Forward*, 16 April 2025](https://farefwd.com/index.php/2025/04/16/leaves-of-healing/).     
+> [Review by Chris Gregorio at *Fare Forward*, 16 April 2025](https://farefwd.com/index.php/2025/04/16/leaves-of-healing/).     
 
 ### Essays
 
@@ -162,6 +162,8 @@ Research Strategist + Technical Writer, MarketPlace, the Food Marketing Agency, 
 
 ## Teaching Experience
 
+Philosophy of Literature, College of the Ozarks, fall 2025.
+
 Seminar in Rhetoric: Wendell Berry, College of the Ozarks, fall 2023. 
 
 Seminar in Rhetoric: Rural Writing, College of the Ozarks, fall 2020.
@@ -176,15 +178,15 @@ Interdisciplinary Special Topics: Stories and Soil, College of the Ozarks, fall 
 
 Survey of American Literature II, College of the Ozarks, fall 2019.
 
-Creative Writing: Nonfiction, College of the Ozarks, three sections, spring 2019, spring 2021, fall 2023.
+Creative Writing: Nonfiction, College of the Ozarks, four sections, spring 2019, spring 2021, fall 2023, fall 2025.
 
 Technical Writing, College of the Ozarks, five sections, fall 2018, springs 2021, 2022, 2023, 2024. Also taught spring 2020 as an independent study.
 
 Agricultural Engineering Fundamentals: Technical Writing Lab, College of the Ozarks, spring 2020.
 
-Readings in Western Civilization, College of the Ozarks, twenty-one sections, fall 2018-spring 2025.
+Readings in Western Civilization, College of the Ozarks, twenty-two sections, fall 2018-fall 2025.
 
-College Composition, College of the Ozarks, thirty sections, fall 2018-spring 2025.
+College Composition, College of the Ozarks, thirty-two sections, fall 2018-fall 2025.
 
 English Porfolio independent study, eight sections, fall 2020-spring 2025.
 
@@ -210,7 +212,7 @@ Panelist, with Jeffrey Bilbro and Ashley Hales, discussing Thoreau's *Walden* fo
 
 ## Readings and Appearances
 
-Featured reader at St. Joseph Anglican Church open mic night, Branson, MO, 3 May 2025. 
+Featured reader at St. Joseph Anglican Church open mic night, Branson, MO, date TBD. 
 
 Reading from *Leaves of Healing,* Full Circle Books, Oklahoma City, 28 March 2025.
 

@@ -32,6 +32,8 @@ Graduate Instructor in English, 2010-2014.
 
 ### Essays
 
+["Against Vision Statements," *Mere Orthodoxy,* 11 June 2025](https://mereorthodoxy.com/against-vision-statements).
+
 ["Writing Exile and Reading Homeward," *Front Porch Republic,* 14 February 2025](https://www.frontporchrepublic.com/2025/02/writing-exile-and-reading-homeward/).
 
 ["New Initiatives at the Center for Needless Splendor." *Mere Orthodoxy,* 12 February 2025](https://mereorthodoxy.com/center-for-needless-splendor).

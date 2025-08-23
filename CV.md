@@ -32,6 +32,8 @@ Graduate Instructor in English, 2010-2014.
 
 ### Essays
 
+["A Room of My Own," *One Room One Hour,* 21 August 2025](https://oneroomonehour.substack.com/p/a-room-of-my-own). 
+
 ["Lauds," *Mere Orthodoxy,* 27 June 2025](https://mereorthodoxy.com/lauds).
 
 ["Against Vision Statements," *Mere Orthodoxy,* 11 June 2025](https://mereorthodoxy.com/against-vision-statements).
@@ -224,6 +226,8 @@ Creative Nonfiction workshop leader, McBride Writers Festival, Oklahoma Christia
 
 ## Conferencing
 
+Participant, Front Porch Republic conference, October 2025.
+
 "Toward a Rhetorical Gift Aesthetics for Literary Nonfiction." Baylor Symposium on Faith and Culture: Art Seeking Understanding, 26 October 2022. 
 
 Invited participant, *Orion Magazine* environmental writing workshop with Christopher Merrill, six weeks in spring 2022.
@@ -265,6 +269,8 @@ Invited participant, THATCamp Southeast Missouri, digital humanities unconferenc
 “‘To Hell with Truth!’: Faith, Nihilism, and Death in Eugene O’Neill’s *The Iceman Cometh*.” Southwest Conference on Christianity and Literature 2008.
  
 ## Local Presentations
+
+Panelist, "AI in the Classroom," College of the Ozarks Faculty Workshops, 21 August 2025. 
 
 Library Lecture and Lunch panel with Dr. Charity Gibson and Dr. Aleshia O'Neal, Lyons Memorial Library, College of the Ozarks, 9 April 2025.
 
@@ -336,6 +342,7 @@ Community Collaborative Rain, Hail, and Snow Network (CoCoRaHS)
 
 ## Honors and Awards
 
+- Winner, "One Room One Hour" writing contest, 2025. $1000
 - Awarded College of the Ozarks summer enrichment funding, 2025. $413
 - Granted a College of the Ozarks sabbatical for writing and research, spring 2026.
 - Awarded College of the Ozarks summer enrichment funding, 2024. $300

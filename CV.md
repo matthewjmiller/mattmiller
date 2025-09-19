@@ -164,7 +164,7 @@ York College, Nebraska, May 2007, with highest honors
 
 Content Marketing and Technical Communications Consultant, 2010-present.
 
-Research Strategist + Technical Writer, MarketPlace, the Food Marketing Agency, 2014-2018.
+Brand Strategist + Writer, MarketPlace Branding, 2014-2018.
 
 ## Teaching Experience
 
@@ -217,8 +217,6 @@ Panelist, with Jeffrey Bilbro and Ashley Hales, discussing Thoreau's *Walden* fo
 [Quoted by Mic.com](https://mic.com/articles/187794/kombucha-kale-kardashian-manuka-honey-the-life-cycle-of-a-health-trend-how-food-transforms-into-a-miracle-remedy) as an expert source on food marketing.
 
 ## Readings and Appearances
-
-Featured reader at St. Joseph Anglican Church open mic night, Branson, MO, date TBD. 
 
 Reading from *Leaves of Healing,* Full Circle Books, Oklahoma City, 28 March 2025.
 
@@ -320,6 +318,7 @@ Community Collaborative Rain, Hail, and Snow Network (CoCoRaHS)
 
 ## Editorial
 
+- Associate Editor, *Front Porch Republic Books,* 2025-present.
 - Contributing Editor, *Front Porch Republic,* 2024-present.
 - Editor/coordinator, College of the Ozarks writing awards webzine, 2020.
 

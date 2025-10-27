@@ -32,21 +32,23 @@ Graduate Instructor in English, 2010-2014.
 
 ### Essays
 
-["Flatwater,"](https://www.cerealcityreview.com/issue-1-fiction-miller) *Cereal City Review,* 25 October 2025. Originally published as ["Crossing Flatwater."](https://www.academia.edu/43221215/Crossing_Flatwater) *Big Muddy,* 29 May 2020. 
+"Coon Creek." Forthcoming in *The New Territory,* 2026.
 
-["A Room of My Own," *One Room One Hour,* 21 August 2025](https://oneroomonehour.substack.com/p/a-room-of-my-own). 
+["Literary Landscapes: Ted Kooser's Seward County, NE."](https://newterritorymag.com/literary-landscapes/ted-kooser-seward-county-nebraska/) *The New Territory,* 22 December 2020. Reprinted in *Lingering Inland: A Literary Tour of the Midwest,* U of Illinois P, 2025.
 
-["Lauds," *Mere Orthodoxy,* 27 June 2025](https://mereorthodoxy.com/lauds).
+["Flatwater."](https://www.cerealcityreview.com/issue-1-fiction-miller) *Cereal City Review,* 25 October 2025. Originally published as ["Crossing Flatwater,"](https://www.academia.edu/43221215/Crossing_Flatwater) *Big Muddy,* 29 May 2020. 
 
-["Against Vision Statements," *Mere Orthodoxy,* 11 June 2025](https://mereorthodoxy.com/against-vision-statements).
+["A Room of My Own." *One Room One Hour,* 21 August 2025](https://oneroomonehour.substack.com/p/a-room-of-my-own). 
 
-["Writing Exile and Reading Homeward," *Front Porch Republic,* 14 February 2025](https://www.frontporchrepublic.com/2025/02/writing-exile-and-reading-homeward/).
+["Lauds," *Mere Orthodoxy.* 27 June 2025](https://mereorthodoxy.com/lauds).
+
+["Against Vision Statements." *Mere Orthodoxy,* 11 June 2025](https://mereorthodoxy.com/against-vision-statements).
+
+["Writing Exile and Reading Homeward." *Front Porch Republic,* 14 February 2025](https://www.frontporchrepublic.com/2025/02/writing-exile-and-reading-homeward/).
 
 ["New Initiatives at the Center for Needless Splendor." *Mere Orthodoxy,* 12 February 2025](https://mereorthodoxy.com/center-for-needless-splendor).
 
 ["Literary Landscapes: John G. Neihardt, Koi Garden Plaza, Branson, MO." *The New Territory,* 29 January 2025.](https://newterritorymag.com/literary-landscapes/john-g-niehardt-branson-missouri/)
-
-["Literary Landscapes: Ted Kooser's Seward County, NE."](https://newterritorymag.com/literary-landscapes/ted-kooser-seward-county-nebraska/) *The New Territory,* 22 December 2020. Forthcoming fall 2025 reprint in *Lingering Inland: A Literary Tour of the Midwest,* 3 Fields Books.
 
 "Empty Words: Against Artificial Language." *Mere Orthodoxy Journal* (Fall 2024). [Published online 13 November 2024](https://mereorthodoxy.com/empty-words-against-artificial-language).
 

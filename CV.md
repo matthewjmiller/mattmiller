@@ -32,6 +32,8 @@ Graduate Instructor in English, 2010-2014.
 
 ### Essays
 
+["Flatwater,"](https://www.cerealcityreview.com/issue-1-fiction-miller) *Cereal City Review,* 25 October 2025. Originally published as ["Crossing Flatwater."](https://www.academia.edu/43221215/Crossing_Flatwater) *Big Muddy,* 29 May 2020. 
+
 ["A Room of My Own," *One Room One Hour,* 21 August 2025](https://oneroomonehour.substack.com/p/a-room-of-my-own). 
 
 ["Lauds," *Mere Orthodoxy,* 27 June 2025](https://mereorthodoxy.com/lauds).
@@ -61,8 +63,6 @@ Graduate Instructor in English, 2010-2014.
 ["Ravining."](https://www.frontporchrepublic.com/2021/01/ravining/) *Front Porch Republic,* 11 January 2021.
 
 ["In the Country I Know by Heart."](https://web.archive.org/web/20201021010641/https://criticalread.org/art-is-essential-october-2020/) *Critical Read,* 5 October 2020.
-
-["Crossing Flatwater."](https://www.academia.edu/43221215/Crossing_Flatwater) *Big Muddy,* 29 May 2020.
 
 ["Tropical Fruits of the Lower Midwest."](https://www.frontporchrepublic.com/2020/01/tropical-fruits-of-the-lower-midwest/) *Front Porch Republic,* 8 January 2020.
 

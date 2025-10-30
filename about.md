@@ -9,7 +9,7 @@ I write essays that praise the mutilated world and teach writing at College of t
 
 Photo by Rachel Miller
 
-![Totally human](https://github.com/matthewjmiller/mattmiller/blob/gh-pages/_assets/TH-1-1536x1536.png)
+![Totally human](https://github.com/matthewjmiller/mattmiller/blob/gh-pages/_assets/TH-1-1536x1536.png?raw=true)
 
 My writing is [totally human](https://www.betotallyhuman.com/) and you will never find algorithm-generated words or images in my writing in any respect. 
 

@@ -137,7 +137,9 @@ Review of Sarah Beckwith, *Shakespeare and the Grammar of Forgiveness.* In *Ecum
 
 ### Newsletter
 
-[A Habitation](https://habitation.substack.com/)
+Currently: [The Household of Letters](https://buttondown.com/matthewjmiller)
+
+Formerly: [A Habitation](https://habitation.substack.com/)
 
 ## Education
 

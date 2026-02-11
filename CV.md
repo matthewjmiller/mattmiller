@@ -12,6 +12,8 @@ Associate Professor of English, 2024-present.
 
 Interim Director of the Writing Center, 2024.
 
+Director, [Center for Needless Splendor](https://mereorthodoxy.com/center-for-needless-splendor), 2023-present.
+
 Assistant Professor of English, 2018-2024.
 
 ### Saint Louis University
@@ -82,10 +84,6 @@ Graduate Instructor in English, 2010-2014.
 [“A Passion for the Possible.”](http://www.curatormagazine.com/matthew-miller/a-passion-for-the-possible/) *Curator*, 15 July 2011.
 
 ### Literary Reviews
-
-Review of Neil King, *American Ramble.* Forthcoming in *Front Porch Republic.*
-
-Review of Rachel S. Gross, *Shopping all the Way to the Woods: How the Outdoor Industry Sold Nature to America.* Forthcoming in *Mere Orthodoxy.*
 
 ["Song of My Self-Emptying." Review of Joe Pug, *Sketch of a Promised Departure,* *Fare Forward,* 28 August 2024.](https://farefwd.com/index.php/2024/08/28/sketch-of-a-promised-departure/)
 
@@ -199,7 +197,7 @@ Readings in Western Civilization, College of the Ozarks, twenty-two sections, fa
 
 College Composition, College of the Ozarks, thirty-two sections, fall 2018-fall 2025.
 
-English Porfolio independent study, eight sections, fall 2020-spring 2025.
+English Porfolio independent study, nine sections, fall 2020-fall 2025.
 
 English internship, spring 2024.
 
@@ -211,7 +209,9 @@ Advanced Strategies of Rhetoric and Research, Saint Louis University, six sectio
 
 ## Media
 
-[Interviewed by Seth Wieck at *Front Porch Republic*](https://bellepointpress.com/products/leaves-of-healing), 17 January 2025.
+[Guest, *The Color of Dust* podcast, discussing the Center for Needless Splendor](https://colorofdust.substack.com/p/85-the-rolling-rood-screen-manifesto), 11 February 2026.
+
+[Interviewed by Seth Wieck at *Front Porch Republic*](https://www.frontporchrepublic.com/2025/01/marking-the-year-on-two-calendars-an-interciew-with-matthew-miller/), 17 January 2025.
 
 [Guest, *The Color of Dust* podcast, discussing *Leaves of Healing,*](https://colorofdust.substack.com/p/34-a-year-in-the-garden-matt-miller) 15 January 2025.
 

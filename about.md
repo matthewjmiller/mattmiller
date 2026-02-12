@@ -9,6 +9,10 @@ I write essays that praise the mutilated world and teach writing at College of t
 
 Photo by Rachel Miller
 
+![Against AI](https://raw.githubusercontent.com/matthewjmiller/mattmiller/refs/heads/gh-pages/_assets/writers%2Bagainst%2BAI%2Blogos_WRITERS%2BAGAINST%2BAI%2B1.webp)
+
+I am a pledged member of the [Against AI Campaign](https://paulkingsnorth.substack.com/p/writers-against-ai)
+
 ![Totally human](https://github.com/matthewjmiller/mattmiller/blob/gh-pages/_assets/TH-1-1536x1536.png?raw=true)
 
 My writing is [totally human](https://www.betotallyhuman.com/) and you will never find algorithm-generated words or images in my writing in any respect. 

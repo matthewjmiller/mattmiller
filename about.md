@@ -11,7 +11,7 @@ Photo by Rachel Miller
 
 ![Against AI](https://raw.githubusercontent.com/matthewjmiller/mattmiller/refs/heads/gh-pages/_assets/writers%2Bagainst%2BAI%2Blogos_WRITERS%2BAGAINST%2BAI%2B1.webp)
 
-I am a pledged member of the [Against AI Campaign](https://paulkingsnorth.substack.com/p/writers-against-ai)
+I am a [Writer Against AI](https://www.writersagainstai.net/)
 
 ![Totally human](https://github.com/matthewjmiller/mattmiller/blob/gh-pages/_assets/TH-1-1536x1536.png?raw=true)
 

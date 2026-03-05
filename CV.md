@@ -86,6 +86,8 @@ Graduate Instructor in English, 2010-2014.
 
 ### Literary Reviews
 
+["From the Stacks: Don Welch's *The Platte River.*" Review of Don Welch, *The Platte River,* *Orange Blossom Ordinary,* 5 March 2026](https://www.orangeblossomordinary.com/reviews/from-the-stacks-don-welchs-the-platte-river).
+
 ["Song of My Self-Emptying." Review of Joe Pug, *Sketch of a Promised Departure,* *Fare Forward,* 28 August 2024.](https://farefwd.com/index.php/2024/08/28/sketch-of-a-promised-departure/)
 
 ["Finding a Home Field." Review of Tiffany Eberle Kriner, *In Thought, Word, and Seed,*](https://www.frontporchrepublic.com/2024/02/finding-a-home-field-a-review-of-in-thought-word-and-seed/) *Front Porch Republic,* 26 February 2024.

@@ -28,7 +28,8 @@ Graduate Instructor in English, 2010-2014.
 
 [*Leaves of Healing: A Year in the Garden.* Belle Point Press, 2024.](https://bellepointpress.com/products/leaves-of-healing)
 
-> [Excerpt published at *Front Porch Republic*](https://www.frontporchrepublic.com/2024/11/belonging-to-the-garden/)    
+> Review by Gracy Olmstead at *Mere Orthodoxy,* spring 2026.
+> [Excerpt published at *Front Porch Republic*](https://www.frontporchrepublic.com/2024/11/belonging-to-the-garden/).    
 > [Written interview about the book at *Front Porch Republic*](https://www.frontporchrepublic.com/2025/01/marking-the-year-on-two-calendars-an-interciew-with-matthew-miller/).    
 > [Podcast interview about the book at the *Color of Dust* podcast](https://colorofdust.substack.com/p/34-a-year-in-the-garden-matt-miller).    
 > [Review by Chris Gregorio at *Fare Forward*, 16 April 2025](https://farefwd.com/index.php/2025/04/16/leaves-of-healing/).     

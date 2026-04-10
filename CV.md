@@ -226,6 +226,8 @@ Panelist, with Jeffrey Bilbro and Ashley Hales, discussing Thoreau's *Walden* fo
 
 ## Readings and Appearances
 
+Reading from *Leaves of Healing,* St. Joseph Anglican Church, Branson, MO, 1 May 2026.
+
 Reading from *Leaves of Healing,* Full Circle Books, Oklahoma City, 28 March 2025.
 
 Creative Nonfiction workshop leader, McBride Writers Festival, Oklahoma Christian University, 29 March 2025.
@@ -258,9 +260,9 @@ Participant, "Front Porch Republic: the Legacy of Wendell Berry," University of 
 
 Invited participant, THATCamp Southeast Missouri, digital humanities unconference with a special focus on rural issues, Arcadia, Missouri, 2013. 
 
-“The Dangerous Gift of Speech: Fraudulent Rhetoric in *Troilus and Criseyde*.” New Chaucer Society Biennial Congress 2012. 
+“The Dangerous Gift of Speech: Fraudulent Rhetoric in *Troilus and Criseyde*.” New Chaucer Society Biennial Congress 2012. 
 
-“Charity and Gift Exchange in the York Doomsday.” International Congress on Medieval Studies 2012. 
+“Charity and Gift Exchange in the York Doomsday.” International Congress on Medieval Studies 2012. 
 
 “Richard Miller's Secular Eschatology.” CCCC 2011. 
 
@@ -346,6 +348,11 @@ Community Collaborative Rain, Hail, and Snow Network (CoCoRaHS)
 - Elected Undergraduate Committee Representative, English Graduate Organization, Saint Louis University, 2011-2012. 
 - Member, Local Arrangements Committee, CCCC 2011. 
 - Session organizer, “Gateways through the Apocalypse: a Panel Response to Richard Miller's *Writing at the End of the World*,” Conference on College Composition and Communication, 2011. 
+
+## Ecclesial Service
+
+- Rector Search Committee, All Saints Anglican Church, Springfield, MO, 2025-2026.
+- Rector Search Committee, All Saints Anglican Church, Springfield, MO, 2022. 
 
 ## Honors and Awards
 

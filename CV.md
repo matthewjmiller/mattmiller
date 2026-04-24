@@ -356,11 +356,11 @@ Community Collaborative Rain, Hail, and Snow Network (CoCoRaHS)
 
 ## Honors and Awards
 
+- Awarded College of the Ozarks summer enrichment funding, 2026. $1000
 - Winner, "One Room One Hour" writing contest, 2025. $1000
 - Awarded College of the Ozarks summer enrichment funding, 2025. $413
 - Granted a College of the Ozarks sabbatical for writing and research, spring 2026.
 - Awarded College of the Ozarks summer enrichment funding, 2024. $300
-- Awarded College of the Ozarks summer enrichment funding, 2023. $300
 - Awarded College of the Ozarks summer enrichment funding, 2023. $350
 - Awarded College of the Ozarks summer enrichment funding, 2022. $515
 - Awarded College of the Ozarks summer enrichment funding, 2021. $900

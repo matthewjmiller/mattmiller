@@ -38,7 +38,9 @@ Graduate Instructor in English, 2010-2014.
 
 "Coon Creek." Forthcoming in *The New Territory,* 2026.
 
-["Literary Landscapes: Ted Kooser's Seward County, NE."](https://newterritorymag.com/literary-landscapes/ted-kooser-seward-county-nebraska/) *The New Territory,* 22 December 2020. Reprinted in *Lingering Inland: A Literary Tour of the Midwest,* U of Illinois P, 2025.
+["Literary Landscapes: Ted Kooser's Seward County, NE."](https://newterritorymag.com/literary-landscapes/ted-kooser-seward-county-nebraska/) *The New Territory,* 22 December 2020. Reprinted in *Lingering Inland: A Literary Tour of the Midwest,* U of Illinois P, 2025. 
+
+> [Finalist, Humanities category, Midwest Book Awards 2026](https://www.mipa.org/midwest-book-awards/2026-finalists/). 
 
 ["Flatwater."](https://www.cerealcityreview.com/issue-1-fiction-miller) *Cereal City Review,* 25 October 2025. Originally published as ["Crossing Flatwater,"](https://www.academia.edu/43221215/Crossing_Flatwater) *Big Muddy,* 29 May 2020. 
 

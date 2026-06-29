@@ -36,6 +36,8 @@ Graduate Instructor in English, 2010-2014.
 
 ### Essays 
 
+"Small But Ripening." Forthcoming in *The Center for Humans and Nature Digital.*
+
 "Coon Creek." Forthcoming in *The New Territory,* 2026.
 
 ["On My Roof." *Front Porch Republic,* 26 June 2026](https://www.frontporchrepublic.com/2026/06/on-my-roof/).

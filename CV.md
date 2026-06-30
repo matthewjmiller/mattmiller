@@ -92,6 +92,8 @@ Graduate Instructor in English, 2010-2014.
 
 ### Literary Reviews
 
+["The Poet Watches Birds." Review of Jennifer A. Hartenburg, *Instructions for Waking,* *The University Bookman,* 21 June 2026](https://kirkcenter.org/reviews/the-poet-watches-birds/).
+
 ["From the Stacks: Don Welch's *The Platte River.*" Review of Don Welch, *The Platte River,* *Orange Blossom Ordinary,* 5 March 2026](https://www.orangeblossomordinary.com/reviews/from-the-stacks-don-welchs-the-platte-river).
 
 ["Song of My Self-Emptying." Review of Joe Pug, *Sketch of a Promised Departure,* *Fare Forward,* 28 August 2024.](https://farefwd.com/index.php/2024/08/28/sketch-of-a-promised-departure/)

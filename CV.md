@@ -50,8 +50,6 @@ Graduate Instructor in English, 2010-2014.
 
 ["A Room of My Own." *One Room One Hour,* 21 August 2025](https://oneroomonehour.substack.com/p/a-room-of-my-own). 
 
-["Lauds," *Mere Orthodoxy.* 27 June 2025](https://mereorthodoxy.com/lauds).
-
 ["Against Vision Statements." *Mere Orthodoxy,* 11 June 2025](https://mereorthodoxy.com/against-vision-statements).
 
 ["Writing Exile and Reading Homeward." *Front Porch Republic,* 14 February 2025](https://www.frontporchrepublic.com/2025/02/writing-exile-and-reading-homeward/).
@@ -67,10 +65,6 @@ Graduate Instructor in English, 2010-2014.
 ["Composition as the Art of Loading Brush."](https://www.frontporchrepublic.com/2023/05/composition-as-the-art-of-loading-brush/) *Front Porch Republic,* 26 May 2023.
 
 ["Suppose Him to be the Gardener."](http://farefwd.com/index.php/2022/06/01/suppose-him-to-be-the-gardener/) *Fare Forward* 19, 01 June 2022. 
-
-["On Country Cemeteries."](http://www.whaleroadreview.com/miller-3/) *Whale Road Review* 24 (Fall 2021), 10 September 2021.
-
-["Milkweed Prayer."](https://go.umhb.edu/files/The-Windhover-25.1-Sample.pdf) *The Windhover* 25.1, February 2021.
 
 ["Ravining."](https://www.frontporchrepublic.com/2021/01/ravining/) *Front Porch Republic,* 11 January 2021.
 
@@ -89,6 +83,16 @@ Graduate Instructor in English, 2010-2014.
 [“#NewNebraskaSlogan and a New Rhetoric for the Midwest.”](http://www.curatormagazine.com/matthew-miller/newnebraskaslogan-and-a-new-rhetoric-for-the-midwest/) *Curator,* 21 October 2011. 
 
 [“A Passion for the Possible.”](http://www.curatormagazine.com/matthew-miller/a-passion-for-the-possible/) *Curator*, 15 July 2011.
+
+### Flash Essays / Prose Poems
+
+"The Color of the Country." Forthcoming in *Reject.*
+
+["Lauds," *Mere Orthodoxy.* 27 June 2025](https://mereorthodoxy.com/lauds).
+
+["On Country Cemeteries."](http://www.whaleroadreview.com/miller-3/) *Whale Road Review* 24 (Fall 2021), 10 September 2021.
+
+["Milkweed Prayer."](https://go.umhb.edu/files/The-Windhover-25.1-Sample.pdf) *The Windhover* 25.1, February 2021.
 
 ### Literary Reviews
 
@@ -129,6 +133,8 @@ Graduate Instructor in English, 2010-2014.
 “A Kind of Giant and Intricate Poetry.” Review of David Lyle Jeffrey and Gregory Maillet, *Christianity and Literature: Philosophical Foundations and Critical Practice.* *Intégrité* 16.1 (2017).
 
 ### Academic
+
+*A Theology of Home Repair.* Forthcoming in *Faithful Lives.*
 
 "Burying AI in the Garden of Good Work." *Faithful Lives* 2025.
 
@@ -182,19 +188,23 @@ Brand Strategist + Writer, MarketPlace Branding, 2014-2018.
 
 ## Teaching Experience
 
-Philosophy of Literature, College of the Ozarks, fall 2025.
+Philosophy of Literature, College of the Ozarks, fall 2025, fall 2026.
 
-Seminar in Rhetoric: Wendell Berry, College of the Ozarks, fall 2023. 
+Seminar in Rhetoric: Wendell Berry, College of the Ozarks, fall 2023, fall 2026. 
 
 Seminar in Rhetoric: Rural Writing, College of the Ozarks, fall 2020.
 
 The American Novel: Land, Community, Race, and Spirituality, College of the Ozarks, two sections, fall 2021, fall 2022.
 
-Topics in Writing and Rhetoric: Place Writing, spring 2025.
+Topics in Writing and Rhetoric: History of Rhetoric, College of the Ozarks, spring 2027.
+
+Topics in Writing and Rhetoric: Place Writing, College of the Ozarks, spring 2025.
 
 Interdisciplinary Special Topics: Speaking Christian, College of the Ozarks, spring 2023. Cotaught with Dr. Paige Ray.
 
 Interdisciplinary Special Topics: Stories and Soil, College of the Ozarks, fall 2024. Cotaught with Dr. Micah Humphreys.
+
+Interdisciplinary Special Topics: The Walking Class, College of the Ozarks, fall 2026. Cotaught with Dr. Anthony Cirilla.
 
 Survey of American Literature II, College of the Ozarks, fall 2019.
 
@@ -204,9 +214,9 @@ Technical Writing, College of the Ozarks, five sections, fall 2018, springs 2021
 
 Agricultural Engineering Fundamentals: Technical Writing Lab, College of the Ozarks, spring 2020.
 
-Readings in Western Civilization, College of the Ozarks, twenty-two sections, fall 2018-fall 2025.
+Readings in Western Civilization, College of the Ozarks, twenty-three sections, fall 2018-spring 2027.
 
-College Composition, College of the Ozarks, thirty-two sections, fall 2018-fall 2025.
+College Composition, College of the Ozarks, thirty-four sections, fall 2018-fall 2026.
 
 English Porfolio independent study, nine sections, fall 2020-fall 2025.
 
@@ -241,6 +251,8 @@ Reading from *Leaves of Healing,* Full Circle Books, Oklahoma City, 28 March 202
 Creative Nonfiction workshop leader, McBride Writers Festival, Oklahoma Christian University, 29 March 2025.
 
 ## Conferencing
+
+"Caretakers of Lost Places," Midwest and Southwest Regional Conference on Christianity and Literature, 26 September 2026.
 
 Participant, Front Porch Republic conference, October 2025.
 
@@ -285,6 +297,8 @@ Invited participant, THATCamp Southeast Missouri, digital humanities unconferenc
 “‘To Hell with Truth!’: Faith, Nihilism, and Death in Eugene O’Neill’s *The Iceman Cometh*.” Southwest Conference on Christianity and Literature 2008.
  
 ## Local Presentations
+
+Panelist, Sabbatical Presentations, College of the Ozarks, 5 October 2026.
 
 Panelist, "AI in the Classroom," College of the Ozarks Faculty Workshops, 21 August 2025. 
 

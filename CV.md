@@ -252,6 +252,8 @@ Creative Nonfiction workshop leader, McBride Writers Festival, Oklahoma Christia
 
 ## Conferencing
 
+Participant, Front Porch Republic conference, October 2026.
+
 "Caretakers of Lost Places," Midwest and Southwest Regional Conference on Christianity and Literature, 26 September 2026.
 
 Participant, Front Porch Republic conference, October 2025.
@@ -297,6 +299,8 @@ Invited participant, THATCamp Southeast Missouri, digital humanities unconferenc
 “‘To Hell with Truth!’: Faith, Nihilism, and Death in Eugene O’Neill’s *The Iceman Cometh*.” Southwest Conference on Christianity and Literature 2008.
  
 ## Local Presentations
+
+"Walking at the Speed of Love." School of the Ozarks chapel, 16 October 2026.
 
 Panelist, Sabbatical Presentations, College of the Ozarks, 5 October 2026.
 

@@ -40,6 +40,8 @@ Graduate Instructor in English, 2010-2014.
 
 "Coon Creek." Forthcoming in *The New Territory,* 2026.
 
+["Elizabeth Barrett Browning’s *Sonnets from the Portuguese,*" *Local Culture* 8.2 (2026).](https://www.frontporchrepublic.com/local-culture-archives/) 
+
 ["On My Roof." *Front Porch Republic,* 26 June 2026](https://www.frontporchrepublic.com/2026/06/on-my-roof/).
 
 ["Literary Landscapes: Ted Kooser's Seward County, NE."](https://newterritorymag.com/literary-landscapes/ted-kooser-seward-county-nebraska/) *The New Territory,* 22 December 2020. Reprinted in *Lingering Inland: A Literary Tour of the Midwest,* U of Illinois P, 2025. 
